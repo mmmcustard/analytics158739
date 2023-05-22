@@ -1,0 +1,558 @@
+,name,city,country,surface,code,start_date,end_date,season,country_code
+1002,Brisbane International,Brisbane,Australia,Outdoor Hard,ATP,2018-12-31,2019-01-06,2019,AUS
+1001,Qatar ExxonMobil Open,Doha,Qatar,Outdoor Hard,ATP,2018-12-31,2019-01-05,2019,QAT
+1003,Tata Open Maharashtra,Pune,India,Outdoor Hard,ATP,2018-12-31,2019-01-05,2019,IND
+1004,Sydney International,Sydney,Australia,Outdoor Hard,ATP,2019-01-06,2019-01-12,2019,AUS
+1005,ASB Classic,Auckland,New Zealand,Outdoor Hard,ATP,2019-01-07,2019-01-12,2019,NZL
+1006,Australian Open,Melbourne,Australia,Outdoor Hard,ATP,2019-01-14,2019-01-27,2019,AUS
+1008,Cordoba Open,Cordoba,Argentina,Outdoor Clay,ATP,2019-02-04,2019-02-10,2019,ARG
+1009,Open Sud de France,Montpellier,France,Indoor Hard,ATP,2019-02-04,2019-02-10,2019,FRA
+1010,Sofia Open,Sofia,Bulgaria,Indoor Hard,ATP,2019-02-04,2019-02-10,2019,BGR
+1011,ABN AMRO World Tennis Tournament,Rotterdam,Netherlands,Indoor Hard,ATP,2019-02-11,2019-02-17,2019,NLD
+1012,New York Open,New York,NY,Indoor Hard,ATP,2019-02-11,2019-02-17,2019,False
+1013,Argentina Open,Buenos Aires,Argentina,Outdoor Clay,ATP,2019-02-11,2019-02-17,2019,ARG
+1014,Rio Open presented by Claro,Rio de Janeiro,Brazil,Outdoor Clay,ATP,2019-02-18,2019-02-24,2019,BRA
+1015,Open 13 Provence,Marseille,France,Indoor Hard,ATP,2019-02-18,2019-02-24,2019,FRA
+1016,Delray Beach Open by VITACOST.com,Delray Beach,USA,Outdoor Hard,ATP,2019-02-18,2019-02-24,2019,USA
+1019,Brasil Open,Sao Paulo,Brazil,Indoor Clay,ATP,2019-02-25,2019-03-03,2019,BRA
+1017,Dubai Duty Free Tennis Championships,Dubai,U.A.E.,Outdoor Hard,ATP,2019-02-25,2019-03-02,2019,False
+1018,Abierto Mexicano Telcel presentado por HSBC,Acapulco,Mexico,Outdoor Hard,ATP,2019-02-25,2019-03-02,2019,MEX
+1020,BNP Paribas Open,Indian Wells,USA,Outdoor Hard,ATP,2019-03-07,2019-03-17,2019,USA
+1021,Miami Open presented by Itau,Miami,USA,Outdoor Hard,ATP,2019-03-20,2019-03-31,2019,USA
+1023,Fayez Sarofim & Co. U.S. Men's Clay Court Championship,Houston,USA,Outdoor Clay,ATP,2019-04-08,2019-04-14,2019,USA
+1024,Grand Prix Hassan II,Marrakech,Morocco,Outdoor Clay,ATP,2019-04-08,2019-04-14,2019,MAR
+1025,Rolex Monte-Carlo Masters,Monte Carlo,Monaco,Outdoor Clay,ATP,2019-04-14,2019-04-21,2019,MCO
+1027,Hungarian Open,Budapest,Hungary,Outdoor Clay,ATP,2019-04-22,2019-04-28,2019,HUN
+1026,Barcelona Open Banc Sabadell,Barcelona,Spain,Outdoor Clay,ATP,2019-04-22,2019-04-28,2019,ESP
+1028,BMW Open by FWU,Munich,Germany,Outdoor Clay,ATP,2019-04-29,2019-05-05,2019,DEU
+1029,Millennium Estoril Open,Estoril,Portugal,Outdoor Clay,ATP,2019-04-29,2019-05-05,2019,PRT
+1030,Mutua Madrid Open,Madrid,Spain,Outdoor Clay,ATP,2019-05-05,2019-05-12,2019,ESP
+1031,Internazionali BNL d'Italia,Rome,Italy,Outdoor Clay,ATP,2019-05-12,2019-05-19,2019,ITA
+1032,Banque Eric Sturdza Geneva Open,Geneva,Switzerland,Outdoor Clay,ATP,2019-05-19,2019-05-25,2019,CHE
+1033,Open Parc Auvergne-Rhone-Alpes Lyon,Lyon,France,Outdoor Clay,ATP,2019-05-19,2019-05-25,2019,FRA
+1034,Roland Garros,Paris,France,Outdoor Clay,ATP,2019-05-26,2019-06-09,2019,FRA
+1036,Libema Open,s-Hertogenbosch,Netherlands,Outdoor Grass,ATP,2019-06-10,2019-06-16,2019,NLD
+1035,MercedesCup,Stuttgart,Germany,Outdoor Grass,ATP,2019-06-10,2019-06-16,2019,DEU
+1037,Fever-Tree Championships,London,Great Britain,Outdoor Grass,ATP,2019-06-17,2019-06-23,2019,False
+1038,NOVENTI OPEN,Halle,Germany,Outdoor Grass,ATP,2019-06-17,2019-06-23,2019,DEU
+1039,Turkish Airlines Open Antalya,Antalya,Turkey,Outdoor Grass,ATP,2019-06-23,2019-06-29,2019,TUR
+1040,Nature Valley International,Eastbourne,Great Britain,Outdoor Grass,ATP,2019-06-24,2019-06-29,2019,False
+1041,Wimbledon,London,Great Britain,Outdoor Grass,ATP,2019-07-01,2019-07-14,2019,False
+1042,Hall of Fame Open,Newport,USA,Outdoor Grass,ATP,2019-07-14,2019-07-21,2019,USA
+1043,Plava Laguna Croatia Open Umag,Umag,Croatia,Outdoor Clay,ATP,2019-07-15,2019-07-21,2019,HRV
+1044,Nordea Open,Bastad,Sweden,Outdoor Clay,ATP,2019-07-15,2019-07-21,2019,SWE
+1045,Hamburg European Open,Hamburg,Germany,Outdoor Clay,ATP,2019-07-22,2019-07-28,2019,DEU
+1046,BB&T Atlanta Open,Atlanta,USA,Outdoor Hard,ATP,2019-07-22,2019-07-28,2019,USA
+1047,J. Safra Sarasin Swiss Open Gstaad,Gstaad,Switzerland,Outdoor Clay,ATP,2019-07-22,2019-07-28,2019,CHE
+1048,Citi Open,Washington,USA,Outdoor Hard,ATP,2019-07-27,2019-08-04,2019,USA
+1049,Abierto de Tenis Mifel presentado por Cinemex,Los Cabos,Mexico,Outdoor Hard,ATP,2019-07-29,2019-08-03,2019,MEX
+1050,Generali Open,Kitzbuhel,Austria,Outdoor Clay,ATP,2019-07-29,2019-08-03,2019,AUT
+1051,Coupe Rogers,Montreal,Canada,Outdoor Hard,ATP,2019-08-05,2019-08-11,2019,CAN
+1052,Western & Southern Open,Cincinnati,USA,Outdoor Hard,ATP,2019-08-11,2019-08-18,2019,USA
+1053,Winston-Salem Open,Winston-Salem,USA,Outdoor Hard,ATP,2019-08-18,2019-08-24,2019,USA
+1054,US Open,New York,USA,Outdoor Hard,ATP,2019-08-26,2019-09-08,2019,USA
+1056,St. Petersburg Open,St. Petersburg,Russia,Indoor Hard,ATP,2019-09-15,2019-09-22,2019,False
+1057,Moselle Open,Metz,France,Indoor Hard,ATP,2019-09-15,2019-09-22,2019,FRA
+1058,Chengdu Open,Chengdu,China,Outdoor Hard,ATP,2019-09-23,2019-09-29,2019,CHN
+1059,Huajin Securities Zhuhai Championships,Zhuhai,China,Outdoor Hard,ATP,2019-09-23,2019-09-29,2019,CHN
+1060,China Open,Beijing,China,Outdoor Hard,ATP,2019-09-30,2019-10-06,2019,CHN
+1061,Rakuten Japan Open Tennis Championships,Tokyo,Japan,Outdoor Hard,ATP,2019-09-30,2019-10-06,2019,JPN
+1062,Rolex Shanghai Masters,Shanghai,China,Outdoor Hard,ATP,2019-10-06,2019-10-13,2019,CHN
+1063,VTB Kremlin Cup,Moscow,Russia,Indoor Hard,ATP,2019-10-14,2019-10-20,2019,False
+1064,European Open,Antwerp,Belgium,Indoor Hard,ATP,2019-10-14,2019-10-20,2019,BEL
+1065,Stockholm Open,Stockholm,Sweden,Indoor Hard,ATP,2019-10-14,2019-10-20,2019,SWE
+1066,Erste Bank Open,Vienna,Austria,Indoor Hard,ATP,2019-10-21,2019-10-27,2019,AUT
+1067,Swiss Indoors Basel,Basel,Switzerland,Indoor Hard,ATP,2019-10-21,2019-10-27,2019,CHE
+1068,Rolex Paris Masters,Paris,France,Indoor Hard,ATP,2019-10-28,2019-11-03,2019,FRA
+1069,Next Gen ATP Finals,Milan,Italy,Indoor Hard,ATP,2019-11-05,2019-11-09,2019,ITA
+1070,Nitto ATP Finals,London,Great Britain,Indoor Hard,ATP,2019-11-10,2019-11-17,2019,False
+1143,Qatar ExxonMobil Open,Doha,Qatar,Outdoor Hard,ATP,2020-01-06,2020-01-11,2020,QAT
+1144,Adelaide International,Adelaide,Australia,Outdoor Hard,ATP,2020-01-12,2020-01-18,2020,AUS
+1145,ASB Classic,Auckland,New Zealand,Outdoor Hard,ATP,2020-01-13,2020-01-18,2020,NZL
+1146,Australian Open,Melbourne,Australia,Outdoor Hard,ATP,2020-01-20,2020-02-03,2020,AUS
+1147,Cordoba Open,Cordoba,Argentina,Outdoor Clay,ATP,2020-02-03,2020-02-09,2020,ARG
+1148,Open Sud de France,Montpellier,France,Indoor Hard,ATP,2020-02-03,2020-02-09,2020,FRA
+1149,Tata Open Maharashtra,Pune,India,Outdoor Hard,ATP,2020-02-03,2020-02-09,2020,IND
+1150,ABN AMRO World Tennis Tournament,Rotterdam,Netherlands,Indoor Hard,ATP,2020-02-10,2020-02-16,2020,NLD
+1151,Argentina Open,Buenos Aires,Argentina,Outdoor Clay,ATP,2020-02-10,2020-02-16,2020,ARG
+1152,New York Open,New York,NY,Indoor Hard,ATP,2020-02-10,2020-02-16,2020,False
+1153,Rio Open presented by Claro,Rio de Janeiro,Brazil,Outdoor Clay,ATP,2020-02-17,2020-02-23,2020,BRA
+1154,Delray Beach Open by VITACOST.com,Delray Beach,USA,Outdoor Hard,ATP,2020-02-17,2020-02-23,2020,USA
+1155,Open 13 Provence,Marseille,France,Indoor Hard,ATP,2020-02-17,2020-02-23,2020,FRA
+1156,Abierto Mexicano Telcel presentado por HSBC,Acapulco,Mexico,Outdoor Hard,ATP,2020-02-24,2020-02-29,2020,MEX
+1157,Chile Dove Men+Care Open,Santiago,Chile,Outdoor Clay,ATP,2020-02-24,2020-03-01,2020,CHL
+1158,Dubai Duty Free Tennis Championships,Dubai,U.A.E.,Outdoor Hard,ATP,2020-02-24,2020-02-29,2020,False
+1160,BNP Paribas Open (Suspended),Indian Wells,USA,Outdoor Hard,ATP,2020-03-12,2020-03-22,2020,USA
+1161,Miami Open presented by Itau (Suspended),Miami,USA,Outdoor Hard,ATP,2020-03-25,2020-04-05,2020,USA
+1162,Fayez Sarofim & Co. U.S. Men's Clay Court Championship (Suspended),Houston,USA,Outdoor Clay,ATP,2020-04-06,2020-04-12,2020,USA
+1163,Grand Prix Hassan II (Suspended),Marrakech,Morocco,Outdoor Clay,ATP,2020-04-06,2020-04-12,2020,MAR
+1164,Rolex Monte-Carlo Masters (Suspended),Monte Carlo,Monaco,Outdoor Clay,ATP,2020-04-12,2020-04-19,2020,MCO
+1165,Barcelona Open Banc Sabadell (Suspended),Barcelona,Spain,Outdoor Clay,ATP,2020-04-20,2020-04-26,2020,ESP
+1166,Hungarian Open (Suspended),Budapest,Hungary,Outdoor Clay,ATP,2020-04-20,2020-04-26,2020,HUN
+1167,BMW Open by FWU (Suspended),Munich,Germany,Outdoor Clay,ATP,2020-04-27,2020-05-03,2020,DEU
+1168,Millennium Estoril Open (Suspended),Estoril,Portugal,Outdoor Clay,ATP,2020-04-27,2020-05-03,2020,PRT
+1171,Gonet Geneva Open (Suspended),Geneva,Switzerland,Outdoor Clay,ATP,2020-05-17,2020-05-23,2020,CHE
+1172,Open Parc Auvergne-Rhone-Alpes Lyon (Suspended),Lyon,France,Outdoor Clay,ATP,2020-05-17,2020-05-23,2020,FRA
+1174,Libema Open (Suspended),'s-Hertogenbosch,Netherlands,Outdoor Grass,ATP,2020-06-08,2020-06-14,2020,NLD
+1175,MercedesCup (Suspended),Stuttgart,Germany,Outdoor Grass,ATP,2020-06-08,2020-06-14,2020,DEU
+1177,NOVENTI OPEN (Suspended),Halle,Germany,Outdoor Grass,ATP,2020-06-15,2020-06-21,2020,DEU
+1176,Fever-Tree Championships (Suspended),London,Great Britain,Outdoor Grass,ATP,2020-06-15,2020-06-21,2020,False
+1178,Mallorca Championships (Suspended),Mallorca,Spain,Outdoor Grass,ATP,2020-06-21,2020-06-27,2020,ESP
+1179,Nature Valley International (Suspended),Eastbourne,Great Britain,Outdoor Grass,ATP,2020-06-22,2020-06-27,2020,False
+1180,Wimbledon (Suspended),London,Great Britain,Outdoor Grass,ATP,2020-06-29,2020-07-12,2020,False
+1181,Hall of Fame Open (Suspended),Newport,USA,Outdoor Grass,ATP,2020-07-13,2020-07-19,2020,USA
+1183,Nordea Open (Suspended),Bastad,Sweden,Outdoor Clay,ATP,2020-07-13,2020-07-19,2020,SWE
+1185,Abierto de Tenis Mifel presentado por Cinemex (Suspended),Los Cabos,Mexico,Outdoor Hard,ATP,2020-07-20,2020-07-25,2020,MEX
+1186,Swiss Open Gstaad (Suspended),Gstaad,Switzerland,Outdoor Clay,ATP,2020-07-20,2020-07-26,2020,CHE
+1187,Plava Laguna Croatia Open Umag (Suspended),Umag,Croatia,Outdoor Clay,ATP,2020-07-20,2020-07-26,2020,HRV
+1189,Truist Atlanta Open (Suspended),Atlanta,USA,Outdoor Hard,ATP,2020-07-27,2020-08-02,2020,USA
+1192,Rogers Cup (Suspended),Toronto,Canada,Outdoor Hard,ATP,2020-08-10,2020-08-16,2020,CAN
+1191,Citi Open (Suspended),Washington,USA,Outdoor Hard,ATP,2020-08-14,2020-08-21,2020,USA
+1193,Western & Southern Open,New York,USA,Outdoor Hard,ATP,2020-08-22,2020-08-29,2020,USA
+1194,Winston-Salem Open (Suspended),Winston-Salem,USA,Outdoor Hard,ATP,2020-08-23,2020-08-29,2020,USA
+1195,US Open,New York,USA,Outdoor Hard,ATP,2020-08-31,2020-09-13,2020,USA
+1190,Generali Open,Kitzbuhel,Austria,Outdoor Clay,ATP,2020-09-08,2020-09-13,2020,AUT
+1169,Mutua Madrid Open (Suspended),Madrid,Spain,Outdoor Clay,ATP,2020-09-13,2020-09-20,2020,ESP
+1170,Internazionali BNL d'Italia,Rome,Italy,Outdoor Clay,ATP,2020-09-14,2020-09-21,2020,ITA
+1182,Hamburg European Open,Hamburg,Germany,Outdoor Clay,ATP,2020-09-21,2020-09-27,2020,DEU
+1197,Moselle Open (Suspended),Metz,France,Indoor Hard,ATP,2020-09-21,2020-09-27,2020,FRA
+1173,Roland Garros,Paris,France,Outdoor Clay,ATP,2020-09-27,2020-10-11,2020,FRA
+1200,Chengdu Open (Suspended),Chengdu,China,Outdoor Hard,ATP,2020-09-28,2020-10-04,2020,CHN
+1201,Zhuhai Championships (Suspended),Zhuhai,China,Outdoor Hard,ATP,2020-09-28,2020-10-04,2020,CHN
+1203,China Open (Suspended),Beijing,China,Outdoor Hard,ATP,2020-10-05,2020-10-11,2020,CHN
+1204,Rakuten Japan Open Tennis Championships (Suspended),Tokyo,Japan,Outdoor Hard,ATP,2020-10-05,2020-10-11,2020,JPN
+1205,Rolex Shanghai Masters (Suspended),Shanghai,China,Outdoor Hard,ATP,2020-10-11,2020-10-18,2020,CHN
+1198,St. Petersburg Open,St. Petersburg,Russia,Indoor Hard,ATP,2020-10-12,2020-10-18,2020,False
+1274,Forte Village Sardegna Open,Sardinia,Italy,Outdoor Clay,ATP,2020-10-12,2020-10-18,2020,ITA
+1273,bett1HULKS Indoors,Cologne,Germany,Indoor Hard,ATP,2020-10-12,2020-10-18,2020,DEU
+1207,Stockholm Open (Suspended),Stockholm,Sweden,Indoor Hard,ATP,2020-10-19,2020-10-25,2020,SWE
+1208,VTB Kremlin Cup (Suspended),Moscow,Russia,Indoor Hard,ATP,2020-10-19,2020-10-25,2020,False
+1206,European Open,Antwerp,Belgium,Indoor Hard,ATP,2020-10-19,2020-10-25,2020,BEL
+1275,bett1HULKS Championships,Cologne II,Germany,Indoor Hard,ATP,2020-10-19,2020-10-25,2020,DEU
+1209,Erste Bank Open,Vienna,Austria,Indoor Hard,ATP,2020-10-26,2020-11-01,2020,AUT
+1210,Swiss Indoors Basel (Suspended),Basel,Switzerland,Indoor Hard,ATP,2020-10-26,2020-11-01,2020,CHE
+1276,Astana Open,Nur-Sultan,Kazakhstan,Indoor Hard,ATP,2020-10-26,2020-11-01,2020,KAZ
+1211,Rolex Paris Masters,Paris,France,Indoor Hard,ATP,2020-11-02,2020-11-08,2020,FRA
+1202,Sofia Open,Sofia,Bulgaria,Indoor Hard,ATP,2020-11-08,2020-11-14,2020,BGR
+1212,Next Gen ATP Finals (Suspended),Milan,Italy,Indoor Hard,ATP,2020-11-10,2020-11-14,2020,ITA
+1213,Nitto ATP Finals,London,Great Britain,Indoor Hard,ATP,2020-11-15,2020-11-22,2020,False
+1285,Delray Beach Open by VITACOST.com,Delray Beach,USA,Outdoor Hard,ATP,2021-01-07,2021-01-13,2021,USA
+1286,Antalya Open,Antalya,Turkey,Outdoor Hard,ATP,2021-01-07,2021-01-13,2021,TUR
+1320,ASB Classic (Cancelled),Auckland,New Zealand,Outdoor Hard,ATP,2021-01-11,2021-01-17,2021,NZL
+1287,Great Ocean Road Open,Melbourne,Australia,Outdoor Hard,ATP,2021-02-01,2021-02-07,2021,AUS
+1288,Murray River Open,Melbourne,Australia,Outdoor Hard,ATP,2021-02-01,2021-02-07,2021,AUS
+1321,Tata Open Maharashtra (Postponed),Pune,India,Outdoor Hard,ATP,2021-02-01,2021-02-07,2021,IND
+1283,Australian Open,Melbourne,Australia,Outdoor Hard,ATP,2021-02-08,2021-02-21,2021,AUS
+1323,New York Open (Cancelled),New York,NY,Indoor Hard,ATP,2021-02-08,2021-02-14,2021,False
+1324,Rio Open presented by Claro (Cancelled),Rio de Janeiro,Brazil,Outdoor Clay,ATP,2021-02-15,2021-02-21,2021,BRA
+1290,Open Sud de France,Montpellier,France,Indoor Hard,ATP,2021-02-22,2021-02-28,2021,FRA
+1289,Cordoba Open,Cordoba,Argentina,Outdoor Clay,ATP,2021-02-22,2021-02-28,2021,ARG
+1325,Singapore Tennis Open,Singapore,Singapore,Indoor Hard,ATP,2021-02-22,2021-02-28,2021,SGP
+1326,ABN AMRO World Tennis Tournament,Rotterdam,Netherlands,Indoor Hard,ATP,2021-03-01,2021-03-07,2021,NLD
+1327,Argentina Open,Buenos Aires,Argentina,Outdoor Clay,ATP,2021-03-01,2021-03-07,2021,ARG
+1328,Qatar ExxonMobil Open,Doha,Qatar,Outdoor Hard,ATP,2021-03-08,2021-03-13,2021,QAT
+1329,Open 13 Provence,Marseille,France,Indoor Hard,ATP,2021-03-08,2021-03-14,2021,FRA
+1330,Chile Dove Men+Care Open,Santiago,Chile,Outdoor Clay,ATP,2021-03-08,2021-03-14,2021,CHL
+1331,BNP Paribas Open (Postponed),Indian Wells,USA,Outdoor Hard,ATP,2021-03-11,2021-03-21,2021,USA
+1332,Dubai Duty Free Tennis Championships,Dubai,U.A.E.,Outdoor Hard,ATP,2021-03-14,2021-03-20,2021,False
+1333,Abierto Mexicano Telcel presentado por HSBC,Acapulco,Mexico,Outdoor Hard,ATP,2021-03-15,2021-03-20,2021,MEX
+1334,Miami Open presented by Itau,Miami,USA,Outdoor Hard,ATP,2021-03-24,2021-04-04,2021,USA
+1388,Sardegna Open,Cagliari,Italy,Outdoor Clay,ATP,2021-04-05,2021-04-11,2021,ITA
+1337,Fayez Sarofim & Co. U.S. Men's Clay Court Championship (Cancelled),Houston,USA,Outdoor Clay,ATP,2021-04-05,2021-04-11,2021,USA
+1336,AnyTech365 Andalucia Open,Marbella,Spain,Outdoor Clay,ATP,2021-04-05,2021-04-11,2021,ESP
+1335,Grand Prix Hassan II (Postponed),Marrakech,Morocco,Outdoor Clay,ATP,2021-04-05,2021-04-11,2021,MAR
+1338,Rolex Monte-Carlo Masters,Monte Carlo,Monaco,Outdoor Clay,ATP,2021-04-11,2021-04-18,2021,MCO
+1339,Barcelona Open Banc Sabadell,Barcelona,Spain,Outdoor Clay,ATP,2021-04-19,2021-04-25,2021,ESP
+1340,Serbia Open,Belgrade,Serbia,Outdoor Clay,ATP,2021-04-19,2021-04-25,2021,SRB
+1341,BMW Open,Munich,Germany,Outdoor Clay,ATP,2021-04-26,2021-05-02,2021,DEU
+1342,Millennium Estoril Open,Estoril,Portugal,Outdoor Clay,ATP,2021-04-26,2021-05-02,2021,PRT
+1343,Mutua Madrid Open,Madrid,Spain,Outdoor Clay,ATP,2021-05-02,2021-05-09,2021,ESP
+1344,Internazionali BNL d'Italia,Rome,Italy,Outdoor Clay,ATP,2021-05-09,2021-05-16,2021,ITA
+1345,Gonet Geneva Open,Geneva,Switzerland,Outdoor Clay,ATP,2021-05-16,2021-05-22,2021,CHE
+1346,Open Parc Auvergne-Rhone-Alpes Lyon,Lyon,France,Outdoor Clay,ATP,2021-05-17,2021-05-23,2021,FRA
+1411,Belgrade Open,Belgrade,Serbia,Outdoor Clay,ATP,2021-05-23,2021-05-29,2021,SRB
+1410,Emilia-Romagna Open,Parma,Italy,Outdoor Clay,ATP,2021-05-23,2021-05-29,2021,ITA
+1347,Roland Garros,Paris,France,Outdoor Clay,ATP,2021-05-30,2021-06-13,2021,FRA
+1348,Libema Open (Cancelled),'s-Hertogenbosch,Netherlands,Outdoor Grass,ATP,2021-06-07,2021-06-13,2021,NLD
+1349,MercedesCup,Stuttgart,Germany,Outdoor Grass,ATP,2021-06-08,2021-06-13,2021,DEU
+1351,NOVENTI OPEN,Halle,Germany,Outdoor Grass,ATP,2021-06-14,2021-06-20,2021,DEU
+1350,cinch Championships,London,Great Britain,Outdoor Grass,ATP,2021-06-14,2021-06-20,2021,False
+1352,Mallorca Championships,Mallorca,Spain,Outdoor Grass,ATP,2021-06-20,2021-06-26,2021,ESP
+1353,Viking International Eastbourne,Eastbourne,Great Britain,Outdoor Grass,ATP,2021-06-21,2021-06-26,2021,False
+1354,Wimbledon,London,Great Britain,Outdoor Grass,ATP,2021-06-28,2021-07-11,2021,False
+1355,Hall of Fame Open,Newport,USA,Outdoor Grass,ATP,2021-07-12,2021-07-18,2021,USA
+1356,Hamburg European Open,Hamburg,Germany,Outdoor Clay,ATP,2021-07-12,2021-07-18,2021,DEU
+1357,Nordea Open,Bastad,Sweden,Outdoor Clay,ATP,2021-07-12,2021-07-18,2021,SWE
+1360,Swiss Open Gstaad,Gstaad,Switzerland,Outdoor Clay,ATP,2021-07-19,2021-07-25,2021,CHE
+1358,Mifel Open,Los Cabos,Mexico,Outdoor Hard,ATP,2021-07-19,2021-07-25,2021,MEX
+1359,Plava Laguna Croatia Open Umag,Umag,Croatia,Outdoor Clay,ATP,2021-07-19,2021-07-25,2021,HRV
+1362,Generali Open,Kitzbuhel,Austria,Outdoor Clay,ATP,2021-07-26,2021-07-31,2021,AUT
+1363,Truist Atlanta Open,Atlanta,USA,Outdoor Hard,ATP,2021-07-26,2021-08-01,2021,USA
+1364,Citi Open,Washington,USA,Outdoor Hard,ATP,2021-08-02,2021-08-08,2021,USA
+1365,National Bank Open Presented by Rogers,Toronto,Canada,Outdoor Hard,ATP,2021-08-09,2021-08-15,2021,CAN
+1366,Western & Southern Open,Cincinnati,USA,Outdoor Hard,ATP,2021-08-15,2021-08-22,2021,USA
+1367,Winston-Salem Open,Winston-Salem,USA,Outdoor Hard,ATP,2021-08-22,2021-08-28,2021,USA
+1368,US Open,New York,USA,Outdoor Hard,ATP,2021-08-30,2021-09-12,2021,USA
+1370,St. Petersburg Open,St. Petersburg,Russia,Indoor Hard,ATP,2021-09-20,2021-09-26,2021,False
+1369,Moselle Open,Metz,France,Indoor Hard,ATP,2021-09-20,2021-09-26,2021,FRA
+1374,Zhuhai Championships,Zhuhai,China,Outdoor Hard,ATP,2021-09-27,2021-10-03,2021,CHN
+1373,Sofia Open,Sofia,Bulgaria,Indoor Hard,ATP,2021-09-27,2021-10-03,2021,BGR
+1372,Chengdu Open,Chengdu,China,Outdoor Hard,ATP,2021-09-27,2021-10-03,2021,CHN
+1375,China Open,Beijing,China,Outdoor Hard,ATP,2021-10-04,2021-10-10,2021,CHN
+1376,Rakuten Japan Open Tennis Championships,Tokyo,Japan,Outdoor Hard,ATP,2021-10-04,2021-10-10,2021,JPN
+1377,Rolex Shanghai Masters,Shanghai,China,Outdoor Hard,ATP,2021-10-10,2021-10-17,2021,CHN
+1378,European Open,Antwerp,Belgium,Indoor Hard,ATP,2021-10-18,2021-10-24,2021,BEL
+1380,VTB Kremlin Cup,Moscow,Russia,Indoor Hard,ATP,2021-10-18,2021-10-24,2021,False
+1381,Erste Bank Open,Vienna,Austria,Indoor Hard,ATP,2021-10-25,2021-10-31,2021,AUT
+1382,Swiss Indoors Basel,Basel,Switzerland,Indoor Hard,ATP,2021-10-25,2021-10-31,2021,CHE
+1383,Rolex Paris Masters,Paris,France,Indoor Hard,ATP,2021-11-01,2021-11-07,2021,FRA
+1379,Stockholm Open,Stockholm,Sweden,Indoor Hard,ATP,2021-11-07,2021-11-13,2021,SWE
+1384,Next Gen ATP Finals,Milan,Italy,Indoor Hard,ATP,2021-11-09,2021-11-13,2021,ITA
+1385,Nitto ATP Finals,Turin,Italy,Indoor Hard,ATP,2021-11-14,2021-11-21,2021,ITA
+1433,Adelaide International 1,Adelaide,Australia,Outdoor Hard,ATP,2022-01-03,2022-01-09,2022,AUS
+1434,Melbourne Summer Set,Melbourne,Australia,Outdoor Hard,ATP,2022-01-04,2022-01-09,2022,AUS
+1436,Sydney Tennis Classic,Sydney,Australia,Outdoor Hard,ATP,2022-01-10,2022-01-15,2022,AUS
+1435,Adelaide International 2,Adelaide,Australia,Outdoor Hard,ATP,2022-01-10,2022-01-15,2022,AUS
+1437,Australian Open,Melbourne,Australia,Outdoor Hard,ATP,2022-01-17,2022-01-30,2022,AUS
+1438,Cordoba Open,Cordoba,Argentina,Outdoor Clay,ATP,2022-01-31,2022-02-06,2022,ARG
+1439,Open Sud de France â?? Montpellier,Montpellier,France,Indoor Hard,ATP,2022-01-31,2022-02-06,2022,FRA
+1440,Tata Open Maharashtra,Pune,India,Outdoor Hard,ATP,2022-01-31,2022-02-06,2022,IND
+1441,ABN AMRO Open,Rotterdam,Netherlands,Indoor Hard,ATP,2022-02-07,2022-02-13,2022,NLD
+1442,Argentina Open,Buenos Aires,Argentina,Outdoor Clay,ATP,2022-02-07,2022-02-13,2022,ARG
+1443,Dallas Open,Dallas,USA,Indoor Hard,ATP,2022-02-07,2022-02-13,2022,USA
+1444,Delray Beach Open by VITACOST.com,Delray Beach,USA,Outdoor Hard,ATP,2022-02-14,2022-02-20,2022,USA
+1445,Open 13 Provence,Marseille,France,Indoor Hard,ATP,2022-02-14,2022-02-20,2022,FRA
+1446,Qatar ExxonMobil Open,Doha,Qatar,Outdoor Hard,ATP,2022-02-14,2022-02-19,2022,QAT
+1447,Rio Open presented by Claro,Rio de Janeiro,Brazil,Outdoor Clay,ATP,2022-02-14,2022-02-20,2022,BRA
+1448,Abierto Mexicano Telcel presentado por HSBC,Acapulco,Mexico,Outdoor Hard,ATP,2022-02-21,2022-02-26,2022,MEX
+1449,Chile Dove Men+Care Open,Santiago,Chile,Outdoor Clay,ATP,2022-02-21,2022-02-27,2022,CHL
+1450,Dubai Duty Free Tennis Championships,Dubai,U.A.E.,Outdoor Hard,ATP,2022-02-21,2022-02-26,2022,False
+1451,BNP Paribas Open,Indian Wells,USA,Outdoor Hard,ATP,2022-03-10,2022-03-20,2022,USA
+1452,Miami Open presented by Itau,Miami,USA,Outdoor Hard,ATP,2022-03-23,2022-04-03,2022,USA
+1453,Fayez Sarofim & Co. U.S. Men's Clay Court Championship,Houston,USA,Outdoor Clay,ATP,2022-04-04,2022-04-10,2022,USA
+1454,Grand Prix Hassan II,Marrakech,Morocco,Outdoor Clay,ATP,2022-04-04,2022-04-10,2022,MAR
+1455,Rolex Monte-Carlo Masters,Monte Carlo,Monaco,Outdoor Clay,ATP,2022-04-10,2022-04-17,2022,MCO
+1456,Barcelona Open Banc Sabadell,Barcelona,Spain,Outdoor Clay,ATP,2022-04-18,2022-04-24,2022,ESP
+1457,Serbia Open,Belgrade,Serbia,Outdoor Clay,ATP,2022-04-18,2022-04-24,2022,SRB
+1458,BMW Open by American Express,Munich,Germany,Outdoor Clay,ATP,2022-04-25,2022-05-01,2022,DEU
+1459,Millennium Estoril Open,Estoril,Portugal,Outdoor Clay,ATP,2022-04-25,2022-05-01,2022,PRT
+1460,Mutua Madrid Open,Madrid,Spain,Outdoor Clay,ATP,2022-05-01,2022-05-08,2022,ESP
+1461,Internazionali BNL d'Italia,Rome,Italy,Outdoor Clay,ATP,2022-05-08,2022-05-15,2022,ITA
+1462,Gonet Geneva Open,Geneva,Switzerland,Outdoor Clay,ATP,2022-05-15,2022-05-21,2022,CHE
+1463,Open Parc Auvergne-Rhone-Alpes Lyon,Lyon,France,Outdoor Clay,ATP,2022-05-15,2022-05-21,2022,FRA
+1464,Roland Garros,Paris,France,Outdoor Clay,ATP,2022-05-22,2022-06-05,2022,FRA
+1465,Libema Open,'s-Hertogenbosch,Netherlands,Outdoor Grass,ATP,2022-06-06,2022-06-12,2022,NLD
+1466,BOSS OPEN,Stuttgart,Germany,Outdoor Grass,ATP,2022-06-06,2022-06-12,2022,DEU
+1467,Cinch Championships,London,Great Britain,Outdoor Grass,ATP,2022-06-13,2022-06-19,2022,False
+1468,Terra Wortmann Open,Halle,Germany,Outdoor Grass,ATP,2022-06-13,2022-06-19,2022,DEU
+1469,Mallorca Championships,Mallorca,Spain,Outdoor Grass,ATP,2022-06-19,2022-06-25,2022,ESP
+1470,Rothesay International,Eastbourne,Great Britain,Outdoor Grass,ATP,2022-06-20,2022-06-25,2022,False
+1471,Wimbledon,London,Great Britain,Outdoor Grass,ATP,2022-06-27,2022-07-10,2022,False
+1553,Infosys Hall of Fame Open,Newport,USA,Outdoor Grass,ATP,2022-07-11,2022-07-17,2022,USA
+1554,Nordea Open,Bastad,Sweden,Outdoor Clay,ATP,2022-07-11,2022-07-17,2022,SWE
+1555,Hamburg European Open,Hamburg,Germany,Outdoor Clay,ATP,2022-07-18,2022-07-24,2022,DEU
+1556,EFG Swiss Open Gstaad,Gstaad,Switzerland,Outdoor Clay,ATP,2022-07-18,2022-07-24,2022,CHE
+1557,Atlanta Open,Atlanta,USA,Outdoor Hard,ATP,2022-07-25,2022-07-31,2022,USA
+1558,Generali Open,Kitzbuhel,Austria,Outdoor Clay,ATP,2022-07-25,2022-07-30,2022,AUT
+1559,Plava Laguna Croatia Open Umag,Umag,Croatia,Outdoor Clay,ATP,2022-07-25,2022-07-31,2022,HRV
+1560,Citi Open,Washington,USA,Outdoor Hard,ATP,2022-08-01,2022-08-07,2022,USA
+1561,Abierto de Tenis Mifel,Los Cabos,Mexico,Outdoor Hard,ATP,2022-08-01,2022-08-06,2022,MEX
+1562,National Bank Open Presented by Rogers,Montreal,Canada,Outdoor Hard,ATP,2022-08-08,2022-08-14,2022,CAN
+1563,Western & Southern Open,Cincinnati,USA,Outdoor Hard,ATP,2022-08-14,2022-08-21,2022,USA
+1564,Winston-Salem Open,Winston-Salem,USA,Outdoor Hard,ATP,2022-08-21,2022-08-27,2022,USA
+1565,US Open,NY,USA,Outdoor Hard,ATP,2022-08-29,2022-09-11,2022,USA
+1569,San Diego Open,San Diego,USA,Outdoor Hard,ATP,2022-09-19,2022-09-25,2022,USA
+1570,Moselle Open,Metz,France,Indoor Hard,ATP,2022-09-19,2022-09-25,2022,FRA
+1572,Korea Open,Seoul,Korea,Outdoor Hard,ATP,2022-09-26,2022-10-02,2022,False
+1573,Tel Aviv Watergen Open,Tel Aviv,Israel,Indoor Hard,ATP,2022-09-26,2022-10-02,2022,ISR
+1574,Sofia Open,Sofia,Bulgaria,Indoor Hard,ATP,2022-09-26,2022-10-02,2022,BGR
+1575,Rakuten Japan Open Tennis Championships,Tokyo,Japan,Outdoor Hard,ATP,2022-10-03,2022-10-09,2022,JPN
+1576,Astana Open,Nur-Sultan,Kazakhstan,Indoor Hard,ATP,2022-10-03,2022-10-09,2022,KAZ
+1577,Gijon Open,Gijon,Spain,Indoor Hard,ATP,2022-10-10,2022-10-16,2022,ESP
+1578,UniCredit Firenze Open,Florence,Italy,Indoor Hard,ATP,2022-10-10,2022-10-16,2022,ITA
+1579,European Open,Antwerp,Belgium,Indoor Hard,ATP,2022-10-17,2022-10-23,2022,BEL
+1580,Stockholm Open,Stockholm,Sweden,Indoor Hard,ATP,2022-10-17,2022-10-23,2022,SWE
+1581,Tennis Napoli Cup,Naples,Italy,Outdoor Hard,ATP,2022-10-17,2022-10-23,2022,ITA
+1582,Erste Bank Open,Vienna,Austria,Indoor Hard,ATP,2022-10-24,2022-10-30,2022,AUT
+1583,Swiss Indoors Basel,Basel,Switzerland,Indoor Hard,ATP,2022-10-24,2022-10-30,2022,CHE
+1584,Rolex Paris Masters,Paris,France,Indoor Hard,ATP,2022-10-31,2022-11-06,2022,FRA
+1585,Intesa Sanpaolo Next Gen ATP Finals,Milan,Italy,Indoor Hard,ATP,2022-11-08,2022-11-12,2022,ITA
+1586,Nitto ATP Finals,Turin,Italy,Indoor Hard,ATP,2022-11-13,2022-11-20,2022,ITA
+0,Sydney International,Sydney,Australia,Hard,WTA,2019-01-07,2019-01-12,2019,AUS
+1,Hobart International,Hobart,Australia,Hard,WTA,2019-01-07,2019-01-12,2019,AUS
+2,Australian Open,Melbourne,Australia,Hard,WTA,2019-01-14,2019-01-26,2019,AUS
+3,Toyota Thailand Open presented by E@,Hua Hin,Thailand,Hard,WTA,2019-01-28,2019-02-03,2019,THA
+4,St. Petersburg Ladies Trophy,St. Petersburg,Russia,Hard,WTA,2019-01-28,2019-02-03,2019,False
+5,Qatar Total Open 2019,Doha,Qatar,Hard,WTA,2019-02-11,2019-02-16,2019,QAT
+6,Dubai Duty Free Tennis Championships,Dubai,United Arab Emirates,Hard,WTA,2019-02-17,2019-02-23,2019,ARE
+7,Hungarian Ladies Open,Budapest,Hungary,Hard,WTA,2019-02-18,2019-02-24,2019,HUN
+8,Abierto Mexicano TELCEL presentado por HSBC,Acapulco,Mexico,Hard,WTA,2019-02-25,2019-03-02,2019,MEX
+9,BNP Paribas Open,Indian Wells,USA,Hard,WTA,2019-03-06,2019-03-17,2019,USA
+10,Miami Open presented by Itau,Miami,USA,Hard,WTA,2019-03-19,2019-03-30,2019,USA
+11,Volvo Car Open,Charleston,USA,Hard,WTA,2019-04-01,2019-04-07,2019,USA
+12,Abierto GNP Seguros,Monterrey,Mexico,Hard,WTA,2019-04-01,2019-04-07,2019,MEX
+13,Samsung Open presented by Corner,Lugano,Switzerland,Hard,WTA,2019-04-08,2019-04-14,2019,CHE
+14,Claro Open Colsanitas,Bogota,Colombia,Hard,WTA,2019-04-08,2019-04-14,2019,COL
+15,Porsche Tennis Grand Prix,Stuttgart,Germany,Hard,WTA,2019-04-22,2019-04-28,2019,DEU
+16,TEB BNP Paribas Istanbul Cup,Istanbul,Turkey,Hard,WTA,2019-04-22,2019-04-28,2019,TUR
+17,J&T Banka Prague Open,Prague,Czech Republic,Hard,WTA,2019-04-29,2019-05-04,2019,CZE
+18,Grand Prix De SAR La Princesse Lalla Meryem,Rabat,Morocco,Hard,WTA,2019-04-29,2019-05-04,2019,MAR
+19,Mutua Madrid Open,Madrid,Spain,Hard,WTA,2019-05-04,2019-05-11,2019,ESP
+20,Internazionali BNL d'Italia,Rome,Italy,Hard,WTA,2019-05-13,2019-05-19,2019,ITA
+21,Internationaux de Strasbourg,Strasbourg,France,Hard,WTA,2019-05-19,2019-05-25,2019,FRA
+22,ER VERSICHERUNGSCUP 2019,Nürnberg,Germany,Hard,WTA,2019-05-19,2019-05-25,2019,DEU
+23,Roland Garros,Paris,France,Outdoor Clay,WTA,2019-05-26,2019-06-09,2019,FRA
+24,Libema Open,'s-hertogenbosch,Netherlands,Hard,WTA,2019-06-10,2019-06-16,2019,NLD
+25,Nature Valley Open,Nottingham,Great Britain,Hard,WTA,2019-06-10,2019-06-16,2019,False
+26,Nature Valley Classic,Birmingham,Great Britain,Hard,WTA,2019-06-17,2019-06-23,2019,False
+27,Mallorca Open,Mallorca,Spain,Hard,WTA,2019-06-17,2019-06-23,2019,ESP
+28,Nature Valley International,Eastbourne,Great Britain,Hard,WTA,2019-06-23,2019-06-29,2019,False
+29,Wimbledon,London,Great Britain,Outdoor Grass,WTA,2019-07-01,2019-07-14,2019,False
+30,Ladies Championships Lausanne,Lausanne,Switzerland,Hard,WTA,2019-07-15,2019-07-21,2019,CHE
+31,Bucharest Open,Bucharest,Romania,Hard,WTA,2019-07-15,2019-07-21,2019,ROU
+32,Baltic Open,Jurmala,Latvia,Hard,WTA,2019-07-22,2019-07-28,2019,LVA
+33,Palermo Ladies Open,Palermo,Italy,Hard,WTA,2019-07-22,2019-07-28,2019,ITA
+34,Citi Open,Washington Dc,USA,Hard,WTA,2019-07-29,2019-08-04,2019,USA
+35,Mubadala Silicon Valley Classic,San Jose,USA,Hard,WTA,2019-07-29,2019-08-04,2019,USA
+36,Rogers Cup presented by National Bank,Toronto,Canada,Hard,WTA,2019-08-05,2019-08-11,2019,CAN
+37,Western & Southern Open,Cincinnati,USA,Hard,WTA,2019-08-12,2019-08-18,2019,USA
+38,NYJTL Bronx Open,New York,USA,Hard,WTA,2019-08-18,2019-08-24,2019,USA
+39,US Open,New York,USA,Outdoor Hard,WTA,2019-08-26,2019-09-07,2019,USA
+40,Zhengzhou Open,Zhengzhou,China,Hard,WTA,2019-09-09,2019-09-15,2019,CHN
+41,Hana-cupid Japan Women's Open,Hiroshima,Japan,Hard,WTA,2019-09-09,2019-09-15,2019,JPN
+42,Coupe Banque Nationale,Quebec City,Canada,Hard,WTA,2019-09-09,2019-09-15,2019,CAN
+43,Jiangxi Open,Nanchang,China,Hard,WTA,2019-09-09,2019-09-15,2019,CHN
+44,Toray Pan Pacific Open Tennis Tournament,Osaka,Japan,Hard,WTA,2019-09-16,2019-09-22,2019,JPN
+45,Guangzhou Open,Guangzhou,China,Hard,WTA,2019-09-16,2019-09-21,2019,CHN
+46,Korea Open,Seoul,Korea,Hard,WTA,2019-09-16,2019-09-22,2019,False
+47,Wuhan Open,Wuhan,China,Hard,WTA,2019-09-22,2019-09-28,2019,CHN
+48,Tashkent Open,Tashkent,Uzbekistan,Hard,WTA,2019-09-23,2019-09-28,2019,UZB
+49,China Open,Beijing,China,Hard,WTA,2019-09-28,2019-10-06,2019,CHN
+50,Tianjin Open,Tianjin,China,Hard,WTA,2019-10-07,2019-10-13,2019,CHN
+51,Prudential Hong Kong Tennis Open,Hong Kong,"Hong Kong, China",Hard,WTA,2019-10-07,2019-10-13,2019,False
+52,Upper Austria Ladies Linz,Linz,Austria,Hard,WTA,2019-10-07,2019-10-13,2019,AUT
+53,VTB Kremlin Cup,Moscow,Russia,Hard,WTA,2019-10-14,2019-10-20,2019,False
+54,BGL BNP Paribas Luxembourg Open,Luxembourg,Luxembourg,Hard,WTA,2019-10-14,2019-10-20,2019,LUX
+55,WTA Elite Trophy Zhuhai,Zhuhai,China,Hard,WTA,2019-10-22,2019-10-27,2019,CHN
+56,Shiseido WTA Finals Shenzhen,Shenzhen,China,Hard,WTA,2019-10-27,2019-11-03,2019,CHN
+57,Shenzhen Open,Shenzhen,China,Hard,WTA,2019-12-30,2019-01-05,2019,CHN
+58,ASB Classic,Auckland,New Zealand,Hard,WTA,2019-12-31,2019-01-06,2019,NZL
+59,Brisbane International,Brisbane,Australia,Hard,WTA,2019-12-31,2019-01-06,2019,AUS
+60,Shenzhen Open,Shenzhen,China,Hard Outdoor,WTA,2020-01-05,2020-01-11,2020,CHN
+61,Brisbane International,Brisbane,Australia,Hard Outdoor,WTA,2020-01-06,2020-01-12,2020,AUS
+62,ASB Classic 2020,Auckland,New Zealand,Hard Outdoor,WTA,2020-01-06,2020-01-12,2020,NZL
+63,Hobart International,Hobart,Australia,Hard Outdoor,WTA,2020-01-13,2020-01-18,2020,AUS
+64,Adelaide International,Adelaide,Australia,Hard Outdoor,WTA,2020-01-13,2020-01-18,2020,AUS
+65,Australian Open,Melbourne,Australia,Hard Outdoor,WTA,2020-01-20,2020-02-02,2020,AUS
+66,St. Petersburg Ladies Trophy,St. Petersburg,Russia,Hard Indoor,WTA,2020-02-10,2020-02-16,2020,False
+67,GSB Thailand Open presented by E@,Hua Hin,Thailand,Hard Outdoor,WTA,2020-02-10,2020-02-16,2020,THA
+68,Dubai Duty Free Tennis Championships,Dubai,United Arab Emirates,Hard Outdoor,WTA,2020-02-17,2020-02-22,2020,ARE
+69,Qatar Total Open 2020,Doha,Qatar,Hard Outdoor,WTA,2020-02-23,2020-02-29,2020,QAT
+70,Abierto Mexicano TELCEL presentado por HSBC,Acapulco,Mexico,Hard Outdoor,WTA,2020-02-24,2020-02-29,2020,MEX
+71,"Open 6ème Sens – Métropole de Lyon, France",Lyon,France,Hard Indoor,WTA,2020-03-02,2020-03-08,2020,FRA
+72,Abierto GNP Seguros,Monterrey,Mexico,Hard Outdoor,WTA,2020-03-02,2020-03-08,2020,MEX
+73,BNP Paribas Open,Indian Wells,"United States, Ca",Hard Outdoor,WTA,2020-03-11,2020-03-22,2020,False
+74,Miami Open presented by Itau,Miami,"United States, Fl",Hard Outdoor,WTA,2020-03-24,2020-04-04,2020,False
+75,Copa Colsanitas presentado por Claro,Bogota,Colombia,Clay Outdoor,WTA,2020-04-06,2020-04-12,2020,COL
+76,Volvo Car Open,Charleston,"United States, Sc",Clay Outdoor,WTA,2020-04-06,2020-04-12,2020,False
+77,Porsche Tennis Grand Prix,Stuttgart,Germany,Clay Indoor,WTA,2020-04-20,2020-04-26,2020,DEU
+78,Grand Prix De SAR La Princesse Lalla Meryem,Rabat,Morocco,Clay Outdoor,WTA,2020-05-17,2020-05-23,2020,MAR
+79,Nature Valley Open,Nottingham,Great Britain,Grass Outdoor,WTA,2020-06-08,2020-06-14,2020,False
+80,Libema Open,'s-hertogenbosch,Netherlands,Grass Outdoor,WTA,2020-06-08,2020-06-14,2020,NLD
+81,Nature Valley Classic,Birmingham,Great Britain,Grass Outdoor,WTA,2020-06-15,2020-06-21,2020,False
+82,bett1open,Berlin,Germany,Grass Outdoor,WTA,2020-06-15,2020-06-21,2020,DEU
+83,Nature Valley International,Eastbourne,Great Britain,Grass Outdoor,WTA,2020-06-21,2020-06-27,2020,False
+84,Bad Homburg Open,Bad Homburg,Germany,Grass Outdoor,WTA,2020-06-21,2020-06-27,2020,DEU
+85,"The Championships, Wimbledon",Wimbledon,Great Britain,Grass Outdoor,WTA,2020-06-29,2020-07-11,2020,False
+86,BRD Bucharest Open,Bucharest,Romania,Clay Outdoor,WTA,2020-07-13,2020-07-19,2020,ROU
+87,Ladies Open Lausanne,Lausanne,Switzerland,Clay Outdoor,WTA,2020-07-13,2020-07-19,2020,CHE
+88,Baltic Open,Jurmala,Latvia,Clay Outdoor,WTA,2020-07-20,2020-07-26,2020,LVA
+89,Mubadala Silicon Valley Classic,San Jose,"United States, Ca",Hard Outdoor,WTA,2020-08-03,2020-08-09,2020,False
+90,Citi Open,Washington Dc,"United States, Dc",Hard Outdoor,WTA,2020-08-03,2020-08-09,2020,False
+91,31st Palermo Ladies Open,Palermo,Italy,Clay Outdoor,WTA,2020-08-03,2020-08-09,2020,ITA
+92,The Top Seed Open presented by Bluegrass Orthopaedics,Lexington,"United States, Ky",Hard Outdoor,WTA,2020-08-10,2020-08-16,2020,False
+93,Rogers Cup presented by National Bank,Montreal,Canada,Hard Outdoor,WTA,2020-08-10,2020-08-16,2020,CAN
+94,Prague Open,Prague,Czech Republic,Clay Outdoor,WTA,2020-08-10,2020-08-16,2020,CZE
+95,Western & Southern Open,New York,"United States, Ny",Hard Outdoor,WTA,2020-08-21,2020-08-29,2020,False
+96,Albany Open,Albany,"United States, Ny",Hard Outdoor,WTA,2020-08-23,2020-08-29,2020,False
+97,US Open,New York,"United States, Ny",Hard Outdoor,WTA,2020-08-31,2020-09-13,2020,False
+98,TEB BNP Paribas Tennis Championship Istanbul,Istanbul,Turkey,Clay Outdoor,WTA,2020-09-08,2020-09-13,2020,TUR
+99,Mutua Madrid Open,Madrid,Spain,Clay Outdoor,WTA,2020-09-14,2020-09-20,2020,ESP
+100,Internazionali BNL d'Italia,Rome,Italy,Clay Outdoor,WTA,2020-09-14,2020-09-21,2020,ITA
+101,Hana-cupid Japan Women's Open,Hiroshima,Japan,Hard Outdoor,WTA,2020-09-14,2020-09-20,2020,JPN
+102,Internationaux de Strasbourg,Strasbourg,France,Clay Outdoor,WTA,2020-09-20,2020-09-26,2020,FRA
+103,Roland Garros,Paris,France,Clay Outdoor,WTA,2020-09-27,2020-10-10,2020,FRA
+104,Hana Bank Korea Open,Seoul,Korea,Hard Outdoor,WTA,2020-10-06,2020-10-11,2020,False
+105,China Open,Beijing,China,Hard Outdoor,WTA,2020-10-12,2020-10-18,2020,CHN
+106,Tianjin Open,Tianjin,China,Hard Outdoor,WTA,2020-10-12,2020-10-18,2020,CHN
+107,Prudential Hong Kong Tennis Open,Hong Kong,China,Hard Outdoor,WTA,2020-10-12,2020-10-18,2020,CHN
+108,Jiangxi Open,Nanchang,China,Hard Outdoor,WTA,2020-10-19,2020-10-25,2020,CHN
+109,Dongfeng Motor Wuhan Open,Wuhan,China,Hard Outdoor,WTA,2020-10-19,2020-10-25,2020,CHN
+110,BGL BNP Paribas Luxembourg Open,Luxembourg,Luxembourg,Hard Indoor,WTA,2020-10-19,2020-10-25,2020,LUX
+111,J & T Banka Ostrava Open 2020,Ostrava,Czech Republic,Hard Indoor,WTA,2020-10-19,2020-10-25,2020,CZE
+112,Zhengzhou Open,Zhengzhou,China,Hard Outdoor,WTA,2020-10-26,2020-11-01,2020,CHN
+113,VTB Kremlin Cup,Moscow,Russia,Hard Indoor,WTA,2020-10-26,2020-11-01,2020,False
+114,Toray Pan Pacific Open,Tokyo,Japan,Hard Indoor,WTA,2020-11-02,2020-11-07,2020,JPN
+115,Shiseido WTA Finals Shenzhen,Shenzhen,China,Hard Indoor,WTA,2020-11-08,2020-11-15,2020,CHN
+116,Upper Austria Ladies Linz,Linz,Austria,Hard Indoor,WTA,2020-11-09,2020-11-15,2020,AUT
+117,Hengqin Life WTA Elite Trophy Zhuhai,Zhuhai,China,Hard Outdoor,WTA,2020-11-17,2020-11-22,2020,CHN
+118,Guangzhou Open,Guangzhou,China,Hard Outdoor,WTA,2020-11-23,2020-11-29,2020,CHN
+119,Abu Dhabi WTA Women's Tennis Open,Abu Dhabi,UAE,Hard Outdoor,WTA,2021-01-06,2021-01-13,2021,False
+120,Yarra Valley Classic,Melbourne,Australia,Hard Outdoor,WTA,2021-01-31,2021-02-06,2021,AUS
+121,Gippsland Trophy,Melbourne,Australia,Hard Outdoor,WTA,2021-01-31,2021-02-06,2021,AUS
+122,Grampians Trophy,Melbourne,Australia,Hard Outdoor,WTA,2021-02-03,2021-02-07,2021,AUS
+123,Australian Open,Melbourne,Australia,Hard Outdoor,WTA,2021-02-08,2021-02-20,2021,AUS
+124,Phillip Island Trophy,Melbourne,Australia,Hard Outdoor,WTA,2021-02-13,2021-02-19,2021,AUS
+125,Adelaide International,Adelaide,Australia,Hard Outdoor,WTA,2021-02-22,2021-02-27,2021,AUS
+126,Qatar Total Open 2021,Doha,Qatar,Hard Outdoor,WTA,2021-03-01,2021-03-06,2021,QAT
+127,Open 6ème Sens Métropole de Lyon,Lyon,France,Hard Indoor,WTA,2021-03-01,2021-03-07,2021,FRA
+128,Dubai Duty Free Tennis Championships 2021,Dubai,UAE,Hard Outdoor,WTA,2021-03-07,2021-03-13,2021,False
+129,Abierto Zapopan 2021,Guadalajara,Mexico,Hard Outdoor,WTA,2021-03-08,2021-03-13,2021,MEX
+130,Abierto GNP Seguros,Monterrey,Mexico,Hard Outdoor,WTA,2021-03-15,2021-03-21,2021,MEX
+131,St. Petersburg Ladies Trophy,St. Petersburg,Russia,Hard Indoor,WTA,2021-03-15,2021-03-21,2021,False
+132,Miami Open presented by Itaú,Miami,USA,Hard Outdoor,WTA,2021-03-23,2021-04-03,2021,USA
+133,Credit One Charleston Open,Charleston,USA,Clay Outdoor,WTA,2021-04-05,2021-04-11,2021,USA
+134,Copa Colsanitas,Bogota,Colombia,Clay Outdoor,WTA,2021-04-05,2021-04-11,2021,COL
+135,Kunming Open,Anning,China,Clay Outdoor,WTA,2021-04-12,2021-04-18,2021,CHN
+136,MUSC Health Women's Open,Charleston,USA,Clay Outdoor,WTA,2021-04-12,2021-04-18,2021,USA
+137,TEB BNP Paribas Tennis Championship Istanbul,Istanbul,Turkey,Clay Outdoor,WTA,2021-04-19,2021-04-25,2021,TUR
+138,Porsche Tennis Grand Prix,Stuttgart,Germany,Clay Indoor,WTA,2021-04-19,2021-04-25,2021,DEU
+139,Mutua Madrid Open,Madrid,Spain,Clay Outdoor,WTA,2021-04-29,2021-05-08,2021,ESP
+140,L'Open 35 de Saint-Malo,Saint-malo,France,Clay Outdoor,WTA,2021-05-03,2021-05-09,2021,FRA
+141,Internazionali BNL d'Italia,Rome,Italy,Clay Outdoor,WTA,2021-05-10,2021-05-16,2021,ITA
+142,COLOGNE OPEN,Cologne,Germany,Clay Outdoor,WTA,2021-05-16,2021-05-22,2021,DEU
+143,Emilia-Romagna Open,Parma,Italy,Clay Outdoor,WTA,2021-05-16,2021-05-22,2021,ITA
+144,Serbia Ladies Open,Belgrade,Serbia,Clay Outdoor,WTA,2021-05-16,2021-05-22,2021,SRB
+145,Grand Prix De Son Altesse Royale La Princesse Lalla Meryem,Rabat,Morocco,Clay Outdoor,WTA,2021-05-16,2021-05-22,2021,MAR
+146,Internationaux de Strasbourg,Strasbourg,France,Clay Outdoor,WTA,2021-05-23,2021-05-29,2021,FRA
+147,Roland Garros,Paris,France,Clay Outdoor,WTA,2021-05-30,2021-06-12,2021,FRA
+148,Viking Open Nottingham,Nottingham,Great Britain,Grass Outdoor,WTA,2021-06-06,2021-06-13,2021,False
+149,Libema Open,'s-hertogenbosch,Netherlands,Grass Outdoor,WTA,2021-06-07,2021-06-13,2021,NLD
+150,,Bol,Croatia,Clay Outdoor,WTA,2021-06-07,2021-06-12,2021,HRV
+151,bett1open,Berlin,Germany,Grass Outdoor,WTA,2021-06-14,2021-06-20,2021,DEU
+152,Viking Classic Birmingham,Birmingham,Great Britain,Grass Outdoor,WTA,2021-06-14,2021-06-20,2021,False
+153,Bad Homburg Open presented by Engel & Volkers,Bad Homburg,Germany,Grass Outdoor,WTA,2021-06-21,2021-06-26,2021,DEU
+154,Viking International Eastbourne,Eastbourne,Great Britan,Grass Outdoor,WTA,2021-06-21,2021-06-26,2021,False
+155,The Championships,Wimbledon,Great Britain,Grass Outdoor,WTA,2021-06-28,2021-07-10,2021,False
+156,Nordea Open,Bastad,Sweden,Clay Outdoor,WTA,2021-07-05,2021-07-10,2021,SWE
+157,Hamburg European Open,Hamburg,Germany,Clay Outdoor,WTA,2021-07-06,2021-07-11,2021,DEU
+158,Livesport Prague Open 2021,Prague,Czech Republic,Hard Outdoor,WTA,2021-07-12,2021-07-18,2021,CZE
+159,Hungarian Grand Prix,Budapest,Hungary,Clay Outdoor,WTA,2021-07-12,2021-07-18,2021,HUN
+160,Ladies Open Lausanne 2021,Lausanne,Switzerland,Clay Outdoor,WTA,2021-07-12,2021-07-18,2021,CHE
+161,32nd Palermo Ladies Open,Palermo,Italy,Clay Outdoor,WTA,2021-07-19,2021-07-25,2021,ITA
+162,BNP Paribas Poland Open,Gdynia,Poland,Clay Outdoor,WTA,2021-07-19,2021-07-25,2021,POL
+163,OLYMPICS TENNIS EVENT,Tokyo,Japan,Hard Outdoor,WTA,2021-07-24,2021-08-01,2021,JPN
+164,LTP Women's Open,Charleston,USA,Clay Outdoor,WTA,2021-07-26,2021-08-01,2021,USA
+165,Belgrade Ladies Open,Belgrade,Serbia,Clay Outdoor,WTA,2021-07-26,2021-07-31,2021,SRB
+166,Mubadala Silicon Valley Classic,San Jose,USA,Hard Outdoor,WTA,2021-08-02,2021-08-08,2021,USA
+167,Winners Open 2021,Cluj-napoca,Romania,Clay Outdoor,WTA,2021-08-02,2021-08-08,2021,ROU
+168,Thoreau Tennis Open 125,Concord,USA,Hard Outdoor,WTA,2021-08-02,2021-08-08,2021,USA
+169,National Bank Open,Montreal,Canada,Hard Outdoor,WTA,2021-08-09,2021-08-15,2021,CAN
+170,WTA Chicago 125,Chicago,USA,Hard Outdoor,WTA,2021-08-16,2021-08-22,2021,USA
+171,Western & Southern Open,Cincinnati,USA,Hard Outdoor,WTA,2021-08-16,2021-08-22,2021,USA
+172,Tennis in the Land,Cleveland,USA,Hard Outdoor,WTA,2021-08-22,2021-08-28,2021,USA
+173,WTA Chicago Women's Open,Chicago,USA,Hard Outdoor,WTA,2021-08-22,2021-08-28,2021,USA
+174,US Open,New York,USA,Hard Outdoor,WTA,2021-08-30,2021-09-11,2021,USA
+175,Liqui Moly Open 2021,Karlsruhe,Germany,Clay Outdoor,WTA,2021-09-07,2021-09-12,2021,DEU
+176,Zavarovalnica Sava Portoroz,Portoroz,Slovenia,Hard Outdoor,WTA,2021-09-13,2021-09-19,2021,SVN
+177,BGL BNP Paribas Luxembourg Open 2021,Luxembourg,Luxembourg,Hard Indoor,WTA,2021-09-13,2021-09-19,2021,LUX
+178,Columbus WTA 125,Columbus,USA,Hard Indoor,WTA,2021-09-19,2021-09-26,2021,USA
+179,J&T Banka Ostrava Open 2021,Ostrava,Czech Republic,Hard Indoor,WTA,2021-09-20,2021-09-26,2021,CZE
+180,Astana Open,Nur-sultan,Kazakhstan,Hard Indoor,WTA,2021-09-27,2021-10-02,2021,KAZ
+181,Chicago Fall Tennis Classic,Chicago,USA,Hard Outdoor,WTA,2021-09-27,2021-10-03,2021,USA
+182,BNP Paribas Open,Indian Wells,USA,Hard Outdoor,WTA,2021-10-06,2021-10-17,2021,USA
+183,VTB Kremlin Cup 2021,Moscow,Russia,Hard Indoor,WTA,2021-10-18,2021-10-24,2021,False
+184,Tenerife Ladies Open,Tenerife,Spain,Hard Outdoor,WTA,2021-10-18,2021-10-24,2021,ESP
+185,Courmayeur Ladies Open 2021,Courmayeur,Italy,Hard Indoor,WTA,2021-10-25,2021-10-31,2021,ITA
+186,Transylvania Open,Cluj-napoca,Romania,Hard Indoor,WTA,2021-10-25,2021-10-31,2021,ROU
+187,Dow Tennis Classic,Midland,USA,Hard Indoor,WTA,2021-11-01,2021-11-07,2021,USA
+188,Argentina Open,,argentina,Clay Outdoor,WTA,2021-11-01,2021-11-07,2021,False
+189,Upper Austria Ladies Linz,Linz,Austria,Hard Indoor,WTA,2021-11-07,2021-11-12,2021,AUT
+190,Akron WTA Finals Guadalajara,Guadalajara,Mexico,Hard Outdoor,WTA,2021-11-10,2021-11-17,2021,MEX
+191,Montevideo Open,Montevideo,Uruguay,Clay Outdoor,WTA,2021-11-15,2021-11-21,2021,URY
+192,Open Angers Arena Loire,Angers,France,Hard Indoor,WTA,2021-12-06,2021-12-12,2021,FRA
+193,Open BLS de Limoges,Limoges,France,Hard Indoor,WTA,2021-12-13,2021-12-19,2021,FRA
+194,Hana Bank Korea Open,Seoul,Korea,Hard Indoor,WTA,2021-12-20,2021-12-26,2021,False
+195,Adelaide International 1,Adelaide,Australia,Hard Outdoor,WTA,2022-01-03,2022-01-09,2022,AUS
+196,Melbourne Summer Set 1,Melbourne,Australia,Hard Outdoor,WTA,2022-01-04,2022-01-09,2022,AUS
+197,Melbourne Summer Set 2,Melbourne,Australia,Hard Outdoor,WTA,2022-01-04,2022-01-09,2022,AUS
+198,Adelaide International 2,Adelaide,Australia,Hard Outdoor,WTA,2022-01-10,2022-01-15,2022,AUS
+199,Sydney Tennis Classic,Sydney,Australia,Hard Outdoor,WTA,2022-01-10,2022-01-15,2022,AUS
+200,Australian Open,Melbourne,Australia,Hard Outdoor,WTA,2022-01-17,2022-01-30,2022,AUS
+201,St. Petersburg Ladies Trophy,St. Petersburg,Russia,Hard Indoor,WTA,2022-02-07,2022-02-13,2022,False
+202,Dubai Duty Free Tennis Championships,Dubai,UAE,Hard Outdoor,WTA,2022-02-14,2022-02-19,2022,False
+203,Qatar TotalEnergies Open,Doha,Qatar,Hard Outdoor,WTA,2022-02-20,2022-02-26,2022,QAT
+204,Abierto Akron Zapopan,Guadalajara,Mexico,Hard Outdoor,WTA,2022-02-21,2022-02-27,2022,MEX
+205,Open 6e Sens Métropole de Lyon,Lyon,France,Hard Indoor,WTA,2022-02-28,2022-03-06,2022,FRA
+206,Abierto GNP Seguros 2022,Monterrey,Mexico,Hard Outdoor,WTA,2022-02-28,2022-03-06,2022,MEX
+207,BNP Paribas Open,Indian Wells,USA,Hard Outdoor,WTA,2022-03-09,2022-03-20,2022,USA
+208,Miami Open presented by Itaú,Miami,USA,Hard Outdoor,WTA,2022-03-22,2022-04-03,2022,USA
+209,AnyTech365 Andalucia Open,Marbella,Spain,Clay Outdoor,WTA,2022-03-28,2022-04-03,2022,ESP
+210,Credit One Charleston Open,Charleston,USA,Clay Outdoor,WTA,2022-04-04,2022-04-10,2022,USA
+211,Copa Colsanitas presented by Zurich,Bogota,Colombia,Clay Outdoor,WTA,2022-04-04,2022-04-10,2022,COL
+212,Porsche Tennis Grand Prix,Stuttgart,Germany,Clay Indoor,WTA,2022-04-18,2022-04-24,2022,DEU
+213,TEB BNP Paribas Tennis Championship Istanbul,Istanbul,Turkey,Clay Outdoor,WTA,2022-04-18,2022-04-24,2022,TUR
+214,Mutua Madrid Open,Madrid,Spain,Clay Outdoor,WTA,2022-04-28,2022-05-07,2022,ESP
+215,L' Open 35 de Saint Malo,Saint Malo,France,Clay Outdoor,WTA,2022-05-02,2022-05-08,2022,FRA
+216,Trophee Lagardere,Paris,France,Clay Outdoor,WTA,2022-05-09,2022-05-15,2022,FRA
+217,Internazionali BNL d'Italia,Rome,Italy,Clay Outdoor,WTA,2022-05-09,2022-05-15,2022,ITA
+218,Liqui Moly Open 2022,Karlsruhe,Germany,Clay Outdoor,WTA,2022-05-10,2022-05-15,2022,DEU
+219,Grand Prix Sar La Princesse Lalla Meryem,Rabat,Morocco,Clay Outdoor,WTA,2022-05-15,2022-05-21,2022,MAR
+220,Internationaux de Strasbourg,Strasbourg,France,Clay Outdoor,WTA,2022-05-15,2022-05-21,2022,FRA
+221,Cologne Open,Cologne,Germany,Clay Outdoor,WTA,2022-05-15,2022-05-21,2022,DEU
+222,Roland Garros,Paris,France,Clay Outdoor,WTA,2022-05-22,2022-06-05,2022,FRA
+223,Makarska Open 125,Makarska,Croatia,Clay Outdoor,WTA,2022-05-31,2022-06-05,2022,HRV
+224,Rothesay Open Nottingham,Nottingham,Great Britain,Grass Outdoor,WTA,2022-06-06,2022-06-12,2022,False
+225,Libema Open,S'hertogenbosch,Netherlands,Grass Outdoor,WTA,2022-06-06,2022-06-12,2022,NLD
+226,BBVA Open Internacional de Valencia,Valencia,Spain,Clay Outdoor,WTA,2022-06-06,2022-06-12,2022,ESP
+227,Veneto Open Internazionali Confindustria Venezia e Rovigo,Gaiba,Italy,Grass Outdoor,WTA,2022-06-13,2022-06-19,2022,ITA
+228,bett1open,Berlin,Germany,Grass Outdoor,WTA,2022-06-13,2022-06-19,2022,DEU
+229,Rothesay Classic Birmingham,Birmingham,Great Britain,Grass Outdoor,WTA,2022-06-13,2022-06-19,2022,False
+230,Rothesay International Eastbourne,Eastbourne,Great Britain,Grass Outdoor,WTA,2022-06-19,2022-06-25,2022,False
+231,Bad Homburg Open presented by Engel & Voelkers,Bad Homburg,Germany,Grass Outdoor,WTA,2022-06-19,2022-06-25,2022,DEU
+232,The Championships,Wimbledon,Great Britain,Grass Outdoor,WTA,2022-06-27,2022-07-10,2022,False
+233,Grand Est Open 88,Contrexeville,France,Clay Outdoor,WTA,2022-07-04,2022-07-10,2022,FRA
+234,Nordea Open,Bastad,Sweden,Clay Outdoor,WTA,2022-07-04,2022-07-09,2022,SWE
+235,Ladies Open Lausanne,Lausanne,Switzerland,Clay Outdoor,WTA,2022-07-11,2022-07-17,2022,CHE
+236,Hungarian Grand Prix,Budapest,Hungary,Clay Outdoor,WTA,2022-07-11,2022-07-17,2022,HUN
+237,Hamburg European Open,Hamburg,Germany,Clay Outdoor,WTA,2022-07-17,2022-07-23,2022,DEU
+238,33rd Palermo Ladies Open,Palermo,Italy,Clay Outdoor,WTA,2022-07-18,2022-07-24,2022,ITA
+239,BNP Paribas Poland Open,Warsaw,Poland,Clay Outdoor,WTA,2022-07-25,2022-07-31,2022,POL
+240,Livesport Prague Open 2022,Prague,Czech Republic,Hard Outdoor,WTA,2022-07-25,2022-07-31,2022,CZE
+241,Citi Open,Washington Dc,USA,Hard Outdoor,WTA,2022-08-01,2022-08-07,2022,USA
+242,Mubadala Silicon Valley Classic,San Jose,USA,Hard Outdoor,WTA,2022-08-01,2022-08-07,2022,USA
+243,BCR Iasi Open,Iasi,Romania,Clay Outdoor,WTA,2022-08-01,2022-08-07,2022,ROU
+244,National Bank Open presented by Rogers,Toronto,Canada,Hard Outdoor,WTA,2022-08-08,2022-08-14,2022,CAN
+245,Thoreau Tennis Open 125,Concord,USA,Hard Outdoor,WTA,2022-08-08,2022-08-14,2022,USA
+246,Odlum Brown VanOpen,Vancouver,Canada,Hard Outdoor,WTA,2022-08-14,2022-08-21,2022,CAN
+247,Western & Southern Open,Cincinnati,USA,Hard Outdoor,WTA,2022-08-15,2022-08-21,2022,USA
+248,Championnats Banque Nationale de Granby,Granby,Canada,Hard Outdoor,WTA,2022-08-21,2022-08-27,2022,CAN
+249,Tennis in the Land presented by motorola edge,Cleveland,USA,Hard Outdoor,WTA,2022-08-21,2022-08-27,2022,USA
+250,US Open,New York,USA,Hard Outdoor,WTA,2022-08-29,2022-09-11,2022,USA
+251,Open delle Puglie,Bari,Italy,Clay Outdoor,WTA,2022-09-05,2022-09-11,2022,ITA
+252,WTA Zavarovalnica Sava Portoroz,Portoroz,Slovenia,Hard Outdoor,WTA,2022-09-12,2022-09-18,2022,SVN
+253,Tiriac Foundation Trophy,Bucharest,Romania,Clay Outdoor,WTA,2022-09-12,2022-09-18,2022,ROU
+254,Chennai Open,Chennai,India,Hard Outdoor,WTA,2022-09-12,2022-09-18,2022,IND
+255,Japan Women's Open,Osaka,Japan,Hard Outdoor,WTA,2022-09-12,2022-09-18,2022,JPN
+256,Budapest Open 125,Budapest,Hungary,Clay Outdoor,WTA,2022-09-19,2022-09-24,2022,HUN
+257,Hana Bank Korea Open,Seoul,Korea,Hard Outdoor,WTA,2022-09-19,2022-09-25,2022,False
+258,Toray Pan Pacific Open Tennis,Tokyo,Japan,Hard Outdoor,WTA,2022-09-19,2022-09-25,2022,JPN
+259,Parma Ladies Open,Parma,Italy,Clay Outdoor,WTA,2022-09-26,2022-10-01,2022,ITA
+260,Tallinn Open,Tallinn,Estonia,Hard Indoor,WTA,2022-09-26,2022-10-02,2022,EST
+261,Jasmin Open Monastir,Monastir,Tunisia,Hard Outdoor,WTA,2022-10-03,2022-10-09,2022,TUN
+262,AGEL Open 2022,Ostrava,Czech Republic,Hard Indoor,WTA,2022-10-03,2022-10-09,2022,CZE
+263,Transylvania Open by Verdino,Cluj-napoca,Romania,Hard Indoor,WTA,2022-10-10,2022-10-16,2022,ROU
+264,San Diego Open,San Diego,USA,Hard Outdoor,WTA,2022-10-10,2022-10-16,2022,USA
+265,Open Capfinances Rouen Metropole,Rouen,France,Hard Indoor,WTA,2022-10-17,2022-10-23,2022,FRA
+266,Guadalajara Open Akron,Guadalajara,Mexico,Hard Outdoor,WTA,2022-10-17,2022-10-23,2022,MEX
+267,Abierto Tampico,Tampico,Mexico,Hard Outdoor,WTA,2022-10-24,2022-10-29,2022,MEX
+268,Dow Tennis Classic,Midland,USA,Hard Indoor,WTA,2022-10-31,2022-11-06,2022,USA
+269,Puerto Vallarta Open,Puerto Vallarta,Mexico,Hard Outdoor,WTA,2022-10-31,2022-11-06,2022,MEX
+270,WTA Finals Fort Worth,Fort Worth,USA,Hard Indoor,WTA,2022-10-31,2022-11-07,2022,USA
+271,LP Open by IND,Colina,Chile,Clay Outdoor,WTA,2022-11-07,2022-11-13,2022,CHL
+272,Argentina Open,Buenos Aires,Argentina,Clay Outdoor,WTA,2022-11-15,2022-11-20,2022,ARG
+273,Montevideo Open,Montevideo,Uruguay,Clay Outdoor,WTA,2022-11-21,2022-11-27,2022,URY
+274,Crèdit Andorrà Open,Andorra,Andorra,Hard Indoor,WTA,2022-11-28,2022-12-04,2022,AND
+275,Open P2i Angers Arena Loire,Angers,France,Hard Indoor,WTA,2022-12-05,2022-12-11,2022,FRA
+276,Open BLS de Limoges,Limoges,France,Hard Indoor,WTA,2022-12-11,2022-12-17,2022,FRA
+277,United Cup,,australia,Hard Outdoor,WTA,2022-12-29,2023-01-08,2022,False
