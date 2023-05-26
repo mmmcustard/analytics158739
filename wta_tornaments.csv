@@ -1,4 +1,4 @@
-,name,city,country,surface,code,start_date,end_date,season,country_code
+id,name,city,country,surface,code,start_date,end_date,season,country_code
 0,Sydney International,Sydney,Australia,Hard,WTA,2019-01-07,2019-01-12,2019,AUS
 1,Hobart International,Hobart,Australia,Hard,WTA,2019-01-07,2019-01-12,2019,AUS
 2,Australian Open,Melbourne,Australia,Hard,WTA,2019-01-14,2019-01-26,2019,AUS
