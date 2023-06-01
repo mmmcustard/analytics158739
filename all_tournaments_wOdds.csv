@@ -1,0 +1,344 @@
+index,WTA,Location,Tournament,Court,Surface,Winner,WRank,LRank,B365W,PSW,MaxW,AvgW,ATP,year
+1.0_0.0_ASB Classic,1.0,Auckland,ASB Classic,Outdoor,Hard,Goerges J.,14.0,152.0,1.4,1.43,1.5,1.42,0.0,2019
+2.0_0.0_Brisbane International,2.0,Brisbane,Brisbane International,Outdoor,Hard,Pliskova Ka.,8.0,27.0,1.61,1.62,1.67,1.6,0.0,2019
+3.0_0.0_Shenzhen Open,3.0,Shenzhen,Shenzhen Open,Outdoor,Hard,Sabalenka A.,13.0,62.0,1.3,1.25,1.33,1.26,0.0,2019
+4.0_0.0_Hobart International,4.0,Hobart,Hobart International,Outdoor,Hard,Kenin S.,56.0,77.0,1.44,1.46,1.5,1.44,0.0,2019
+5.0_0.0_Sydney International,5.0,Sydney,Sydney International,Outdoor,Hard,Kvitova P.,8.0,15.0,1.8,1.93,1.93,1.84,0.0,2019
+6.0_0.0_Australian Open,6.0,Melbourne,Australian Open,Outdoor,Hard,Osaka N.,4.0,6.0,2.05,2.03,2.13,2.03,0.0,2019
+7.0_0.0_Thailand Open,7.0,Hua Hin,Thailand Open,Outdoor,Hard,Yastremska D.,47.0,49.0,1.4,1.5,1.51,1.43,0.0,2019
+8.0_0.0_Ladies Trophy,8.0,St. Petersburg,Ladies Trophy,Indoor,Hard,Bertens K.,8.0,30.0,1.66,1.82,1.82,1.7,0.0,2019
+9.0_0.0_Qatar Total Open,9.0,Doha,Qatar Total Open,Outdoor,Hard,Mertens E.,21.0,3.0,3.5,3.7,3.75,3.48,0.0,2019
+10.0_0.0_Hungarian Ladies Open,10.0,Budapest,Hungarian Ladies Open,Indoor,Hard,Van Uytvanck A.,50.0,81.0,2.62,2.62,2.7,2.54,0.0,2019
+11.0_0.0_Dubai Duty Free Tennis Championships,11.0,Dubai,Dubai Duty Free Tennis Championships,Outdoor,Hard,Bencic B.,45.0,4.0,3.0,3.11,3.2,2.99,0.0,2019
+12.0_0.0_Abierto Mexicano,12.0,Acapulco,Abierto Mexicano,Outdoor,Clay,Wang Yaf.,65.0,35.0,2.37,2.71,2.72,2.51,0.0,2019
+13.0_0.0_BNP Paribas Open,13.0,Indian Wells,BNP Paribas Open,Outdoor,Hard,Andreescu B.,60.0,8.0,2.5,2.55,2.72,2.48,0.0,2019
+14.0_0.0_Sony Ericsson Open,14.0,Miami,Sony Ericsson Open,Outdoor,Hard,Barty A.,11.0,7.0,1.8,1.81,1.91,1.83,0.0,2019
+15.0_0.0_Family Circle Cup,15.0,Charleston,Family Circle Cup,Outdoor,Clay,Keys M.,18.0,13.0,2.1,2.2,2.31,2.1,0.0,2019
+16.0_0.0_Monterrey Open,16.0,Monterrey,Monterrey Open,Outdoor,Hard,Muguruza G.,19.0,67.0,2.37,2.52,2.52,2.34,0.0,2019
+17.0_0.0_Copa Claro Colsanitas,17.0,Bogota,Copa Claro Colsanitas,Outdoor,Clay,Anisimova A.,76.0,138.0,1.44,1.53,1.53,1.48,0.0,2019
+18.0_0.0_Samsung Open,18.0,Lugano,Samsung Open,Outdoor,Clay,Hercog P.,89.0,115.0,2.75,3.09,3.09,2.75,0.0,2019
+19.0_0.0_Istanbul Cup,19.0,Istanbul,Istanbul Cup,Outdoor,Clay,Martic P.,40.0,46.0,2.62,2.86,2.86,2.7,0.0,2019
+20.0_0.0_Porsche Tennis Grand Prix,20.0,Stuttgart,Porsche Tennis Grand Prix,Indoor,Clay,Kvitova P.,3.0,15.0,1.5,1.52,1.55,1.49,0.0,2019
+21.0_0.0_J&T Banka Prague Open,21.0,Prague,J&T Banka Prague Open,Outdoor,Clay,Teichmann J.,146.0,106.0,2.1,2.36,2.38,2.2,0.0,2019
+22.0_0.0_Grand Prix SAR Lalla Meryem,22.0,Rabat,Grand Prix SAR Lalla Meryem,Outdoor,Clay,Sakkari M.,51.0,47.0,2.1,2.2,2.25,2.14,0.0,2019
+23.0_0.0_Mutua Madrid Open,23.0,Madrid,Mutua Madrid Open,Outdoor,Clay,Bertens K.,7.0,3.0,2.5,2.43,2.55,2.41,0.0,2019
+24.0_0.0_Internazionali BNL d'Italia,24.0,Rome,Internazionali BNL d'Italia,Outdoor,Clay,Pliskova Ka.,7.0,42.0,1.57,1.56,1.62,1.58,0.0,2019
+25.0_0.0_Nürnberger Versicherungscup,25.0,Nürnberg,Nürnberger Versicherungscup,Outdoor,Clay,Putintseva Y.,39.0,68.0,1.72,1.74,1.8,1.71,0.0,2019
+26.0_0.0_Internationaux de Strasbourg,26.0,Strasbourg,Internationaux de Strasbourg,Outdoor,Clay,Yastremska D.,42.0,24.0,1.72,1.82,1.83,1.73,0.0,2019
+27.0_0.0_French Open,27.0,Paris,French Open,Outdoor,Clay,Barty A.,8.0,38.0,1.62,1.6,1.64,1.59,0.0,2019
+28.0_0.0_Rosmalen Grass Court Championships,28.0,'s-Hertogenbosch,Rosmalen Grass Court Championships,Outdoor,Grass,Riske A.,61.0,4.0,3.4,3.47,3.5,3.24,0.0,2019
+29.0_0.0_Nottingham Open,29.0,Nottingham,Nottingham Open,Outdoor,Grass,Garcia C.,28.0,22.0,2.5,2.6,2.6,2.43,0.0,2019
+30.0_0.0_Birmingham Classic ,30.0,Birmingham,Birmingham Classic ,Outdoor,Grass,Barty A.,2.0,19.0,1.28,1.28,1.3,1.26,0.0,2019
+31.0_0.0_Mallorca Open,31.0,Mallorca,Mallorca Open,Outdoor,Grass,Kenin S.,30.0,13.0,2.5,2.7,2.7,2.53,0.0,2019
+32.0_0.0_Eastbourne International,32.0,Eastbourne,Eastbourne International,Outdoor,Grass,Pliskova Ka.,3.0,5.0,1.72,1.78,1.78,1.73,0.0,2019
+33.0_0.0_Wimbledon,33.0,London,Wimbledon,Outdoor,Grass,Halep S.,7.0,10.0,2.65,2.61,2.7,2.57,0.0,2019
+34.0_0.0_Bucharest Open,34.0,Bucharest,Bucharest Open,Outdoor,Clay,Rybakina E.,106.0,,1.57,1.68,1.69,1.6,0.0,2019
+35.0_0.0_Ladies Open Lausanne,35.0,Lausanne,Ladies Open Lausanne,Outdoor,Clay,Ferro F.,98.0,48.0,2.5,2.44,2.54,2.43,0.0,2019
+36.0_0.0_Baltic Open,36.0,Jurmala,Baltic Open,Outdoor,Clay,Sevastova A.,11.0,194.0,1.22,1.31,1.31,1.23,0.0,2019
+37.0_0.0_Internazionali Femminili di Palermo,37.0,Palermo,Internazionali Femminili di Palermo,Outdoor,Clay,Teichmann J.,82.0,5.0,4.5,5.56,5.56,4.88,0.0,2019
+38.0_0.0_Mubadala Silicon Valley Classic,38.0,San Jose,Mubadala Silicon Valley Classic,Outdoor,Hard,Zheng S.,55.0,10.0,3.2,3.28,3.3,3.1,0.0,2019
+39.0_0.0_Citi Open,39.0,Washington,Citi Open,Outdoor,Hard,Pegula J.,79.0,62.0,2.62,2.7,2.7,2.57,0.0,2019
+40.0_0.0_Rogers Cup,40.0,Toronto,Rogers Cup,Outdoor,Hard,Andreescu B.,27.0,10.0,2.37,2.58,2.6,2.46,0.0,2019
+41.0_0.0_Western & Southern Financial Group Women's Open,41.0,Cincinnati,Western & Southern Financial Group Women's Open,Outdoor,Hard,Keys M.,18.0,153.0,1.44,1.5,1.51,1.48,0.0,2019
+42.0_0.0_Bronx Open,42.0,New York,Bronx Open,Outdoor,Hard,Linette M.,80.0,58.0,2.5,2.61,2.65,2.51,0.0,2019
+43.0_0.0_US Open,43.0,New York,US Open,Outdoor,Hard,Andreescu B.,15.0,8.0,3.4,3.59,3.8,3.4,0.0,2019
+44.0_0.0_Japan Women's Tennis Open,44.0,Hiroshima,Japan Women's Tennis Open,Outdoor,Hard,Hibino N.,146.0,107.0,2.0,2.04,2.06,1.99,0.0,2019
+45.0_0.0_Jiangxi Women's Tennis Open,45.0,Nanchang,Jiangxi Women's Tennis Open,Outdoor,Hard,Peterson R.,78.0,69.0,1.57,1.61,1.63,1.57,0.0,2019
+46.0_0.0_Zhengzhou Open,46.0,Zhengzhou,Zhengzhou Open,Outdoor,Hard,Pliskova Ka.,2.0,23.0,1.5,1.49,1.5,1.47,0.0,2019
+47.0_0.0_Guangzhou Open,47.0,Guangzhou,Guangzhou Open,Outdoor,Hard,Kenin S.,20.0,129.0,1.25,1.27,1.33,1.26,0.0,2019
+48.0_0.0_Toray Pan Pacific Open Tennis Tournament,48.0,Osaka,Toray Pan Pacific Open Tennis Tournament,Outdoor,Hard,Osaka N.,4.0,41.0,1.44,1.47,1.49,1.43,0.0,2019
+49.0_0.0_Korea Open,49.0,Seoul,Korea Open,Outdoor,Hard,Muchova K.,45.0,48.0,1.57,1.57,1.62,1.54,0.0,2019
+50.0_0.0_Tashkent Open,50.0,Tashkent,Tashkent Open,Outdoor,Hard,Van Uytvanck A.,61.0,96.0,1.5,1.57,1.62,1.49,0.0,2019
+51.0_0.0_Wuhan Open,51.0,Wuhan,Wuhan Open,Outdoor,Hard,Sabalenka A.,14.0,35.0,1.44,1.47,1.53,1.45,0.0,2019
+52.0_0.0_China Open,52.0,Beijing,China Open,Outdoor,Hard,Osaka N.,4.0,1.0,1.66,1.7,1.7,1.62,0.0,2019
+53.0_0.0_Generali Ladies Linz,53.0,Linz,Generali Ladies Linz,Indoor,Hard,Gauff C.,110.0,72.0,1.8,1.79,1.95,1.81,0.0,2019
+54.0_0.0_Tianjin Open,54.0,Tianjin,Tianjin Open,Outdoor,Hard,Peterson R.,59.0,125.0,1.5,1.54,1.56,1.49,0.0,2019
+55.0_0.0_BGL BNP Paribas Luxembourg Open,55.0,Luxembourg,BGL BNP Paribas Luxembourg Open,Indoor,Hard,Ostapenko J.,63.0,26.0,2.0,2.22,2.22,2.05,0.0,2019
+56.0_0.0_Kremlin Cup,56.0,Moscow,Kremlin Cup,Indoor,Hard,Bencic B.,10.0,40.0,1.61,1.65,1.67,1.62,0.0,2019
+57.0_0.0_WTA Elite Trophy,57.0,Zhuhai,WTA Elite Trophy,Indoor,Hard,Sabalenka A.,14.0,10.0,1.5,1.55,1.56,1.5,0.0,2019
+58.0_0.0_WTA Finals,58.0,Shenzhen,WTA Finals,Indoor,Hard,Barty A.,1.0,8.0,1.72,1.87,1.87,1.79,0.0,2019
+1.0_0.0_ASB Classic,1.0,Auckland,ASB Classic,Outdoor,Hard,Williams S.,10.0,82.0,1.14,1.14,1.18,1.13,0.0,2020
+2.0_0.0_Brisbane International,2.0,Brisbane,Brisbane International,Outdoor,Hard,Pliskova Ka.,2.0,13.0,1.8,1.87,1.92,1.8,0.0,2020
+3.0_0.0_Shenzhen Open,3.0,Shenzhen,Shenzhen Open,Outdoor,Hard,Alexandrova E.,34.0,36.0,1.61,1.66,1.66,1.61,0.0,2020
+5.0_0.0_Hobart International,5.0,Hobart,Hobart International,Outdoor,Hard,Rybakina E.,30.0,40.0,2.3,2.43,2.44,2.3,0.0,2020
+6.0_0.0_Australian Open,6.0,Melbourne,Australian Open,Outdoor,Hard,Kenin S.,15.0,32.0,2.62,2.62,2.7,2.56,0.0,2020
+7.0_0.0_Thailand Open,7.0,Hua Hin,Thailand Open,Outdoor,Hard,Linette M.,42.0,283.0,1.3,1.29,1.34,1.29,0.0,2020
+8.0_0.0_Ladies Trophy,8.0,St. Petersburg,Ladies Trophy,Indoor,Hard,Bertens K.,8.0,25.0,1.57,1.6,1.61,1.56,0.0,2020
+15.0_0.0_Top Seed Open,15.0,Lexington,Top Seed Open,Outdoor,Hard,Brady J.,49.0,63.0,1.36,1.36,1.4,1.34,0.0,2020
+2.0_0.0_Melbourne Summer Set 1,2.0,Melbourne,Melbourne Summer Set 1,Outdoor,Hard,Halep S.,20.0,31.0,1.3,1.31,1.33,1.29,0.0,2022
+3.0_0.0_Melbourne Summer Set 2,3.0,Melbourne,Melbourne Summer Set 2,Outdoor,Hard,Anisimova A.,78.0,107.0,1.4,1.41,1.45,1.39,0.0,2022
+4.0_0.0_Adelaide International 1,4.0,Adelaide,Adelaide International 1,Outdoor,Hard,Keys M.,87.0,57.0,1.28,1.37,1.37,1.3,0.0,2022
+5.0_0.0_Sydney Tennis Classic,5.0,Sydney,Sydney Tennis Classic,Outdoor,Hard,Badosa P.,9.0,4.0,1.53,1.64,1.69,1.6,0.0,2022
+6.0_0.0_Australian Open,6.0,Melbourne,Australian Open,Outdoor,Hard,Barty A.,1.0,30.0,1.2,1.22,1.26,1.21,0.0,2022
+7.0_0.0_Ladies Trophy,7.0,St. Petersburg,Ladies Trophy,Indoor,Hard,Kontaveit A.,9.0,7.0,1.5,1.52,1.57,1.5,0.0,2022
+33.0_0.0_European Open,33.0,Hamburg,European Open,Outdoor,Clay,Pera B.,81.0,2.0,2.37,2.61,2.61,2.4,0.0,2022
+34.0_0.0_Internazionali Femminili di Palermo,34.0,Palermo,Internazionali Femminili di Palermo,Outdoor,Clay,Begu I.,45.0,78.0,1.44,1.51,1.53,1.48,0.0,2022
+35.0_0.0_Prague Open,35.0,Prague,Prague Open,Outdoor,Hard,Bouzkova M.,66.0,59.0,1.9,1.93,1.95,1.89,0.0,2022
+36.0_0.0_Poland Open,36.0,Warsaw,Poland Open,Outdoor,Clay,Garcia C.,45.0,108.0,1.4,1.48,1.48,1.39,0.0,2022
+38.0_0.0_Citi Open,38.0,Washington,Citi Open,Outdoor,Hard,Samsonova L.,60.0,37.0,1.72,1.72,1.8,1.71,0.0,2022
+41.0_0.0_Tennis in the Land,41.0,Cleveland,Tennis in the Land,Outdoor,Hard,Samsonova L.,45.0,36.0,1.44,1.5,1.51,1.45,0.0,2022
+2.0_0.0_ASB Classic,2.0,Auckland,ASB Classic,Outdoor,Hard,Gauff C.,7.0,130.0,1.17,1.2,1.2,1.18,0.0,2023
+6.0_0.0_Thailand Open,6.0,Hua Hin,Thailand Open,Outdoor,Hard,Zhu L.,54.0,136.0,1.8,1.88,1.9,1.81,0.0,2023
+7.0_0.0_Lyon Open,7.0,Lyon,Lyon Open,Indoor,Hard,Parks A.,79.0,5.0,4.33,4.38,4.4,4.09,0.0,2023
+8.0_0.0_Abu Dhabi WTA Women's Tennis Open,8.0,Abu Dhabi,Abu Dhabi WTA Women's Tennis Open,Outdoor,Hard,Bencic B.,9.0,19.0,1.62,1.68,1.68,1.62,0.0,2023
+10.0_0.0_Qatar Open,10.0,Doha,Qatar Open,Outdoor,Hard,Swiatek I.,1.0,4.0,1.22,1.25,1.25,1.22,0.0,2023
+11.0_0.0_Dubai Duty Free Tennis Championships,11.0,Dubai,Dubai Duty Free Tennis Championships,Outdoor,Hard,Krejcikova B.,30.0,1.0,7.0,6.79,7.1,6.26,0.0,2023
+12.0_0.0_Merida Open,12.0,Merida,Merida Open,Outdoor,Hard,Giorgi C.,68.0,140.0,1.44,1.47,1.47,1.43,0.0,2023
+18.0_0.0_Charleston Open,18.0,Charleston,Charleston Open,Outdoor,Clay,Jabeur O.,5.0,11.0,2.0,2.14,2.16,2.06,0.0,2023
+0.0_1.0_Brisbane International,0.0,Brisbane,Brisbane International,Outdoor,Hard,Nishikori K.,9.0,16.0,1.57,1.66,1.67,1.6,1.0,2019
+0.0_2.0_Qatar Exxon Mobil Open,0.0,Doha,Qatar Exxon Mobil Open,Outdoor,Hard,Bautista Agut R.,24.0,71.0,1.57,1.6,1.65,1.6,2.0,2019
+0.0_3.0_Maharashtra Open,0.0,Pune,Maharashtra Open,Outdoor,Hard,Anderson K.,6.0,100.0,1.28,1.3,1.3,1.27,3.0,2019
+0.0_4.0_ASB Classic,0.0,Auckland,ASB Classic,Outdoor,Hard,Sandgren T.,63.0,93.0,2.2,2.3,2.35,2.18,4.0,2019
+0.0_5.0_Sydney International,0.0,Sydney,Sydney International,Outdoor,Hard,De Minaur A.,29.0,37.0,1.33,1.39,1.4,1.36,5.0,2019
+0.0_6.0_Australian Open,0.0,Melbourne,Australian Open,Outdoor,Hard,Djokovic N.,1.0,2.0,1.74,1.77,1.84,1.75,6.0,2019
+0.0_7.0_Cordoba Open,0.0,Cordoba,Cordoba Open,Outdoor,Clay,Londero J.I.,112.0,59.0,2.75,3.08,3.2,2.96,7.0,2019
+0.0_8.0_Open Sud de France,0.0,Montpellier,Open Sud de France,Indoor,Hard,Tsonga J.W.,210.0,44.0,1.61,1.55,1.66,1.57,8.0,2019
+0.0_9.0_Sofia Open,0.0,Sofia,Sofia Open,Indoor,Hard,Medvedev D.,16.0,47.0,1.14,1.17,1.18,1.16,9.0,2019
+0.0_10.0_Argentina Open,0.0,Buenos Aires,Argentina Open,Outdoor,Clay,Cecchinato M.,18.0,19.0,2.2,2.33,2.37,2.27,10.0,2019
+0.0_11.0_New York Open,0.0,New York,New York Open,Indoor,Hard,Opelka R.,89.0,154.0,1.5,1.47,1.5,1.46,11.0,2019
+0.0_12.0_ABN AMRO World Tennis Tournament,0.0,Rotterdam,ABN AMRO World Tennis Tournament,Indoor,Hard,Monfils G.,33.0,68.0,2.5,2.45,2.5,2.39,12.0,2019
+0.0_13.0_Delray Beach Open,0.0,Delray Beach,Delray Beach Open,Outdoor,Hard,Albot R.,82.0,148.0,2.75,2.76,3.0,2.78,13.0,2019
+0.0_14.0_Open 13,0.0,Marseille,Open 13,Indoor,Hard,Tsitsipas S.,12.0,50.0,1.3,1.34,1.34,1.3,14.0,2019
+0.0_15.0_Rio Open,0.0,Rio de Janeiro,Rio Open,Outdoor,Clay,Djere L.,90.0,104.0,2.2,2.23,2.25,2.14,15.0,2019
+0.0_16.0_Abierto Mexicano,0.0,Acapulco,Abierto Mexicano,Outdoor,Hard,Kyrgios N.,72.0,3.0,2.75,3.0,3.1,2.84,16.0,2019
+0.0_17.0_Dubai Tennis Championships,0.0,Dubai ,Dubai Tennis Championships,Outdoor,Hard,Federer R.,7.0,11.0,1.28,1.36,1.36,1.32,17.0,2019
+0.0_18.0_Brasil Open,0.0,Sao Paulo,Brasil Open,Indoor,Clay,Pella G.,48.0,92.0,1.5,1.63,1.63,1.5,18.0,2019
+0.0_19.0_BNP Paribas Open,0.0,Indian Wells,BNP Paribas Open,Outdoor,Hard,Thiem D.,8.0,4.0,4.0,4.37,4.4,3.98,19.0,2019
+0.0_20.0_Sony Ericsson Open,0.0,Miami,Sony Ericsson Open,Outdoor,Hard,Federer R.,5.0,9.0,1.22,1.3,1.3,1.25,20.0,2019
+0.0_21.0_U.S. Men's Clay Court Championships,0.0,Houston,U.S. Men's Clay Court Championships,Outdoor,Clay,Garin C.,73.0,95.0,1.66,1.68,1.75,1.67,21.0,2019
+0.0_22.0_Grand Prix Hassan II,0.0,Marrakech,Grand Prix Hassan II,Outdoor,Clay,Paire B.,69.0,70.0,2.1,2.27,2.27,2.16,22.0,2019
+0.0_23.0_Monte Carlo Masters,0.0,Monte Carlo,Monte Carlo Masters,Outdoor,Clay,Fognini F.,18.0,48.0,1.57,1.68,1.68,1.59,23.0,2019
+0.0_24.0_Open Banco Sabadell ,0.0,Barcelona,Open Banco Sabadell ,Outdoor,Clay,Thiem D.,5.0,14.0,1.28,1.32,1.4,1.29,24.0,2019
+0.0_25.0_Hungarian Open,0.0,Budapest,Hungarian Open,Outdoor,Clay,Berrettini M.,55.0,105.0,2.2,2.28,2.3,2.18,25.0,2019
+0.0_26.0_Millennium Estoril Open,0.0,Estoril,Millennium Estoril Open,Outdoor,Clay,Tsitsipas S.,10.0,67.0,1.36,1.39,1.41,1.37,26.0,2019
+0.0_27.0_BMW Open,0.0,Munich,BMW Open,Outdoor,Clay,Garin C.,47.0,37.0,1.9,1.88,1.95,1.86,27.0,2019
+0.0_28.0_Mutua Madrid Open,0.0,Madrid,Mutua Madrid Open,Outdoor,Clay,Djokovic N.,1.0,9.0,1.4,1.51,1.51,1.43,28.0,2019
+0.0_29.0_Internazionali BNL d'Italia,0.0,Rome,Internazionali BNL d'Italia,Outdoor,Clay,Nadal R.,2.0,1.0,1.44,1.57,1.57,1.5,29.0,2019
+0.0_30.0_Geneva Open,0.0,Geneva,Geneva Open,Outdoor,Clay,Zverev A.,5.0,75.0,1.44,1.49,1.5,1.45,30.0,2019
+0.0_31.0_Lyon Open,0.0,Lyon,Lyon Open,Outdoor,Clay,Paire B.,51.0,28.0,2.0,2.1,2.1,1.98,31.0,2019
+0.0_32.0_French Open,0.0,Paris,French Open,Outdoor,Clay,Nadal R.,2.0,4.0,1.2,1.22,1.3,1.21,32.0,2019
+0.0_33.0_Rosmalen Grass Court Championships,0.0,'s-Hertogenbosch,Rosmalen Grass Court Championships,Outdoor,Grass,Mannarino A.,44.0,62.0,1.72,1.81,1.81,1.75,33.0,2019
+0.0_34.0_Mercedes Cup,0.0,Stuttgart,Mercedes Cup,Outdoor,Grass,Berrettini M.,30.0,21.0,1.44,1.5,1.5,1.45,34.0,2019
+0.0_35.0_Halle Open,0.0,Halle,Halle Open,Outdoor,Grass,Federer R.,3.0,33.0,1.14,1.15,1.18,1.15,35.0,2019
+0.0_36.0_Queen's Club Championships,0.0,Queens Club,Queen's Club Championships,Outdoor,Grass,Lopez F.,113.0,38.0,1.53,1.63,1.63,1.56,36.0,2019
+0.0_37.0_Antalya Open,0.0,Antalya,Antalya Open,Outdoor,Grass,Sonego L.,75.0,82.0,1.8,1.83,1.91,1.8,37.0,2019
+0.0_38.0_Eastbourne International,0.0,Eastbourne,Eastbourne International,Outdoor,Grass,Fritz T.,42.0,79.0,2.37,2.41,2.45,2.32,38.0,2019
+0.0_39.0_Wimbledon,0.0,London,Wimbledon,Outdoor,Grass,Djokovic N.,1.0,3.0,1.55,1.55,1.6,1.54,39.0,2019
+0.0_40.0_SkiStar Swedish Open,0.0,Bastad,SkiStar Swedish Open,Outdoor,Clay,Jarry N.,64.0,71.0,1.61,1.72,1.72,1.64,40.0,2019
+0.0_41.0_Hall of Fame Championships,0.0,Newport,Hall of Fame Championships,Outdoor,Grass,Isner J.,15.0,83.0,1.33,1.31,1.35,1.3,41.0,2019
+0.0_42.0_Croatia Open,0.0,Umag,Croatia Open,Outdoor,Clay,Lajovic D.,36.0,208.0,1.5,1.53,1.56,1.5,42.0,2019
+0.0_43.0_BB&T Atlanta Open,0.0,Atlanta,BB&T Atlanta Open,Outdoor,Hard,De Minaur A.,34.0,32.0,1.72,1.87,1.87,1.79,43.0,2019
+0.0_44.0_Suisse Open Gstaad,0.0,Gstaad,Suisse Open Gstaad,Outdoor,Clay,Ramos-Vinolas A.,85.0,455.0,1.25,1.27,1.29,1.25,44.0,2019
+0.0_45.0_German Tennis Championships,0.0,Hamburg,German Tennis Championships,Outdoor,Clay,Basilashvili N.,16.0,78.0,2.1,2.12,2.15,2.08,45.0,2019
+0.0_46.0_Generali Open,0.0,Kitzbuhel,Generali Open,Outdoor,Clay,Thiem D.,4.0,69.0,1.25,1.25,1.3,1.23,46.0,2019
+0.0_47.0_Abierto Mexicano Mifel,0.0,Los Cabos,Abierto Mexicano Mifel,Outdoor,Hard,Schwartzman D.,27.0,28.0,2.1,2.18,2.2,2.11,47.0,2019
+0.0_48.0_Citi Open,0.0,Washington,Citi Open,Outdoor,Hard,Kyrgios N.,52.0,10.0,2.1,2.27,2.3,2.13,48.0,2019
+0.0_49.0_Rogers Masters,0.0,Montreal,Rogers Masters,Outdoor,Hard,Nadal R.,2.0,9.0,1.4,1.41,1.44,1.4,49.0,2019
+0.0_50.0_Western & Southern Financial Group Masters,0.0,Cincinnati,Western & Southern Financial Group Masters,Outdoor,Hard,Medvedev D.,8.0,19.0,1.4,1.43,1.43,1.4,50.0,2019
+0.0_51.0_Winston-Salem Open at Wake Forest University,0.0,Winston-Salem,Winston-Salem Open at Wake Forest University,Outdoor,Hard,Hurkacz H.,41.0,30.0,1.5,1.54,1.56,1.51,51.0,2019
+0.0_52.0_US Open,0.0,New York,US Open,Outdoor,Hard,Nadal R.,2.0,5.0,1.16,1.19,1.25,1.19,52.0,2019
+0.0_53.0_Open de Moselle,0.0,Metz,Open de Moselle,Indoor,Hard,Tsonga J.W.,61.0,76.0,1.4,1.41,1.42,1.38,53.0,2019
+0.0_54.0_St. Petersburg Open,0.0,St. Petersburg,St. Petersburg Open,Indoor,Hard,Medvedev D.,4.0,15.0,1.22,1.21,1.24,1.2,54.0,2019
+0.0_55.0_Chengdu Open,0.0,Chengdu,Chengdu Open,Outdoor,Hard,Carreno Busta P.,63.0,71.0,1.4,1.41,1.47,1.4,55.0,2019
+0.0_56.0_Zhuhai Open,0.0,Zhuhai,Zhuhai Open,Outdoor,Hard,De Minaur A.,31.0,61.0,1.3,1.34,1.34,1.28,56.0,2019
+0.0_57.0_China Open,0.0,Beijing,China Open,Outdoor,Hard,Thiem D.,5.0,7.0,1.9,1.83,1.95,1.85,57.0,2019
+0.0_58.0_Rakuten Japan Open Tennis Championships,0.0,Tokyo,Rakuten Japan Open Tennis Championships,Outdoor,Hard,Djokovic N.,1.0,80.0,1.05,1.05,1.06,1.04,58.0,2019
+0.0_59.0_Shanghai Masters,0.0,Shanghai,Shanghai Masters,Outdoor,Hard,Medvedev D.,4.0,6.0,1.53,1.58,1.59,1.54,59.0,2019
+0.0_60.0_European Open,0.0,Antwerp,European Open,Indoor,Hard,Murray A.,243.0,18.0,2.5,2.65,2.75,2.52,60.0,2019
+0.0_61.0_Kremlin Cup,0.0,Moscow,Kremlin Cup,Indoor,Hard,Rublev A.,31.0,44.0,1.5,1.5,1.54,1.43,61.0,2019
+0.0_62.0_Stockholm Open,0.0,Stockholm,Stockholm Open,Indoor,Hard,Shapovalov D.,34.0,60.0,1.53,1.58,1.59,1.53,62.0,2019
+0.0_63.0_Swiss Indoors,0.0,Basel,Swiss Indoors,Indoor,Hard,Federer R.,3.0,28.0,1.1,1.13,1.13,1.1,63.0,2019
+0.0_64.0_Erste Bank Open,0.0,Vienna,Erste Bank Open,Indoor,Hard,Thiem D.,5.0,15.0,1.28,1.32,1.33,1.29,64.0,2019
+0.0_65.0_BNP Paribas Masters,0.0,Paris,BNP Paribas Masters,Indoor,Hard,Djokovic N.,1.0,28.0,1.12,1.16,1.16,1.13,65.0,2019
+0.0_66.0_Masters Cup,0.0,London,Masters Cup,Indoor,Hard,Tsitsipas S. ,6.0,5.0,2.0,2.0,2.05,1.96,66.0,2019
+0.0_1.0_Qatar Exxon Mobil Open,0.0,Doha,Qatar Exxon Mobil Open,Outdoor,Hard,Rublev A.,23.0,81.0,1.22,1.25,1.27,1.22,1.0,2020
+0.0_2.0_ASB Classic,0.0,Auckland,ASB Classic,Outdoor,Hard,Rublev A.,18.0,91.0,1.33,1.32,1.36,1.3,2.0,2020
+0.0_3.0_Adelaide International,0.0,Adelaide,Adelaide International,Outdoor,Hard,Humbert U.,57.0,24.0,1.72,1.71,1.94,1.72,3.0,2020
+0.0_4.0_Australian Open,0.0,Melbourne,Australian Open,Outdoor,Hard,Djokovic N.,2.0,5.0,1.25,1.27,1.33,1.27,4.0,2020
+0.0_5.0_Cordoba Open,0.0,Cordoba,Cordoba Open,Outdoor,Clay,Garin C.,31.0,14.0,3.0,3.28,3.28,3.02,5.0,2020
+0.0_7.0_Open Sud de France,0.0,Montpellier,Open Sud de France,Indoor,Hard,Monfils G.,9.0,132.0,1.44,1.49,1.54,1.45,7.0,2020
+0.0_7.0_Maharashtra Open,0.0,Pune,Maharashtra Open,Outdoor,Hard,Vesely J.,107.0,90.0,2.37,2.51,2.55,2.37,7.0,2020
+0.0_8.0_Argentina Open,0.0,Buenos Aires,Argentina Open,Outdoor,Clay,Ruud C.,45.0,145.0,1.14,1.15,1.2,1.14,8.0,2020
+0.0_9.0_New York Open,0.0,New York,New York Open,Indoor,Hard,Edmund K.,62.0,98.0,1.36,1.41,1.43,1.36,9.0,2020
+0.0_10.0_ABN AMRO World Tennis Tournament,0.0,Rotterdam,ABN AMRO World Tennis Tournament,Indoor,Hard,Monfils G.,9.0,21.0,1.57,1.62,1.64,1.56,10.0,2020
+0.0_11.0_Delray Beach Open,0.0,Delray Beach,Delray Beach Open,Outdoor,Hard,Opelka R.,54.0,63.0,1.5,1.58,1.59,1.53,11.0,2020
+0.0_12.0_Open 13,0.0,Marseille,Open 13,Indoor,Hard,Tsitsipas S.,6.0,18.0,1.44,1.41,1.49,1.41,12.0,2020
+0.0_13.0_Rio Open,0.0,Rio de Janeiro,Rio Open,Outdoor,Clay,Garin C.,25.0,128.0,1.25,1.3,1.3,1.26,13.0,2020
+0.0_14.0_Abierto Mexicano,0.0,Acapulco,Abierto Mexicano,Outdoor,Hard,Nadal R.,2.0,35.0,1.06,1.07,1.1,1.06,14.0,2020
+0.0_15.0_Dubai Tennis Championships,0.0,Dubai ,Dubai Tennis Championships,Outdoor,Hard,Djokovic N.,1.0,6.0,1.3,1.36,1.38,1.33,15.0,2020
+0.0_16.0_Chile Open,0.0,Santiago,Chile Open,Indoor,Clay,Seyboth Wild T.,182.0,38.0,3.4,3.37,3.78,3.36,16.0,2020
+0.0_17.0_Western & Southern Financial Group Masters,0.0,New York,Western & Southern Financial Group Masters,Outdoor,Hard,Djokovic N.,1.0,30.0,1.36,1.37,1.39,1.33,17.0,2020
+0.0_18.0_Generali Open,0.0,Kitzbuhel,Generali Open,Outdoor,Clay,Kecmanovic M.,47.0,118.0,1.75,1.87,1.91,1.83,18.0,2020
+0.0_19.0_US Open,0.0,New York,US Open,Outdoor,Hard,Thiem D.,3.0,7.0,1.25,1.3,1.31,1.27,19.0,2020
+0.0_20.0_Internazionali BNL d'Italia,0.0,Rome,Internazionali BNL d'Italia,Outdoor,Clay,Djokovic N.,1.0,15.0,1.16,1.16,1.19,1.16,20.0,2020
+0.0_21.0_German Tennis Championships,0.0,Hamburg,German Tennis Championships,Outdoor,Clay,Rublev A.,14.0,6.0,1.7,1.84,1.9,1.77,21.0,2020
+0.0_22.0_French Open,0.0,Paris,French Open,Outdoor,Clay,Nadal R.,2.0,1.0,1.72,1.71,1.73,1.68,22.0,2020
+0.0_23.0_bett1HULKS Indoors,0.0,Cologne,bett1HULKS Indoors,Indoor,Hard,Zverev A.,7.0,22.0,1.36,1.44,1.47,1.39,23.0,2020
+0.0_24.0_Forte Village Sardegna Open,0.0,Sardinia,Forte Village Sardegna Open,Outdoor,Clay,Djere L.,74.0,103.0,2.5,2.64,2.78,2.53,24.0,2020
+0.0_25.0_St. Petersburg Open,0.0,St. Petersburg,St. Petersburg Open,Indoor,Hard,Rublev A.,10.0,27.0,1.22,1.29,1.3,1.25,25.0,2020
+0.0_26.0_European Open,0.0,Antwerp,European Open,Indoor,Hard,Humbert U.,38.0,29.0,2.5,2.8,2.8,2.58,26.0,2020
+0.0_27.0_bett1HULKS Championship,0.0,Cologne,bett1HULKS Championship,Indoor,Hard,Zverev A.,7.0,9.0,1.44,1.56,1.57,1.51,27.0,2020
+0.0_28.0_Astana Open,0.0,Nur-Sultan,Astana Open,Indoor,Hard,Millman J.,45.0,39.0,2.2,2.38,2.54,2.26,28.0,2020
+0.0_29.0_Erste Bank Open,0.0,Vienna,Erste Bank Open,Indoor,Hard,Rublev A.,8.0,42.0,1.14,1.13,1.18,1.14,29.0,2020
+0.0_30.0_BNP Paribas Masters,0.0,Paris,BNP Paribas Masters,Indoor,Hard,Medvedev D.,5.0,7.0,1.9,2.01,2.05,1.91,30.0,2020
+0.0_31.0_Sofia Open,0.0,Sofia,Sofia Open,Indoor,Hard,Sinner J.,44.0,74.0,1.4,1.45,1.48,1.43,31.0,2020
+0.0_32.0_Masters Cup,0.0,London,Masters Cup,Indoor,Hard,Medvedev D.,4.0,3.0,1.66,1.66,1.85,1.66,32.0,2020
+0.0_1.0_Antalya Open,0.0,Antalya,Antalya Open,Indoor,Hard,De Minaur A.,23.0,49.0,1.2,1.22,1.23,1.21,1.0,2021
+0.0_2.0_Delray Beach Open,0.0,Delray Beach,Delray Beach Open,Outdoor,Hard,Hurkacz H.,35.0,119.0,1.8,1.83,1.92,1.81,2.0,2021
+0.0_3.0_Great Ocean Road Open,0.0,Melbourne,Great Ocean Road Open,Outdoor,Hard,Sinner J.,36.0,71.0,1.25,1.22,1.27,1.23,3.0,2021
+0.0_4.0_Murray River Open,0.0,Melbourne,Murray River Open,Outdoor,Hard,Evans D.,33.0,21.0,2.2,2.35,2.4,2.25,4.0,2021
+0.0_5.0_Australian Open,0.0,Melbourne,Australian Open,Outdoor,Hard,Djokovic N.,1.0,4.0,1.83,1.83,1.97,1.84,5.0,2021
+0.0_6.0_Cordoba Open,0.0,Cordoba,Cordoba Open,Outdoor,Clay,Cerundolo J.M.,335.0,47.0,2.62,2.64,2.88,2.6,6.0,2021
+0.0_7.0_Open Sud de France,0.0,Montpellier,Open Sud de France,Indoor,Hard,Goffin D.,15.0,13.0,3.0,2.95,3.15,2.9,7.0,2021
+0.0_8.0_Singapore Open,0.0,Singapore,Singapore Open,Indoor,Hard,Popyrin A.,114.0,46.0,2.3,2.37,2.45,2.31,8.0,2021
+0.0_9.0_Argentina Open,0.0,Buenos Aires,Argentina Open,Outdoor,Clay,Schwartzman D.,9.0,137.0,1.2,1.18,1.21,1.16,9.0,2021
+0.0_10.0_ABN AMRO World Tennis Tournament,0.0,Rotterdam,ABN AMRO World Tennis Tournament,Indoor,Hard,Rublev A.,8.0,59.0,1.25,1.29,1.31,1.27,10.0,2021
+0.0_11.0_Qatar Exxon Mobil Open,0.0,Doha,Qatar Exxon Mobil Open,Outdoor,Hard,Basilashvili N.,42.0,13.0,4.0,4.64,4.64,4.06,11.0,2021
+0.0_12.0_Open 13,0.0,Marseille,Open 13,Indoor,Hard,Medvedev D.,3.0,93.0,1.2,1.19,1.22,1.18,12.0,2021
+0.0_13.0_Chile Open,0.0,Santiago,Chile Open,Indoor,Clay,Garin C.,22.0,118.0,1.5,1.55,1.55,1.49,13.0,2021
+0.0_14.0_Abierto Mexicano,0.0,Acapulco,Abierto Mexicano,Outdoor,Hard,Zverev A.,7.0,5.0,2.75,2.52,2.78,2.57,14.0,2021
+0.0_15.0_Dubai Tennis Championships,0.0,Dubai ,Dubai Tennis Championships,Outdoor,Hard,Karatsev A.,42.0,81.0,1.5,1.54,1.57,1.51,15.0,2021
+0.0_16.0_Miami Open,0.0,Miami,Miami Open,Outdoor,Hard,Hurkacz H.,37.0,31.0,2.37,2.36,2.55,2.38,16.0,2021
+0.0_17.0_Sardegna Open,0.0,Cagliari,Sardegna Open,Outdoor,Hard,Sonego L.,34.0,57.0,2.2,2.37,2.45,2.28,17.0,2021
+0.0_18.0_AnyTech365 Andalucia Open,0.0,Marbella,AnyTech365 Andalucia Open,Outdoor,Hard,Carreno Busta P.,15.0,95.0,1.57,1.67,1.71,1.58,18.0,2021
+0.0_19.0_Monte Carlo Masters,0.0,Monte Carlo,Monte Carlo Masters,Outdoor,Clay,Tsitsipas S.,5.0,8.0,2.0,2.0,2.22,2.0,19.0,2021
+0.0_20.0_Barcelona Open,0.0,Barcelona,Barcelona Open,Outdoor,Clay,Nadal R.,3.0,5.0,1.57,1.54,1.63,1.53,20.0,2021
+0.0_21.0_Serbia Open,0.0,Belgrade,Serbia Open,Outdoor,Clay,Berrettini M.,10.0,28.0,2.0,1.95,2.09,1.94,21.0,2021
+0.0_22.0_Millennium Estoril Open,0.0,Estoril,Millennium Estoril Open,Outdoor,Clay,Ramos-Vinolas A.,46.0,50.0,1.57,1.57,1.64,1.57,22.0,2021
+0.0_23.0_BMW Open,0.0,Munich,BMW Open,Outdoor,Clay,Basilashvili N.,35.0,44.0,1.72,1.79,1.82,1.68,23.0,2021
+0.0_24.0_Mutua Madrid Open,0.0,Madrid,Mutua Madrid Open,Outdoor,Clay,Zverev A.,6.0,10.0,1.61,1.68,1.69,1.62,24.0,2021
+0.0_25.0_Internazionali BNL d'Italia,0.0,Rome,Internazionali BNL d'Italia,Outdoor,Clay,Nadal R.,3.0,1.0,1.5,1.58,1.58,1.51,25.0,2021
+0.0_26.0_Geneva Open,0.0,Geneva,Geneva Open,Outdoor,Clay,Ruud C.,21.0,15.0,1.61,1.69,1.71,1.65,26.0,2021
+0.0_27.0_Lyon Open,0.0,Lyon,Lyon Open,Outdoor,Clay,Tsitsipas S.,5.0,49.0,1.16,1.16,1.25,1.16,27.0,2021
+0.0_28.0_Belgrade Open,0.0,Belgrade,Belgrade Open,Outdoor,Clay,Djokovic N.,1.0,255.0,1.02,1.04,1.05,1.02,28.0,2021
+0.0_29.0_Emilia-Romagna Open,0.0,Parma,Emilia-Romagna Open,Outdoor,Clay,Korda S.,63.0,104.0,1.61,1.62,1.67,1.59,29.0,2021
+0.0_30.0_French Open,0.0,Paris,French Open,Outdoor,Clay,Djokovic N.,1.0,5.0,1.4,1.45,1.45,1.38,30.0,2021
+0.0_31.0_Mercedes Cup,0.0,Stuttgart,Mercedes Cup,Outdoor,Grass,Cilic M.,47.0,21.0,1.8,1.81,1.83,1.77,31.0,2021
+0.0_32.0_Halle Open,0.0,Halle,Halle Open,Outdoor,Grass,Humbert U.,31.0,7.0,3.0,3.09,3.15,2.92,32.0,2021
+0.0_33.0_Queen's Club Championships,0.0,Queens Club,Queen's Club Championships,Outdoor,Grass,Berrettini M.,9.0,41.0,1.28,1.3,1.34,1.28,33.0,2021
+0.0_34.0_Viking International,0.0,Eastbourne,Viking International,Outdoor,Grass,De Minaur A.,18.0,27.0,1.44,1.43,1.52,1.42,34.0,2021
+0.0_35.0_Mallorca Championships,0.0,Mallorca,Mallorca Championships,Outdoor,Grass,Medvedev D.,2.0,60.0,1.28,1.26,1.29,1.25,35.0,2021
+0.0_36.0_Wimbledon,0.0,London,Wimbledon,Outdoor,Grass,Djokovic N.,1.0,9.0,1.22,1.23,1.27,1.21,36.0,2021
+0.0_37.0_Nordea Open,0.0,Bastad,Nordea Open,Outdoor,Clay,Ruud C.,16.0,77.0,1.14,1.2,1.22,1.17,37.0,2021
+0.0_38.0_European Open,0.0,Hamburg,European Open,Outdoor,Clay,Carreno Busta P.,13.0,44.0,1.66,1.74,1.78,1.68,38.0,2021
+0.0_39.0_Hall of Fame Championships,0.0,Newport,Hall of Fame Championships,Outdoor,Grass,Anderson K.,113.0,152.0,1.61,1.61,1.67,1.56,39.0,2021
+0.0_40.0_Suisse Open Gstaad,0.0,Gstaad,Suisse Open Gstaad,Outdoor,Clay,Ruud C.,14.0,155.0,1.14,1.16,1.23,1.14,40.0,2021
+0.0_41.0_Mifel Open,0.0,Los Cabos,Mifel Open,Outdoor,Hard,Norrie C.,30.0,134.0,1.4,1.42,1.44,1.39,41.0,2021
+0.0_42.0_Croatia Open,0.0,Umag,Croatia Open,Outdoor,Clay,Alcaraz C.,73.0,59.0,1.25,1.27,1.29,1.23,42.0,2021
+0.0_43.0_BB&T Atlanta Open,0.0,Atlanta,BB&T Atlanta Open,Outdoor,Hard,Isner J.,35.0,115.0,1.8,1.82,1.82,1.74,43.0,2021
+0.0_44.0_Generali Open,0.0,Kitzbuhel,Generali Open,Outdoor,Clay,Ruud C.,14.0,97.0,1.33,1.3,1.35,1.3,44.0,2021
+0.0_45.0_Citi Open,0.0,Washington,Citi Open,Outdoor,Hard,Sinner J.,24.0,107.0,1.25,1.3,1.31,1.26,45.0,2021
+0.0_46.0_Canadian Open,0.0,Toronto,Canadian Open,Outdoor,Hard,Medvedev D.,2.0,32.0,1.16,1.22,1.23,1.19,46.0,2021
+0.0_47.0_Western & Southern Financial Group Masters,0.0,Cincinnati,Western & Southern Financial Group Masters,Outdoor,Hard,Zverev A.,5.0,7.0,1.4,1.4,1.44,1.4,47.0,2021
+0.0_48.0_Winston-Salem Open at Wake Forest University,0.0,Winston-Salem,Winston-Salem Open at Wake Forest University,Outdoor,Hard,Ivashka I.,63.0,90.0,1.44,1.5,1.5,1.43,48.0,2021
+0.0_49.0_US Open,0.0,New York,US Open,Outdoor,Hard,Medvedev D.,2.0,1.0,3.0,3.14,3.36,3.04,49.0,2021
+0.0_50.0_Open de Moselle,0.0,Metz,Open de Moselle,Indoor,Hard,Hurkacz H.,13.0,16.0,1.9,1.87,1.94,1.87,50.0,2021
+0.0_51.0_Astana Open,0.0,Nur-Sultan,Astana Open,Indoor,Hard,Kwon S.W.,82.0,65.0,2.0,2.11,2.16,2.02,51.0,2021
+0.0_52.0_San Diego Open,0.0,San Diego,San Diego Open,Outdoor,Hard,Ruud C.,10.0,28.0,1.9,1.99,2.04,1.91,52.0,2021
+0.0_53.0_Sofia Open,0.0,Sofia,Sofia Open,Indoor,Hard,Sinner J.,14.0,20.0,1.57,1.69,1.69,1.59,53.0,2021
+0.0_54.0_BNP Paribas Open,0.0,Indian Wells,BNP Paribas Open,Outdoor,Hard,Norrie C.,26.0,36.0,1.57,1.56,1.67,1.57,54.0,2021
+0.0_55.0_European Open,0.0,Antwerp,European Open,Indoor,Hard,Sinner J.,16.0,13.0,1.44,1.49,1.52,1.44,55.0,2021
+0.0_56.0_Kremlin Cup,0.0,Moscow,Kremlin Cup,Indoor,Hard,Karatsev A.,22.0,41.0,1.66,1.75,1.75,1.71,56.0,2021
+0.0_57.0_St. Petersburg Open,0.0,St. Petersburg,St. Petersburg Open,Indoor,Hard,Cilic M.,35.0,28.0,2.0,2.08,2.15,2.02,57.0,2021
+0.0_58.0_Vienna Open,0.0,Vienna,Vienna Open,Indoor,Hard,Zverev A.,4.0,49.0,1.2,1.21,1.24,1.19,58.0,2021
+0.0_59.0_BNP Paribas Masters,0.0,Paris,BNP Paribas Masters,Indoor,Hard,Djokovic N.,1.0,2.0,2.0,2.13,2.13,2.02,59.0,2021
+0.0_60.0_Stockholm Open,0.0,Stockholm,Stockholm Open,Indoor,Hard,Paul T.,52.0,18.0,2.3,2.4,2.5,2.28,60.0,2021
+0.0_61.0_Masters Cup,0.0,Turin,Masters Cup,Indoor,Hard,Zverev A.,3.0,2.0,2.5,2.44,2.65,2.44,61.0,2021
+0.0_1.0_Adelaide International 1,0.0,Adelaide,Adelaide International 1,Outdoor,Hard,Monfils G.,21.0,29.0,1.61,1.63,1.67,1.6,1.0,2022
+0.0_2.0_Melbourne Summer Set,0.0,Melbourne,Melbourne Summer Set,Outdoor,Hard,Nadal R.,6.0,112.0,1.12,1.16,1.18,1.14,2.0,2022
+0.0_3.0_Adelaide International 2,0.0,Adelaide,Adelaide International 2,Outdoor,Hard,Kokkinakis T.,145.0,58.0,1.8,1.91,2.0,1.85,3.0,2022
+0.0_4.0_Sydney Tennis Classic,0.0,Sydney,Sydney Tennis Classic,Outdoor,Hard,Karatsev A.,20.0,135.0,1.8,1.76,1.86,1.77,4.0,2022
+0.0_5.0_Australian Open,0.0,Melbourne,Australian Open,Outdoor,Hard,Nadal R.,5.0,2.0,2.62,2.49,2.71,2.56,5.0,2022
+0.0_6.0_Cordoba Open,0.0,Cordoba,Cordoba Open,Outdoor,Clay,Ramos-Vinolas A.,44.0,144.0,1.72,1.76,1.83,1.71,6.0,2022
+0.0_7.0_Open Sud de France,0.0,Montpellier,Open Sud de France,Indoor,Hard,Bublik A.,35.0,3.0,5.5,6.43,7.0,5.67,7.0,2022
+0.0_8.0_Maharashtra Open,0.0,Pune,Maharashtra Open,Outdoor,Hard,Sousa J.,137.0,87.0,5.0,5.67,5.75,4.98,8.0,2022
+0.0_9.0_Argentina Open,0.0,Buenos Aires,Argentina Open,Outdoor,Clay,Ruud C.,8.0,15.0,1.44,1.46,1.5,1.42,9.0,2022
+0.0_10.0_Dallas Open,0.0,Dallas,Dallas Open,Indoor,Hard,Opelka R.,23.0,54.0,1.8,1.9,1.91,1.78,10.0,2022
+0.0_11.0_ABN AMRO World Tennis Tournament,0.0,Rotterdam,ABN AMRO World Tennis Tournament,Indoor,Hard,Auger-Aliassime F.,9.0,4.0,2.0,2.06,2.3,2.05,11.0,2022
+0.0_12.0_Delray Beach Open,0.0,Delray Beach,Delray Beach Open,Outdoor,Hard,Norrie C.,13.0,20.0,1.66,1.69,1.74,1.65,12.0,2022
+0.0_13.0_Qatar Exxon Mobil Open,0.0,Doha,Qatar Exxon Mobil Open,Outdoor,Hard,Bautista Agut R.,16.0,22.0,1.5,1.48,1.53,1.47,13.0,2022
+0.0_14.0_Open 13,0.0,Marseille,Open 13,Indoor,Hard,Rublev A.,7.0,9.0,2.37,2.46,2.57,2.42,14.0,2022
+0.0_15.0_Rio Open,0.0,Rio de Janeiro,Rio Open,Outdoor,Clay,Alcaraz C.,29.0,14.0,1.33,1.39,1.39,1.34,15.0,2022
+0.0_16.0_Abierto Mexicano,0.0,Acapulco,Abierto Mexicano,Outdoor,Hard,Nadal R.,5.0,12.0,1.16,1.21,1.22,1.18,16.0,2022
+0.0_17.0_Dubai Tennis Championships,0.0,Dubai ,Dubai Tennis Championships,Outdoor,Hard,Rublev A.,7.0,123.0,1.33,1.36,1.39,1.34,17.0,2022
+0.0_18.0_Chile Open,0.0,Santiago,Chile Open,Indoor,Clay,Martinez P.,72.0,78.0,2.2,2.3,2.42,2.19,18.0,2022
+0.0_19.0_BNP Paribas Open,0.0,Indian Wells,BNP Paribas Open,Outdoor,Hard,Fritz T.,20.0,4.0,4.5,5.17,5.5,4.86,19.0,2022
+0.0_20.0_Miami Open,0.0,Miami,Miami Open,Outdoor,Hard,Alcaraz C.,16.0,8.0,1.33,1.37,1.41,1.34,20.0,2022
+0.0_21.0_U.S. Men's Clay Court Championships,0.0,Houston,U.S. Men's Clay Court Championships,Outdoor,Clay,Opelka R.,18.0,27.0,1.61,1.61,1.68,161.0,21.0,2022
+0.0_22.0_Grand Prix Hassan II,0.0,Marrakech,Grand Prix Hassan II,Outdoor,Clay,Goffin D.,74.0,65.0,2.0,2.05,2.1,1.99,22.0,2022
+0.0_23.0_Monte Carlo Masters,0.0,Monte Carlo,Monte Carlo Masters,Outdoor,Clay,Tsitsipas S.,5.0,46.0,1.22,1.2,1.3,1.2,23.0,2022
+0.0_24.0_Barcelona Open,0.0,Barcelona,Barcelona Open,Outdoor,Clay,Alcaraz C.,11.0,19.0,1.57,1.61,1.72,1.6,24.0,2022
+0.0_25.0_Serbia Open,0.0,Belgrade,Serbia Open,Outdoor,Clay,Rublev A.,8.0,1.0,3.0,3.16,3.29,2.99,25.0,2022
+0.0_26.0_Millennium Estoril Open,0.0,Estoril,Millennium Estoril Open,Outdoor,Clay,Baez S.,59.0,29.0,1.57,1.6,1.65,1.58,26.0,2022
+0.0_27.0_BMW Open,0.0,Munich,BMW Open,Outdoor,Clay,Rune H.,70.0,40.0,1.5,1.52,1.55,1.5,27.0,2022
+0.0_28.0_Mutua Madrid Open,0.0,Madrid,Mutua Madrid Open,Outdoor,Clay,Alcaraz C.,9.0,3.0,1.53,1.65,1.66,1.54,28.0,2022
+0.0_29.0_Internazionali BNL d'Italia,0.0,Rome,Internazionali BNL d'Italia,Outdoor,Clay,Djokovic N.,1.0,5.0,1.44,1.51,1.53,1.46,29.0,2022
+0.0_30.0_Geneva Open,0.0,Geneva,Geneva Open,Outdoor,Clay,Ruud C.,8.0,79.0,1.12,1.15,1.18,1.14,30.0,2022
+0.0_31.0_Lyon Open,0.0,Lyon,Lyon Open,Outdoor,Clay,Norrie C.,11.0,47.0,1.61,1.68,1.69,1.63,31.0,2022
+0.0_32.0_French Open,0.0,Paris,French Open,Outdoor,Clay,Nadal R.,5.0,8.0,1.16,1.19,1.22,1.18,32.0,2022
+0.0_33.0_Rosmalen Grass Court Championships,0.0,'s-Hertogenbosch,Rosmalen Grass Court Championships,Outdoor,Grass,Van Rijthoven T.,205.0,2.0,5.5,6.07,6.19,5.51,33.0,2022
+0.0_34.0_Mercedes Cup,0.0,Stuttgart,Mercedes Cup,Outdoor,Grass,Berrettini M.,10.0,68.0,1.9,1.97,1.97,1.87,34.0,2022
+0.0_35.0_Halle Open,0.0,Halle,Halle Open,Outdoor,Grass,Hurkacz H.,12.0,1.0,3.0,2.69,3.0,2.78,35.0,2022
+0.0_36.0_Queen's Club Championships,0.0,Queens Club,Queen's Club Championships,Outdoor,Grass,Berrettini M.,10.0,48.0,1.16,1.19,1.2,1.17,36.0,2022
+0.0_37.0_Eastbourne International,0.0,Eastbourne,Eastbourne International,Outdoor,Grass,Fritz T.,14.0,60.0,1.53,1.64,1.64,1.56,37.0,2022
+0.0_38.0_Mallorca Championships,0.0,Mallorca,Mallorca Championships,Outdoor,Grass,Tsitsipas S.,6.0,20.0,1.66,1.74,1.76,1.68,38.0,2022
+0.0_39.0_Wimbledon,0.0,London,Wimbledon,Outdoor,Grass,Djokovic N.,3.0,40.0,1.28,1.28,1.33,1.28,39.0,2022
+0.0_40.0_Nordea Open,0.0,Bastad,Nordea Open,Outdoor,Clay,Cerundolo F.,39.0,34.0,2.75,3.13,3.13,2.86,40.0,2022
+0.0_41.0_Hall of Fame Championships,0.0,Newport,Hall of Fame Championships,Outdoor,Grass,Cressy M.,41.0,42.0,2.2,2.05,2.25,2.1,41.0,2022
+0.0_42.0_Suisse Open Gstaad,0.0,Gstaad,Suisse Open Gstaad,Outdoor,Clay,Ruud C.,5.0,15.0,1.8,1.9,1.94,1.83,42.0,2022
+0.0_43.0_European Open,0.0,Hamburg,European Open,Outdoor,Clay,Musetti L.,62.0,6.0,5.5,7.37,7.37,5.82,43.0,2022
+0.0_44.0_Atlanta Open,0.0,Atlanta,Atlanta Open,Outdoor,Hard,De Minaur A.,30.0,43.0,2.1,2.14,2.21,2.11,44.0,2022
+0.0_45.0_Generali Open,0.0,Kitzbuhel,Generali Open,Outdoor,Clay,Bautista Agut R.,20.0,205.0,1.3,1.36,1.4,1.31,45.0,2022
+0.0_46.0_Croatia Open,0.0,Umag,Croatia Open,Outdoor,Clay,Sinner J.,10.0,5.0,2.3,2.51,2.51,2.31,46.0,2022
+0.0_47.0_Los Cabos Open,0.0,Los Cabos,Los Cabos Open,Outdoor,Hard,Medvedev D.,1.0,12.0,1.33,1.4,1.4,1.34,47.0,2022
+0.0_48.0_Citi Open,0.0,Washington,Citi Open,Outdoor,Hard,Kyrgios N.,63.0,96.0,1.16,1.23,1.24,1.19,48.0,2022
+0.0_49.0_Canadian Open,0.0,Montreal,Canadian Open,Outdoor,Hard,Carreno Busta P.,23.0,10.0,2.37,2.27,2.46,2.3,49.0,2022
+0.0_50.0_Western & Southern Financial Group Masters,0.0,Cincinnati,Western & Southern Financial Group Masters,Outdoor,Hard,Coric B.,152.0,7.0,2.37,2.39,2.52,2.36,50.0,2022
+0.0_51.0_Winston-Salem Open at Wake Forest University,0.0,Winston-Salem,Winston-Salem Open at Wake Forest University,Outdoor,Hard,Mannarino A.,65.0,89.0,1.44,1.5,1.55,1.48,51.0,2022
+0.0_52.0_US Open,0.0,New York,US Open,Outdoor,Hard,Alcaraz C.,4.0,7.0,1.45,1.48,1.53,1.46,52.0,2022
+0.0_53.0_Open de Moselle,0.0,Metz,Open de Moselle,Indoor,Hard,Sonego L.,65.0,44.0,1.9,2.0,2.0,1.88,53.0,2022
+0.0_54.0_San Diego Open,0.0,San Diego,San Diego Open,Outdoor,Hard,Nakashima B.,69.0,58.0,1.4,1.47,1.5,1.44,54.0,2022
+0.0_55.0_Korea Open,0.0,Seoul,Korea Open,Outdoor,Hard,Nishioka Y.,56.0,24.0,2.5,2.47,2.52,2.37,55.0,2022
+0.0_56.0_Sofia Open,0.0,Sofia,Sofia Open,Indoor,Hard,Huesler M.A.,95.0,31.0,2.62,2.68,2.81,2.55,56.0,2022
+0.0_57.0_Tel Aviv Open,0.0,Tel Aviv,Tel Aviv Open,Indoor,Hard,Djokovic N.,7.0,16.0,1.25,1.2,1.27,1.22,57.0,2022
+0.0_58.0_Astana Open,0.0,Nur-Sultan,Astana Open,Indoor,Hard,Djokovic N.,7.0,6.0,1.25,1.26,1.29,1.25,58.0,2022
+0.0_59.0_Rakuten Japan Open Tennis Championships,0.0,Tokyo,Rakuten Japan Open Tennis Championships,Outdoor,Hard,Fritz T.,11.0,19.0,1.72,1.74,1.76,1.72,59.0,2022
+0.0_60.0_Firenze Open,0.0,Florence,Firenze Open,Indoor,Hard,Auger-Aliassime F.,13.0,75.0,1.2,1.25,1.26,1.22,60.0,2022
+0.0_61.0_Gijon Open,0.0,Gijon,Gijon Open,Indoor,Hard,Rublev A.,9.0,47.0,1.4,1.46,1.48,1.42,61.0,2022
+0.0_62.0_European Open,0.0,Antwerp,European Open,Indoor,Hard,Auger-Aliassime F.,10.0,36.0,1.53,1.56,1.57,1.53,62.0,2022
+0.0_63.0_Napoli Cup,0.0,Napoli,Napoli Cup,Outdoor,Hard,Musetti L.,24.0,16.0,1.9,1.79,2.0,1.88,63.0,2022
+0.0_64.0_Stockholm Open,0.0,Stockholm,Stockholm Open,Indoor,Hard,Rune H.,27.0,5.0,3.2,3.35,3.38,3.1,64.0,2022
+0.0_65.0_Swiss Indoors,0.0,Basel,Swiss Indoors,Indoor,Hard,Auger-Aliassime F.,9.0,25.0,1.33,1.34,1.4,1.33,65.0,2022
+0.0_66.0_Vienna Open,0.0,Vienna,Vienna Open,Indoor,Hard,Medvedev D.,4.0,19.0,1.22,1.27,1.3,1.23,66.0,2022
+0.0_67.0_BNP Paribas Masters,0.0,Paris,BNP Paribas Masters,Indoor,Hard,Rune H.,18.0,7.0,4.0,4.3,4.5,4.06,67.0,2022
+0.0_68.0_Masters Cup,0.0,Turin,Masters Cup,Indoor,Hard,Djokovic N.,8.0,4.0,1.22,1.22,1.29,1.23,68.0,2022
+0.0_1.0_Adelaide International 1,0.0,Adelaide,Adelaide International 1,Outdoor,Hard,Djokovic N.,5.0,33.0,1.14,1.16,1.18,1.15,1.0,2023
+0.0_2.0_Maharashtra Open,0.0,Pune,Maharashtra Open,Outdoor,Hard,Griekspoor T.,95.0,60.0,2.3,2.31,2.38,2.24,2.0,2023
+0.0_3.0_Adelaide International 2,0.0,Adelaide,Adelaide International 2,Outdoor,Hard,Kwon S.W.,84.0,26.0,2.75,2.49,3.0,2.58,3.0,2023
+0.0_4.0_ASB Classic,0.0,Auckland,ASB Classic,Outdoor,Hard,Gasquet R.,67.0,12.0,3.75,4.18,4.18,3.83,4.0,2023
+0.0_5.0_Australian Open,0.0,Melbourne,Australian Open,Outdoor,Hard,Djokovic N.,5.0,4.0,1.2,1.22,1.23,1.2,5.0,2023
+0.0_6.0_Cordoba Open,0.0,Cordoba,Cordoba Open,Outdoor,Clay,Baez S.,47.0,67.0,1.53,1.67,1.67,1.59,6.0,2023
+0.0_7.0_Dallas Open,0.0,Dallas,Dallas Open,Indoor,Hard,Wu Y.,97.0,39.0,1.8,1.87,1.92,1.83,7.0,2023
+0.0_8.0_Open Sud de France,0.0,Montpellier,Open Sud de France,Indoor,Hard,Sinner J.,17.0,51.0,1.3,1.33,1.35,1.3,8.0,2023
+0.0_9.0_Argentina Open,0.0,Buenos Aires,Argentina Open,Outdoor,Clay,Alcaraz C.,2.0,12.0,1.17,1.21,1.21,1.17,9.0,2023
+0.0_10.0_Delray Beach Open,0.0,Delray Beach,Delray Beach Open,Outdoor,Hard,Fritz T.,7.0,33.0,1.29,1.31,1.32,1.29,10.0,2023
+0.0_11.0_ABN AMRO World Tennis Tournament,0.0,Rotterdam,ABN AMRO World Tennis Tournament,Indoor,Hard,Medvedev D.,11.0,14.0,1.57,1.67,1.67,1.61,11.0,2023
+0.0_12.0_Qatar Exxon Mobil Open,0.0,Doha,Qatar Exxon Mobil Open,Outdoor,Hard,Medvedev D.,8.0,70.0,1.14,1.14,1.17,1.13,12.0,2023
+0.0_13.0_Open 13,0.0,Marseille,Open 13,Indoor,Hard,Hurkacz H.,11.0,60.0,1.5,1.5,1.54,1.48,13.0,2023
+0.0_14.0_Rio Open,0.0,Rio de Janeiro,Rio Open,Outdoor,Clay,Norrie C.,13.0,2.0,4.33,4.81,4.9,4.47,14.0,2023
+0.0_15.0_Abierto Mexicano,0.0,Acapulco,Abierto Mexicano,Outdoor,Hard,De Minaur A.,22.0,23.0,1.67,1.67,1.72,1.65,15.0,2023
+0.0_16.0_Dubai Tennis Championships,0.0,Dubai ,Dubai Tennis Championships,Outdoor,Hard,Medvedev D.,7.0,6.0,1.22,1.25,1.25,1.23,16.0,2023
+0.0_17.0_Chile Open,0.0,Santiago,Chile Open,Indoor,Clay,Jarry N.,87.0,76.0,1.91,1.97,2.1,1.93,17.0,2023
+0.0_18.0_BNP Paribas Open,0.0,Indian Wells,BNP Paribas Open,Outdoor,Hard,Alcaraz C.,2.0,6.0,1.73,1.82,1.86,1.78,18.0,2023
+0.0_19.0_Miami Open,0.0,Miami,Miami Open,Outdoor,Hard,Medvedev D.,5.0,11.0,1.91,1.93,1.99,1.87,19.0,2023
+0.0_20.0_Estoril Open,0.0,Estoril,Estoril Open,Outdoor,Clay,Ruud C.,5.0,40.0,1.44,1.43,1.47,1.42,20.0,2023
+0.0_21.0_U.S. Men's Clay Court Championships,0.0,Houston,U.S. Men's Clay Court Championships,Outdoor,Clay,Tiafoe F.,15.0,73.0,1.4,1.43,1.43,1.39,21.0,2023
+0.0_22.0_Grand Prix Hassan II,0.0,Marrakech,Grand Prix Hassan II,Outdoor,Clay,Carballes Baena R.,82.0,126.0,1.73,1.78,1.81,1.74,22.0,2023
+0.0_23.0_Monte Carlo Masters,0.0,Monte Carlo,Monte Carlo Masters,Outdoor,Clay,Rublev A.,6.0,9.0,2.5,2.55,2.63,2.46,23.0,2023
+0.0_24.0_Barcelona Open,0.0,Barcelona,Barcelona Open,Outdoor,Clay,Alcaraz C.,2.0,5.0,1.25,1.22,1.31,1.24,24.0,2023
+0.0_25.0_Srpska Open,0.0,Banja Luka,Srpska Open,Outdoor,Clay,Lajovic D.,70.0,6.0,4.0,4.19,4.25,3.87,25.0,2023
+0.0_26.0_BMW Open,0.0,Munich,BMW Open,Outdoor,Clay,Rune H.,7.0,29.0,1.25,1.26,1.29,1.24,26.0,2023
+0.0_27.0_Mutua Madrid Open,0.0,Madrid,Mutua Madrid Open,Outdoor,Clay,Alcaraz C.,2.0,65.0,1.06,1.08,1.09,1.06,27.0,2023
+0.0_28.0_Internazionali BNL d'Italia,0.0,Rome,Internazionali BNL d'Italia,Outdoor,Clay,Medvedev D.,3.0,7.0,1.91,1.99,2.2,1.96,28.0,2023
+0.0_29.0_Geneva Open,0.0,Geneva,Geneva Open,Outdoor,Clay,Jarry N.,54.0,862.0,1.73,1.78,1.8,1.74,29.0,2023
+0.0_30.0_Lyon Open,0.0,Lyon,Lyon Open,Outdoor,Clay,Fils A.,112.0,559.0,3.75,3.78,3.78,3.48,30.0,2023
