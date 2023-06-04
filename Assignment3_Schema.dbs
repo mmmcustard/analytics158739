@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="158739Assignment3" id="Project-25fa" database="LogicalDesign" >
+	<schema name="INSTANCE" catalogname="158739Assignment3" >
+		<table name="Court" prior="Entity" >
+			<column name="CourtID" type="INT" length="5" jt="4" mandatory="y" />
+			<column name="CourtType" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_Court" unique="PRIMARY_KEY" >
+				<column name="CourtID" />
+			</index>
+			<fk name="fk_Court_Matches" to_schema="158739Assignment3.INSTANCE" to_table="Matches" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+				<fk_column name="CourtID" pk="CourtID" />
+			</fk>
+		</table>
+		<table name="Location" prior="Locations" >
+			<column name="LocationID" prior="Location_ID" type="INT" length="5" jt="4" mandatory="y" />
+			<column name="Name" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_Location" unique="PRIMARY_KEY" >
+				<column name="LocationID" />
+			</index>
+			<fk name="fk_Location_Matches" to_schema="158739Assignment3.INSTANCE" to_table="Matches" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+				<fk_column name="LocationID" pk="LocationID" />
+			</fk>
+		</table>
+		<table name="Matches" prior="Entity" >
+			<column name="MatchID" type="INT" jt="4" mandatory="y" />
+			<column name="LocationID" type="INT" jt="4" mandatory="y" />
+			<column name="TournamentID" type="INT" jt="4" mandatory="y" />
+			<column name="CourtID" type="INT" jt="4" mandatory="y" />
+			<column name="SurfaceID" type="INT" jt="4" mandatory="y" />
+			<column name="RoundID" type="INT" jt="4" mandatory="y" />
+			<column name="PlayerID" type="INT" jt="4" mandatory="y" />
+			<column name="BestOf" type="INT" jt="4" />
+			<column name="WinLoseName" type="VARCHAR" length="100" jt="12" />
+			<column name="WLRank" type="INT" jt="4" />
+			<column name="Comment" type="VARCHAR" length="100" jt="12" />
+			<column name="AvgWL" type="INT" jt="4" />
+			<column name="WLsets" type="INT" jt="4" />
+			<column name="Wpts" type="INT" jt="4" />
+			<column name="win" type="BOOLEAN" jt="-7" />
+			<index name="pk_Matches" unique="PRIMARY_KEY" >
+				<column name="MatchID" />
+			</index>
+			<index name="unq_LocationID" unique="UNIQUE_INDEX" >
+				<column name="LocationID" />
+			</index>
+			<index name="unq_PlayerID" unique="UNIQUE_INDEX" >
+				<column name="PlayerID" />
+			</index>
+			<index name="unq_SurfaceID" unique="UNIQUE_INDEX" >
+				<column name="SurfaceID" />
+			</index>
+			<index name="unq_CourtID" unique="UNIQUE_INDEX" >
+				<column name="CourtID" />
+			</index>
+			<index name="unq_TournamentID" unique="UNIQUE_INDEX" >
+				<column name="TournamentID" />
+			</index>
+			<index name="unq_RoundID" unique="UNIQUE_INDEX" >
+				<column name="RoundID" />
+			</index>
+			<fk name="fk_Matches_Tournament" to_schema="158739Assignment3.INSTANCE" to_table="Tournament" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+				<fk_column name="TournamentID" pk="TournamentID" />
+			</fk>
+		</table>
+		<table name="Players" prior="Entity" >
+			<column name="PlayerID" type="INT" length="5" jt="4" mandatory="y" />
+			<column name="Name" type="VARCHAR" length="100" jt="12" />
+			<column name="Ranking" type="INT" length="3" jt="4" />
+			<column name="Points" type="INT" jt="4" />
+			<column name="WealthyParents" type="BOOLEAN" jt="-7" />
+			<column name="ParentonWiki" type="BOOLEAN" jt="-7" />
+			<column name="WLsets" type="INT" jt="4" />
+			<index name="pk_Players" unique="PRIMARY_KEY" >
+				<column name="PlayerID" />
+			</index>
+			<fk name="fk_Players_Matches" to_schema="158739Assignment3.INSTANCE" to_table="Matches" type="ManyToMany" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+				<fk_column name="PlayerID" pk="PlayerID" />
+			</fk>
+		</table>
+		<table name="Ranking" prior="Rankings" >
+			<column name="RankingID" type="INT" jt="4" mandatory="y" />
+			<column name="PlayerID" type="INT" jt="4" mandatory="y" />
+			<column name="Ranking" type="INT" jt="4" />
+			<column name="Points" type="INT" jt="4" />
+			<index name="pk" unique="PRIMARY_KEY" >
+				<column name="PlayerID" />
+			</index>
+			<fk name="fk_Ranking_Players" to_schema="158739Assignment3.INSTANCE" to_table="Players" type="Identifying" mandatory="y" cardinality="One" range_from="0" range_to="0" >
+				<fk_column name="PlayerID" pk="PlayerID" />
+			</fk>
+		</table>
+		<table name="Rounds" prior="Entity" >
+			<column name="RoundID" type="INT" length="5" jt="4" mandatory="y" />
+			<column name="RoundName" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_Rounds" unique="PRIMARY_KEY" >
+				<column name="RoundID" />
+			</index>
+			<fk name="fk_Rounds_Matches" to_schema="158739Assignment3.INSTANCE" to_table="Matches" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+				<fk_column name="RoundID" pk="RoundID" />
+			</fk>
+		</table>
+		<table name="Surface" prior="Entity" >
+			<column name="SurfaceID" type="INT" length="5" jt="4" mandatory="y" />
+			<column name="Surfacetype" type="VARCHAR" length="100" jt="12" />
+			<index name="pk_Surface" unique="PRIMARY_KEY" >
+				<column name="SurfaceID" />
+			</index>
+			<fk name="fk_Surface_Matches" to_schema="158739Assignment3.INSTANCE" to_table="Matches" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+				<fk_column name="SurfaceID" pk="SurfaceID" />
+			</fk>
+		</table>
+		<table name="Tournament" prior="Entity" >
+			<column name="TournamentID" type="INT" length="100" jt="4" mandatory="y" />
+			<column name="Name" type="VARCHAR" length="100" jt="12" />
+			<column name="Tier" type="VARCHAR" length="100" jt="12" />
+			<column name="Date" type="DATE" jt="91" />
+			<index name="pk_Tournament" unique="PRIMARY_KEY" >
+				<column name="TournamentID" />
+			</index>
+		</table>
+	</schema>
+	<layout name="Default Layout" id="Layout-d7d" show_relation="columns" >
+		<entity schema="158739Assignment3.INSTANCE" name="Court" color="C1D8EE" x="48" y="272" />
+		<entity schema="158739Assignment3.INSTANCE" name="Location" color="C1D8EE" x="48" y="48" />
+		<entity schema="158739Assignment3.INSTANCE" name="Matches" color="3986C1" x="368" y="112" />
+		<entity schema="158739Assignment3.INSTANCE" name="Players" color="C1D8EE" x="624" y="272" />
+		<entity schema="158739Assignment3.INSTANCE" name="Ranking" color="C1D8EE" x="896" y="272" />
+		<entity schema="158739Assignment3.INSTANCE" name="Rounds" color="C1D8EE" x="624" y="176" />
+		<entity schema="158739Assignment3.INSTANCE" name="Surface" color="C1D8EE" x="624" y="80" />
+		<entity schema="158739Assignment3.INSTANCE" name="Tournament" color="C1D8EE" x="48" y="144" />
+	</layout>
+</project>
