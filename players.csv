@@ -1,1792 +1,401 @@
-id,first_name,last_name,full_name,country,wealthy_parents,parent_on_wiki
-89304,Novak,Djokovic,Novak Djokovic,Serbia,False,False
-86928,Rafael,Nadal,Rafael Nadal,Spain,True,True
-342990,Alexander,Zverev,Alexander Zverev,Germany,True,False
-91668,Potro,Del,Potro Del,Argentina,False,
-93378,Kevin,Anderson,Kevin Anderson,South Africa,False,False
-86064,Roger,Federer,Roger Federer,Switzerland,True,False
-94410,Kei,Nishikori,Kei Nishikori,Japan,True,False
-262500,Dominic,Thiem,Dominic Thiem,Austria,True,False
-96732,John,Isner,John Isner,USA,False,False
-92334,Marin,Cilic,Marin Cilic,Croatia,False,False
-540492,Karen,Khachanov,Karen Khachanov,Russia,False,False
-734208,Stefanos,Tsitsipas,Stefanos Tsitsipas,Greece,True,False
-387492,Borna,Coric,Borna Coric,Croatia,True,False
-108678,Milos,Raonic,Milos Raonic,Canada,True,False
-92616,Fabio,Fognini,Fabio Fognini,Italy,True,False
-981036,Daniil,Medvedev,Daniil Medvedev,Russia,False,False
-346230,Lucas,Pouille,Lucas Pouille,France,True,False
-100332,Agut,Bautista,Agut Bautista,Spain,False,
-267306,Marco,Cecchinato,Marco Cecchinato,Italy,False,False
-291606,Diego,Schwartzman,Diego Schwartzman,Argentina,False,False
-155040,David,Goffin,David Goffin,Belgium,False,False
-157236,Nikoloz,Basilashvili,Nikoloz Basilashvili,Georgia,False,False
-244812,Busta,Carreno,Busta Carreno,Spain,False,
-141498,Grigor,Dimitrov,Grigor Dimitrov,Bulgaria,True,False
-707508,Denis,Shapovalov,Denis Shapovalov,Canada,False,False
-86940,Fernando,Verdasco,Fernando Verdasco,Spain,False,False
-86496,Richard,Gasquet,Richard Gasquet,France,True,False
-1207446,Minaur,De,Minaur De,Australia,False,
-392304,Kyle,Edmund,Kyle Edmund,United Kingdom,False,False
-606618,Frances,Tiafoe,Frances Tiafoe,USA,False,False
-88428,Gilles,Simon,Gilles Simon,France,False,False
-87756,Philipp,Kohlschreiber,Philipp Kohlschreiber,Germany,False,False
-89076,Gael,Monfils,Gael Monfils,France,True,False
-230970,Steve,Johnson,Steve Johnson,USA,True,False
-94986,Jeremy,Chardy,Jeremy Chardy,France,False,False
-198702,John,Millman,John Millman,Australia,False,False
-88650,Andreas,Seppi,Andreas Seppi,Italy,False,False
-95910,Martin,Klizan,Martin Klizan,Slovakia,False,False
-226722,Joao,Sousa,Joao Sousa,Portugal,False,False
-816264,Taylor,Fritz,Taylor Fritz,USA,True,False
-537804,Nicolas,Jarry,Nicolas Jarry,Chile,True,False
-235416,Dusan,Lajovic,Dusan Lajovic,Serbia,False,False
-95130,Malek,Jaziri,Malek Jaziri,Tunisia,True,False
-267330,Pierre,Herbert,Pierre Herbert,France,False,
-98466,Matthew,Ebden,Matthew Ebden,Australia,False,False
-95376,Adrian,Mannarino,Adrian Mannarino,France,True,False
-286632,Marton,Fucsovics,Marton Fucsovics,Hungary,False,False
-91818,Sam,Querrey,Sam Querrey,USA,True,False
-93402,Leonardo,Mayer,Leonardo Mayer,Argentina,False,False
-499278,Hyeon,Chung,Hyeon Chung,South Korea,False,False
-278358,Jan,Struff,Jan Struff,Germany,False,
-295044,Damir,Dzumhur,Damir Dzumhur,Bosnia & Herzegovina,False,False
-676710,Matteo,Berrettini,Matteo Berrettini,Italy,False,False
-96264,Robin,Haase,Robin Haase,Netherlands,False,False
-100110,Mikhail,Kukushkin,Mikhail Kukushkin,Kazakhstan,False,False
-97974,Marius,Copil,Marius Copil,Romania,False,False
-87300,Stan,Wawrinka,Stan Wawrinka,Switzerland,False,False
-133320,Benoit,Paire,Benoit Paire,France,False,False
-219582,Denis,Kudla,Denis Kudla,USA,False,False
-146520,Guido,Pella,Guido Pella,Argentina,False,False
-526152,Jordan,Thompson,Jordan Thompson,Australia,False,False
-97176,Peter,Gojowczyk,Peter Gojowczyk,Germany,False,False
-86802,Feliciano,Lopez,Feliciano Lopez,Spain,False,False
-575622,Cameron,Norrie,Cameron Norrie,United Kingdom,False,False
-228144,Aljaz,Bedene,Aljaz Bedene,Slovenia,False,False
-355698,Yoshihito,Nishioka,Yoshihito Nishioka,Japan,False,False
-374952,Nick,Kyrgios,Nick Kyrgios,Australia,True,False
-96078,Mischa,Zverev,Mischa Zverev,Germany,True,True
-291804,Taro,Daniel,Taro Daniel,Japan,False,False
-283782,Guido,Andreozzi,Guido Andreozzi,Argentina,False,False
-100944,Vinolas,Ramos,Vinolas Ramos,Spain,False,
-137832,Filip,Krajinovic,Filip Krajinovic,Serbia,False,False
-953388,Hubert,Hurkacz,Hubert Hurkacz,Poland,False,False
-306858,Baena,Carballes,Baena Carballes,Spain,False,
-220080,Tennys,Sandgren,Tennys Sandgren,USA,False,False
-429972,Maximilian,Marterer,Maximilian Marterer,Germany,False,False
-211014,Federico,Delbonis,Federico Delbonis,Argentina,False,False
-87174,Ivo,Karlovic,Ivo Karlovic,Croatia,False,False
-87072,Tomáš,Berdych,Tomáš Berdych,Czech Republic,False,False
-758148,Jaume,Munar,Jaume Munar,Spain,False,False
-535932,Ilya,Ivashka,Ilya Ivashka,Belarus,False,False
-380640,Mackenzie,Mcdonald,Mackenzie Mcdonald,USA,False,False
-92604,Pablo,Andujar,Pablo Andujar,Spain,False,False
-94362,Ernests,Gulbis,Ernests Gulbis,Latvia,True,False
-99102,Thomas,Fabbiano,Thomas Fabbiano,Italy,False,False
-102492,Bernard,Tomic,Bernard Tomic,Australia,True,False
-230460,Bradley,Klahn,Bradley Klahn,USA,False,False
-583398,Laslo,Djere,Laslo Djere,Serbia,False,False
-342138,Jozef,Kovalik,Jozef Kovalik,Slovakia,False,False
-267294,Radu,Albot,Radu Albot,Moldova,False,False
-1112340,Ugo,Humbert,Ugo Humbert,France,True,False
-94746,Pablo,Cuevas,Pablo Cuevas,Uruguay,False,False
-137412,Ryan,Harrison,Ryan Harrison,USA,False,False
-100686,Vasek,Pospisil,Vasek Pospisil,Canada,False,False
-387432,Cristian,Garin,Cristian Garin,Chile,False,False
-102114,Evgeny,Donskoy,Evgeny Donskoy,Russia,False,False
-251154,Jiri,Vesely,Jiri Vesely,Czech Republic,False,False
-782412,Reilly,Opelka,Reilly Opelka,USA,False,True
-108408,Mirza,Basic,Mirza Basic,Bosnia & Herzegovina,False,False
-640542,Andrey,Rublev,Andrey Rublev,Russia,False,False
-107940,Pedro,Sousa,Pedro Sousa,Portugal,False,False
-109302,Prajnesh,Gunneswaran,Prajnesh Gunneswaran,India,False,False
-87918,Lopez,Garcia,Lopez Garcia,Spain,False,
-137748,Ricardas,Berankis,Ricardas Berankis,Lithuania,False,False
-94470,Denis,Istomin,Denis Istomin,Uzbekistan,False,False
-1152090,Aliassime,Auger,Aliassime Auger,Canada,True,
-285630,Thiago,Monteiro,Thiago Monteiro,Brazil,False,False
-248238,Jack,Sock,Jack Sock,USA,True,False
-93420,Marcel,Granollers,Marcel Granollers,Spain,False,False
-788664,Michael,Mmoh,Michael Mmoh,USA,True,True
-946860,Lloyd,Harris,Lloyd Harris,South Africa,False,False
-283794,Juan,Londero,Juan Londero,Argentina,False,
-629094,Lorenzo,Sonego,Lorenzo Sonego,Italy,False,False
-89496,Paolo,Lorenzi,Paolo Lorenzi,Italy,False,False
-380688,Jason,Jung,Jason Jung,Chinese Taipei,False,False
-501978,Elias,Ymer,Elias Ymer,Sweden,False,True
-231114,Marco,Trungelliti,Marco Trungelliti,Argentina,False,False
-1191564,Miomir,Kecmanovic,Miomir Kecmanovic,Serbia,False,False
-343746,Hugo,Dellien,Hugo Dellien,Bolivia,False,True
-608802,Jared,Donaldson,Jared Donaldson,USA,False,False
-97056,Peter,Polansky,Peter Polansky,Canada,False,False
-526080,Yannick,Maden,Yannick Maden,Germany,,False
-217812,Stefano,Travaglia,Stefano Travaglia,Italy,False,False
-771324,Alexei,Popyrin,Alexei Popyrin,Australia,,False
-96252,Maceiras,Menendez,Maceiras Menendez,Spain,False,
-715500,Casper,Ruud,Casper Ruud,Norway,True,True
-94836,Lukas,Lacko,Lukas Lacko,Slovakia,False,False
-88644,Marcos,Baghdatis,Marcos Baghdatis,Cyprus,False,False
-350226,Alex,Bolt,Alex Bolt,Australia,False,False
-238368,Jason,Kubler,Jason Kubler,Australia,False,False
-332574,Bjorn,Fratangelo,Bjorn Fratangelo,USA,False,False
-102036,Ruben,Bemelmans,Ruben Bemelmans,Belgium,False,False
-353274,Ramkumar,Ramanathan,Ramkumar Ramanathan,India,False,False
-427692,Thanasi,Kokkinakis,Thanasi Kokkinakis,Australia,False,False
-89334,Carlos,Berlocq,Carlos Berlocq,Argentina,False,False
-89430,Sergiy,Stakhovsky,Sergiy Stakhovsky,Ukraine,False,False
-544800,Quentin,Halys,Quentin Halys,France,False,False
-91872,Simone,Bolelli,Simone Bolelli,Italy,False,False
-96534,Silva,Dutra,Silva Dutra,Brazil,False,
-97728,Lukas,Rosol,Lukas Rosol,Czech Republic,False,True
-107766,Tatsuma,Ito,Tatsuma Ito,Japan,False,False
-102120,Henri,Laaksonen,Henri Laaksonen,Switzerland,False,False
-1050096,Corentin,Moutet,Corentin Moutet,France,False,False
-91398,Matthias,Bachinger,Matthias Bachinger,Germany,False,False
-568494,Antoine,Hoang,Antoine Hoang,France,True,False
-376752,Constant,Lestienne,Constant Lestienne,France,False,False
-229110,Facundo,Bagnis,Facundo Bagnis,Argentina,False,False
-86436,David,Ferrer,David Ferrer,Spain,False,False
-261540,Jurgen,Zopp,Jurgen Zopp,Estonia,False,False
-390108,Noah,Rubin,Noah Rubin,USA,False,False
-137814,Yuki,Bhambri,Yuki Bhambri,India,False,False
-303774,Gianluigi,Quinzi,Gianluigi Quinzi,Italy,False,False
-107004,Luca,Vanni,Luca Vanni,Italy,False,False
-355836,Dennis,Novak,Dennis Novak,Austria,False,False
-402936,Gregoire,Barrere,Gregoire Barrere,France,False,False
-652266,Kamil,Majchrzak,Kamil Majchrzak,Poland,False,False
-1185108,Christopher,Eubanks,Christopher Eubanks,USA,False,False
-99054,Yuichi,Sugita,Yuichi Sugita,Japan,False,False
-287862,Yannick,Hanfmann,Yannick Hanfmann,Germany,False,False
-776220,Dominik,Koepfer,Dominik Koepfer,Germany,False,False
-295710,Egor,Gerasimov,Egor Gerasimov,Belarus,False,False
-463350,Pedro,Martinez,Pedro Martinez,Spain,False,False
-98262,Daniel,Evans,Daniel Evans,United Kingdom,False,False
-398832,Brayden,Schnur,Brayden Schnur,Canada,False,False
-374436,Oscar,Otte,Oscar Otte,Germany,False,False
-505530,Filippo,Baldi,Filippo Baldi,Italy,False,False
-101010,Alessandro,Giannessi,Alessandro Giannessi,Italy,False,False
-484002,Marc,Polmans,Marc Polmans,Australia,False,False
-355872,Salvatore,Caruso,Salvatore Caruso,Italy,False,False
-278352,Yasutaka,Uchiyama,Yasutaka Uchiyama,Japan,False,False
-980892,Alexander,Bublik,Alexander Bublik,Kazakhstan,False,False
-307950,Darian,King,Darian King,Barbados,False,False
-438108,Pedja,Krstin,Pedja Krstin,Serbia,False,False
-446646,Nikola,Milojevic,Nikola Milojevic,Serbia,False,False
-96354,Andrea,Arnaboldi,Andrea Arnaboldi,Italy,False,False
-500394,Sebastian,Ofner,Sebastian Ofner,Austria,False,False
-194808,Hiroki,Moriya,Hiroki Moriya,Japan,False,False
-232770,Roberto,Quiroz,Roberto Quiroz,Ecuador,False,False
-314784,Alexey,Vatutin,Alexey Vatutin,Russia,False,False
-99330,James,Ward,James Ward,United Kingdom,False,False
-146502,Andrej,Martin,Andrej Martin,Slovakia,False,False
-1254630,Rudolf,Molleker,Rudolf Molleker,Germany,False,False
-943824,Yosuke,Watanuki,Yosuke Watanuki,Japan,False,False
-87888,Gilles,Müller,Gilles Müller,Luxembourg,False,False
-98148,Daniel,Brands,Daniel Brands,Germany,False,False
-92820,Viktor,Troicki,Viktor Troicki,Serbia,False,False
-95586,Tim,Smyczek,Tim Smyczek,USA,False,False
-451434,Mats,Moraing,Mats Moraing,Germany,False,True
-88776,Traver,Gimeno,Traver Gimeno,Spain,False,
-96972,Horacio,Zeballos,Horacio Zeballos,Argentina,False,False
-152754,Aleksandr,Nedovyesov,Aleksandr Nedovyesov,Kazakhstan,False,False
-252924,Stefano,Napolitano,Stefano Napolitano,Italy,False,False
-268266,Facundo,Arguello,Facundo Arguello,Argentina,False,False
-912300,Mikael,Ymer,Mikael Ymer,Sweden,False,True
-329742,Kimmer,Coppejans,Kimmer Coppejans,Belgium,False,False
-87060,Nicolas,Mahut,Nicolas Mahut,France,False,False
-1200966,Jurij,Rodionov,Jurij Rodionov,Austria,False,False
-831288,Tommy,Paul,Tommy Paul,USA,False,False
-355956,Adam,Pavlasek,Adam Pavlasek,Czech Republic,False,False
-252186,Mohamed,Safwat,Mohamed Safwat,Egypt,False,False
-87450,Stéphane,Robert,Stéphane Robert,France,False,False
-229662,Greef,De,Greef De,Belgium,False,
-94434,Donald,Young,Donald Young,USA,True,False
-86022,Tommy,Robredo,Tommy Robredo,Spain,False,False
-152742,Blaz,Rola,Blaz Rola,Slovenia,False,False
-482958,Ernesto,Escobedo,Ernesto Escobedo,Mexico,False,True
-416712,Matteo,Donati,Matteo Donati,Italy,False,False
-230346,Ze,Zhang,Ze Zhang,China,False,False
-313668,Mitchell,Krueger,Mitchell Krueger,USA,False,False
-90552,Jo,Tsonga,Jo Tsonga,France,True,
-734220,Tallon,Griekspoor,Tallon Griekspoor,Netherlands,False,True
-1186866,Jay,Clarke,Jay Clarke,United Kingdom,False,False
-343974,Joao,Domingues,Joao Domingues,Portugal,False,False
-102240,John,Smith,John Smith,Australia,False,False
-97704,Blaz,Kavcic,Blaz Kavcic,Slovenia,False,False
-150156,Sergio,Gutiérrez-Ferrol,Sergio Gutiérrez-Ferrol,Spain,False,False
-94446,Go,Soeda,Go Soeda,Japan,False,False
-95760,Tobias,Kamke,Tobias Kamke,Germany,False,False
-233460,Filip,Horansky,Filip Horansky,Slovakia,False,False
-487638,Calvin,Hemery,Calvin Hemery,France,,False
-311028,Marcelo,Arevalo,Marcelo Arevalo,El Salvador,False,False
-645762,Maxime,Janvier,Maxime Janvier,France,,False
-96888,Thomaz,Bellucci,Thomaz Bellucci,Brazil,False,False
-417012,Gianluca,Mager,Gianluca Mager,Italy,False,False
-90768,Andy,Murray,Andy Murray,United Kingdom,True,False
-141996,Federico,Gaio,Federico Gaio,Italy,False,False
-291768,Lorenzo,Giustino,Lorenzo Giustino,Italy,False,False
-552456,Daniel,Galan,Daniel Galan,Colombia,False,
-600594,Gian,Moroni,Gian Moroni,Italy,False,
-355920,Viktor,Galovic,Viktor Galovic,Croatia,False,False
-795360,Zdenek,Kolar,Zdenek Kolar,Czech Republic,False,False
-219570,Kevin,Krawietz,Kevin Krawietz,,False,False
-95598,Dustin,Brown,Dustin Brown,Germany,False,False
-107922,Guilherme,Clezar,Guilherme Clezar,Brazil,False,False
-944748,Fokina,Davidovich,Fokina Davidovich,Spain,False,
-585894,Soonwoo,Kwon,Soonwoo Kwon,South Korea,False,False
-96414,Thiemo,de Bakker,Thiemo de Bakker,Netherlands,False,
-297972,Filip,Peliwo,Filip Peliwo,Poland,False,False
-238278,James,Duckworth,James Duckworth,Australia,False,False
-91812,Dudi,Sela,Dudi Sela,Israel,False,False
-562182,Duckhee,Lee,Duckhee Lee,South Korea,False,False
-312402,Christian,Harrison,Christian Harrison,USA,True,False
-296166,Gleb,Sakharov,Gleb Sakharov,France,False,False
-306876,Perez,Lopez,Perez Lopez,Spain,False,
-396528,Nicolas,Kicker,Nicolas Kicker,Argentina,False,False
-95160,Gastao,Elias,Gastao Elias,Portugal,False,False
-254286,Marcos,Giron,Marcos Giron,USA,False,False
-1171500,Nicola,Kuhn,Nicola Kuhn,Germany,False,False
-102054,Uladzimir,Ignatik,Uladzimir Ignatik,Belarus,False,False
-319110,Cem,Ilkel,Cem Ilkel,Turkey,True,False
-93192,Santiago,Giraldo,Santiago Giraldo,Colombia,False,False
-446658,Enzo,Couacaud,Enzo Couacaud,France,False,False
-307866,Subervi,Cid,Subervi Cid,Dominican Republic,False,
-248850,Schepper,De,Schepper De,France,False,
-300846,Norbert,Gombos,Norbert Gombos,Slovakia,False,False
-146484,Gerald,Melzer,Gerald Melzer,Austria,False,False
-535896,Jc,Aragone,Jc Aragone,USA,True,
-145866,Attila,Balazs,Attila Balazs,Hungary,False,False
-540672,Nino,Serdarusic,Nino Serdarusic,Croatia,False,False
-389532,Saketh,Myneni,Saketh Myneni,India,False,False
-320910,Daniel,Masur,Daniel Masur,Germany,False,False
-262488,Zhe,Li,Zhe Li,China,False,False
-566922,Benjamin,Bonzi,Benjamin Bonzi,France,False,False
-144030,Matteo,Viola,Matteo Viola,Italy,False,False
-286746,Maverick,Banes,Maverick Banes,Australia,False,False
-271584,Dennis,Novikov,Dennis Novikov,USA,False,False
-381864,Thai,Kwiatkowski,Thai Kwiatkowski,USA,False,
-329430,Evgeny,Karlovskiy,Evgeny Karlovskiy,Russia,False,False
-495486,Kaichi,Uchida,Kaichi Uchida,Japan,False,False
-314346,Scott,Griekspoor,Scott Griekspoor,Netherlands,False,False
-486546,Johan,Tatlot,Johan Tatlot,France,False,False
-350238,Mathias,Bourgue,Mathias Bourgue,France,,False
-1160580,Fernandez,Hernandez,Fernandez Hernandez,Dominican Republic,False,
-428028,Martinez,Vilella,Martinez Vilella,Spain,False,
-472770,Lucas,Miedler,Lucas Miedler,Austria,False,False
-651402,Miralles,Zapata,Miralles Zapata,Spain,False,
-443934,Pedro,Cachin,Pedro Cachin,Argentina,False,False
-597534,Yunseong,Chung,Yunseong Chung,South Korea,False,False
-814728,Elliot,Benchetrit,Elliot Benchetrit,Morocco,False,False
-747960,Max,Purcell,Max Purcell,Australia,False,False
-214938,Laurynas,Grigelis,Laurynas Grigelis,Lithuania,False,False
-346566,Goncalo,Oliveira,Goncalo Oliveira,Portugal,False,False
-102108,Tsung,Yang,Tsung Yang,Chinese Taipei,False,
-327450,Federico,Coria,Federico Coria,Argentina,False,True
-141600,Roberto,Marcora,Roberto Marcora,Italy,False,False
-307122,Danilo,Petrovic,Danilo Petrovic,Serbia,False,False
-283788,Olmedo,Ortega,Olmedo Ortega,Spain,False,
-651366,Carlos,Taberner,Carlos Taberner,Spain,False,False
-633654,Jan,Choinski,Jan Choinski,United Kingdom,False,False
-86562,Jurgen,Melzer,Jurgen Melzer,Austria,False,False
-1262886,Jeffrey,Wolf,Jeffrey Wolf,USA,True,
-707208,Sasikumar,Mukund,Sasikumar Mukund,India,False,False
-499590,Akira,Santillan,Akira Santillan,Australia,False,False
-246288,Tomislav,Brkic,Tomislav Brkic,Bosnia & Herzegovina,False,False
-484362,Collin,Altamirano,Collin Altamirano,USA,False,False
-319290,Kevin,King,Kevin King,USA,False,False
-347322,Alexander,Sarkissian,Alexander Sarkissian,USA,False,False
-526860,Mikael,Torpegaard,Mikael Torpegaard,Denmark,False,False
-251280,Ante,Pavic,Ante Pavic,,False,False
-286596,Liam,Broady,Liam Broady,United Kingdom,False,False
-271560,Loore,De,Loore De,Belgium,False,
-286614,Tristan,Lamasine,Tristan Lamasine,France,False,False
-143406,Evan,King,Evan King,USA,False,False
-826872,Ulises,Blanch,Ulises Blanch,USA,False,False
-262578,Andrea,Collarini,Andrea Collarini,Argentina,False,False
-92814,Aldin,Setkic,Aldin Setkic,Bosnia & Herzegovina,False,False
-217800,Steven,Diez,Steven Diez,Canada,False,False
-229680,Martin,Cuevas,Martin Cuevas,Uruguay,False,False
-1165128,Yibing,Wu,Yibing Wu,China,False,False
-99720,Victor,Estrella Burgos,Victor Estrella Burgos,Dominican Republic,False,
-431712,Sebastian,Fanselow,Sebastian Fanselow,Germany,False,
-334734,Renzo,Olivo,Renzo Olivo,Argentina,False,False
-90600,Steve,Darcis,Steve Darcis,Belgium,False,False
-1197978,Mate,Valkusz,Mate Valkusz,Hungary,False,False
-338178,Jelle,Sels,Jelle Sels,Netherlands,,False
-101844,Herrera,Gomez,Herrera Gomez,Spain,False,
-98958,Vincent,Millot,Vincent Millot,France,False,False
-308418,Evan,Song,Evan Song,USA,False,
-1219560,Pavel,Kotov,Pavel Kotov,Russia,False,False
-305094,Denis,Yevseyev,Denis Yevseyev,Kazakhstan,False,False
-138348,Di,Wu,Di Wu,China,False,False
-364140,Vaclav,Safranek,Vaclav Safranek,Czech Republic,False,False
-290796,Tak Khunn,Wang,Tak Khunn Wang,France,False,
-403836,Dragos,Dima,Dragos Dima,Romania,False,False
-797016,Vera,Barrios,Vera Barrios,Chile,False,
-337782,Lara,Ojeda,Lara Ojeda,Spain,False,
-398916,Silva,Ferreira,Silva Ferreira,Portugal,False,
-277566,Maximilian,Neuchrist,Maximilian Neuchrist,Austria,False,False
-88404,Frank,Dancevic,Frank Dancevic,Canada,False,False
-157230,Emilio,Gomez,Emilio Gomez,Ecuador,True,False
-749592,Roman,Safiullin,Roman Safiullin,Russia,False,False
-1201578,Roy,Smith,Roy Smith,USA,False,False
-306066,Dimitar,Kuzmanov,Dimitar Kuzmanov,Bulgaria,False,False
-102288,Rubin,Statham,Rubin Statham,New Zealand,False,False
-481278,Bradley,Mousley,Bradley Mousley,Australia,False,False
-462054,Stefan,Kozlov,Stefan Kozlov,USA,True,False
-97962,Alejandro,Gonzalez,Alejandro Gonzalez,Colombia,False,False
-561594,Andrea,Pellegrino,Andrea Pellegrino,Italy,False,False
-749508,Borna,Gojo,Borna Gojo,Croatia,False,False
-91686,David,Guez,David Guez,France,False,False
-226830,Purkiss,Boluda,Purkiss Boluda,Spain,False,
-934116,Renta,Tokuda,Renta Tokuda,Japan,False,
-269778,Miljan,Zekic,Miljan Zekic,Serbia,False,False
-533964,Alexandre,Muller,Alexandre Muller,France,False,False
-433500,Juan,Varillas,Juan Varillas,Peru,False,
-374940,Andrew,Harris,Andrew Harris,Australia,False,False
-1065876,Yusuke,Takahashi,Yusuke Takahashi,Japan,False,False
-205602,Dayne,Kelly,Dayne Kelly,Australia,False,False
-789408,Sumit,Nagal,Sumit Nagal,India,False,False
-313770,Tim,Puetz,Tim Puetz,Germany,False,False
-870792,Alex,Molcan,Alex Molcan,Slovakia,False,False
-144066,Sergey,Betov,Sergey Betov,Belarus,False,False
-714852,Blake,Ellis,Blake Ellis,Australia,False,False
-352290,Michael,Redlicki,Michael Redlicki,USA,False,False
-297990,Antoine,Escoffier,Antoine Escoffier,France,False,False
-888564,Zihao,Xia,Zihao Xia,China,False,
-444594,Jared,Hiltzik,Jared Hiltzik,USA,False,
-101478,Franko,Škugor,Franko Škugor,Croatia,False,False
-1097814,Makoto,Ochi,Makoto Ochi,Japan,False,
-238284,Luke,Saville,Luke Saville,Australia,False,False
-454890,Zhizhen,Zhang,Zhizhen Zhang,China,False,False
-870684,Marc,Huesler,Marc Huesler,Switzerland,False,
-607350,Ryan,Shane,Ryan Shane,USA,False,False
-154110,Yan,Bai,Yan Bai,China,False,False
-97200,Gonzalo,Escobar,Gonzalo Escobar,Ecuador,False,False
-747948,Aleksandar,Vukic,Aleksandar Vukic,Australia,False,False
-983988,Tung,Wu,Tung Wu,Chinese Taipei,False,
-252918,Ji,Nam,Ji Nam,South Korea,False,
-337746,Andrea,Basso,Andrea Basso,Italy,False,False
-652614,Benjamin,Hassan,Benjamin Hassan,Lebanon,False,False
-1234782,Zsombor,Piros,Zsombor Piros,Hungary,False,False
-763260,Daniel,Altmaier,Daniel Altmaier,Germany,False,False
-577446,Viktor,Durasovic,Viktor Durasovic,Norway,False,False
-307812,Jan,Satral,Jan Satral,Czech Republic,False,False
-644154,Hugo,Grenier,Hugo Grenier,France,False,False
-89400,Harri,Heliovaara,Harri Heliovaara,Finland,False,False
-639366,Sadio,Doumbia,Sadio Doumbia,France,False,False
-393468,Pedro,Sakamoto,Pedro Sakamoto,Brazil,False,False
-632262,Petros,Chrysochos,Petros Chrysochos,Cyprus,False,False
-305418,Dmitry,Popko,Dmitry Popko,Kazakhstan,False,False
-88950,Teimuraz,Gabashvili,Teimuraz Gabashvili,Russia,False,False
-490074,Johannes,Haerteis,Johannes Haerteis,Germany,False,False
-141288,Jeremy,Jahn,Jeremy Jahn,Germany,False,
-91638,Daniel,Muñoz de la Nava,Daniel Muñoz de la Nava,Spain,False,
-1272912,Alen,Avidzba,Alen Avidzba,Russia,False,False
-306612,Batalla,Roca,Batalla Roca,Spain,False,
-894612,Khumoyun,Sultanov,Khumoyun Sultanov,Uzbekistan,False,False
-458178,Arjun,Kadhe,Arjun Kadhe,India,False,False
-1123428,Alexis,Galarneau,Alexis Galarneau,Canada,False,False
-344226,Andrew,Whittington,Andrew Whittington,Australia,False,False
-448422,Tom,Jomby,Tom Jomby,France,False,
-729648,Joao,Menezes,Joao Menezes,Brazil,False,False
-326310,Alessandro,Bega,Alessandro Bega,Italy,False,False
-97164,Illya,Marchenko,Illya Marchenko,Ukraine,False,True
-312810,Julian,Lenz,Julian Lenz,Germany,False,False
-98172,Brydan,Klein,Brydan Klein,United Kingdom,False,False
-476586,Harry,Bourchier,Harry Bourchier,Australia,False,False
-142554,Gerard,Granollers,Gerard Granollers,Spain,False,False
-141300,Guillermo,Olaso,Guillermo Olaso,Spain,False,False
-313728,Shuichi,Sekiguchi,Shuichi Sekiguchi,Japan,False,
-459102,Ivan,Gakhov,Ivan Gakhov,Russia,True,False
-313476,N,Balaji,N Balaji,India,False,
-252996,Sekou,Bangoura,Sekou Bangoura,USA,False,False
-96750,João,Souza,João Souza,Brazil,False,False
-660666,Youssef,Hossam,Youssef Hossam,Egypt,False,False
-1004232,Emil,Ruusuvuori,Emil Ruusuvuori,Finland,False,False
-476826,Jacob,Grills,Jacob Grills,Australia,False,
-921876,João,Monteiro,João Monteiro,Portugal,False,False
-1225998,Chien-Hsun,Lo,Chien-Hsun Lo,Chinese Taipei,False,
-149070,Alexander,Ward,Alexander Ward,United Kingdom,False,False
-939996,Rigele,Te,Rigele Te,China,False,False
-319860,Ivan,Nedelko,Ivan Nedelko,Russia,False,False
-97170,Andreas,Haider-Maurer,Andreas Haider-Maurer,Austria,False,False
-614478,Rijthoven,Van,Rijthoven Van,Netherlands,False,
-381648,Arthur,Rinderknech,Arthur Rinderknech,France,False,False
-271548,Jordi,Samper-Montaña,Jordi Samper-Montaña,Spain,False,False
-287814,Tobias,Simon,Tobias Simon,Germany,False,False
-341946,Martinavarro,Artunedo,Martinavarro Artunedo,Spain,False,
-1025688,Zizou,Bergs,Zizou Bergs,Belgium,False,False
-267834,Cristian,Rodriguez,Cristian Rodriguez,Colombia,False,False
-486258,Hoang,Ly,Hoang Ly,Vietnam,False,
-96408,Igor,Sijsling,Igor Sijsling,Netherlands,False,False
-261828,Markus,Eriksson,Markus Eriksson,Sweden,False,False
-659718,Liam,Caruana,Liam Caruana,Italy,False,False
-1127364,Evan,Furness,Evan Furness,France,False,False
-758424,Corentin,Denolly,Corentin Denolly,France,False,False
-354798,Lloyd,Glasspool,Lloyd Glasspool,United Kingdom,False,False
-1066128,Cosano,Barranco,Cosano Barranco,Spain,False,
-1211094,Raul,Brancaccio,Raul Brancaccio,Italy,False,True
-320898,Marvin,Netuschil,Marvin Netuschil,Germany,False,
-287808,Albano,Olivetti,Albano Olivetti,France,False,False
-279738,Takanyi,Garanganga,Takanyi Garanganga,Zimbabwe,False,False
-359916,Wishaya,Trongcharoenchaikul,Wishaya Trongcharoenchaikul,Thailand,False,False
-636930,Valle,Dalla,Valle Dalla,Italy,False,
-629814,Gijs,Brouwer,Gijs Brouwer,Netherlands,False,False
-313224,Hugo,Nys,Hugo Nys,Monaco,False,False
-363024,Aslan,Karatsev,Aslan Karatsev,Russia,False,False
-419724,Martin,Redlicki,Martin Redlicki,USA,False,False
-328410,Riccardo,Bonadio,Riccardo Bonadio,Italy,False,False
-93300,Máximo,Gonzalez,Máximo Gonzalez,Argentina,False,
-807672,William,Blumberg,William Blumberg,USA,False,False
-95124,Lamine,Ouahab,Lamine Ouahab,Morocco,False,False
-393660,Sidharth,Rawat,Sidharth Rawat,India,False,
-151146,Austin,Krajicek,Austin Krajicek,USA,False,True
-403596,Fabrizio,Ornago,Fabrizio Ornago,Italy,False,
-1231890,Alafia,Ayeni,Alafia Ayeni,USA,False,
-1268028,Harrison,Adams,Harrison Adams,USA,False,False
-329862,Hernan,Casanova,Hernan Casanova,Argentina,False,False
-638106,Fabien,Reboul,Fabien Reboul,France,False,False
-358188,Miliaan,Niesten,Miliaan Niesten,Netherlands,False,
-967584,Wild,Seyboth,Wild Seyboth,Brazil,False,
-748404,Edan,Leshem,Edan Leshem,Israel,False,False
-359628,Bastian,Malla,Bastian Malla,Chile,False,
-1262952,Patrick,Kypson,Patrick Kypson,USA,False,False
-312354,Karue,Sell,Karue Sell,Brazil,False,
-490590,Gregoire,Jacq,Gregoire Jacq,France,False,False
-155046,Yannick,Mertens,Yannick Mertens,Belgium,False,False
-574818,Andrea,Vavassori,Andrea Vavassori,Italy,,False
-581922,Ji Hoon,Son,Ji Hoon Son,South Korea,False,
-291876,Patricio,Heras,Patricio Heras,Argentina,False,
-296028,Yannick,Jankovits,Yannick Jankovits,France,False,False
-1337742,Chauvinc,Cornut,Chauvinc Cornut,France,False,
-683886,Juan,Ficovich,Juan Ficovich,Argentina,False,
-1176744,Carabelli,Ugo,Carabelli Ugo,Argentina,False,
-1242216,Chun,Tseng,Chun Tseng,Chinese Taipei,False,
-1082688,Louis,Wessels,Louis Wessels,Germany,False,False
-307056,Edoardo,Eremin,Edoardo Eremin,Italy,False,
-569562,Ronnie,Schneider,Ronnie Schneider,USA,False,False
-1415592,Michael,Vrbensky,Michael Vrbensky,Czech Republic,False,False
-433392,Altug,Celikbilek,Altug Celikbilek,Turkey,False,False
-667182,Orlando,Luz,Orlando Luz,Brazil,False,False
-326946,Juan Ignacio,Galarza,Juan Ignacio Galarza,Argentina,False,
-916332,Tom,Fawcett,Tom Fawcett,USA,False,False
-97500,Konstantin,Kravchuk,Konstantin Kravchuk,Russia,False,False
-227292,Alejandro,Gomez,Alejandro Gomez,Colombia,False,False
-106404,Peter,Torebko,Peter Torebko,Germany,False,False
-684450,Lopez,Pena,Lopez Pena,Argentina,False,
-298122,Riccardo,Bellotti,Riccardo Bellotti,Italy,False,False
-784464,Manuel,Sánchez,Manuel Sánchez,Mexico,False,False
-1123326,Lucas,Catarina,Lucas Catarina,Monaco,False,False
-317526,Robin,Kern,Robin Kern,Germany,False,False
-213474,Felipe,Mantilla,Felipe Mantilla,Colombia,False,
-306666,Alexander,Lazov,Alexander Lazov,Bulgaria,False,False
-1192800,Colin,Sinclair,Colin Sinclair,Northern Mariana Islands,False,False
-96096,Frederik,Nielsen,Frederik Nielsen,Denmark,False,False
-1302828,Yuta,Shimizu,Yuta Shimizu,Japan,False,False
-364416,Karim,Maamoun,Karim Maamoun,Egypt,False,False
-1307016,Francesco,Forti,Francesco Forti,Italy,False,False
-606954,Alex,Rybakov,Alex Rybakov,USA,False,False
-1228596,Jacopo,Berrettini,Jacopo Berrettini,Italy,False,True
-714912,Thomas,Fancutt,Thomas Fancutt,Australia,False,False
-497598,Evan,Hoyt,Evan Hoyt,United Kingdom,False,False
-221928,Pavel,Krainik,Pavel Krainik,Canada,False,
-578982,Riccardo,Balzerani,Riccardo Balzerani,Italy,False,
-420384,Pietro,Rondoni,Pietro Rondoni,Italy,False,
-1242312,Brandon,Holt,Brandon Holt,USA,True,False
-95574,Marc,Sieber,Marc Sieber,Germany,False,
-137736,Ruan,Roelofse,Ruan Roelofse,South Africa,False,False
-727044,Jules,Okala,Jules Okala,France,False,
-89814,Ti,Chen,Ti Chen,Chinese Taipei,False,False
-1360842,Maxime,Cressy,Maxime Cressy,USA,False,False
-458958,Daniel,Nguyen,Daniel Nguyen,USA,False,False
-614046,De,Van,De Van,Netherlands,False,False
-1198824,Alexandar,Lazarov,Alexandar Lazarov,Bulgaria,False,False
-87324,Janko,Tipsarevic,Janko Tipsarevic,Serbia,False,False
-857400,Baptiste,Crepatte,Baptiste Crepatte,France,False,
-1239432,Jannik,Sinner,Jannik Sinner,Italy,False,False
-446010,Matias,Descotte,Matias Descotte,Argentina,False,
-229092,Facundo,Mena,Facundo Mena,Argentina,False,False
-727104,Manuel,Guinard,Manuel Guinard,France,False,False
-273210,Gonzalo,Lama,Gonzalo Lama,Chile,False,False
-851304,Geoffrey,Blancaneaux,Geoffrey Blancaneaux,France,False,False
-665034,San,Lopez,San Lopez,Spain,False,
-1050432,Giovanni,Fonio,Giovanni Fonio,Italy,False,False
-1566102,Lorenzo,Musetti,Lorenzo Musetti,Italy,False,False
-870744,Matteo,Martineau,Matteo Martineau,France,False,
-96528,Alexandr,Dolgopolov,Alexandr Dolgopolov,Ukraine,False,False
-1164828,Kirill,Kivattsev,Kirill Kivattsev,Russia,False,
-1175052,Sebastian,Korda,Sebastian Korda,USA,True,False
-574986,Julian,Ocleppo,Julian Ocleppo,Italy,False,True
-416184,Skander,Mansouri,Skander Mansouri,Tunisia,False,False
-612918,Alejandro,Tabilo,Alejandro Tabilo,Chile,False,False
-750468,Ben,Patael,Ben Patael,Israel,False,False
-366216,Lucas,Gomez,Lucas Gomez,Mexico,False,False
-223266,Sandro,Ehrat,Sandro Ehrat,Switzerland,False,False
-1429812,Tomas,Machac,Tomas Machac,Czech Republic,False,False
-336114,Alexander,Ritschard,Alexander Ritschard,Switzerland,False,False
-304782,Peter,Heller,Peter Heller,Germany,False,False
-396024,Laurent,Lokoli,Laurent Lokoli,France,False,True
-326298,Sanjar,Fayziev,Sanjar Fayziev,Uzbekistan,False,False
-290466,Alexander,Zhurbin,Alexander Zhurbin,Russia,False,True
-448206,Pavel,Nejedly,Pavel Nejedly,Czech Republic,True,
-272406,Raymond,Sarmiento,Raymond Sarmiento,USA,,False
-1196280,Luca,Giacomini,Luca Giacomini,Italy,False,
-1235448,Hugo,Gaston,Hugo Gaston,France,False,False
-300234,Marco,Bortolotti,Marco Bortolotti,Italy,False,False
-1528464,Jiri,Lehecka,Jiri Lehecka,Czech Republic,False,False
-692790,Evgenii,Tiurnev,Evgenii Tiurnev,Russia,False,False
-606570,Jordi,Arconada,Jordi Arconada,USA,False,
-917412,Patrik,Rikl,Patrik Rikl,Czech Republic,False,False
-1326084,Francisco,Cerundolo,Francisco Cerundolo,Argentina,False,True
-401256,Shintaro,Imai,Shintaro Imai,Japan,False,
-1423140,Giulio,Zeppieri,Giulio Zeppieri,Italy,False,False
-1323234,Paul,Jubb,Paul Jubb,United Kingdom,False,False
-981828,Lukas,Klein,Lukas Klein,Slovakia,False,False
-638154,Lucas,Gerch,Lucas Gerch,Germany,False,
-289362,Da,Dutra,Da Dutra,Brazil,False,
-1278336,Sam,Riffice,Sam Riffice,USA,False,False
-142032,Cedrik,Stebe,Cedrik Stebe,Germany,False,
-336534,Aleksandre,Metreveli,Aleksandre Metreveli,Georgia,False,True
-463746,Jeroen,Vanneste,Jeroen Vanneste,Belgium,False,
-1142298,John,Mcnally,John Mcnally,USA,True,
-980640,Fajing,Sun,Fajing Sun,China,False,False
-566934,Christopher,Heyman,Christopher Heyman,Belgium,True,
-349338,Christopher,Oconnell,Christopher Oconnell,Australia,False,
-383766,Lobato,Esteve,Lobato Esteve,Spain,False,
-95196,Frederico,Gil,Frederico Gil,Portugal,False,False
-430224,Nicolas,Alvarez,Nicolas Alvarez,Peru,False,False
-952500,Alves,Meligeni,Alves Meligeni,Brazil,False,
-1196382,Vit,Kopriva,Vit Kopriva,Czech Republic,False,False
-259578,Christian,Lindell,Christian Lindell,Sweden,True,False
-515274,Gonzalo,Villanueva,Gonzalo Villanueva,Argentina,False,False
-1016988,Tomas,Etcheverry,Tomas Etcheverry,Argentina,False,
-102402,Maxime,Chazal,Maxime Chazal,France,False,False
-401484,Maxime,Hamou,Maxime Hamou,France,False,False
-445806,Matias,Zukas,Matias Zukas,Argentina,False,
-1161876,Izquierdo,Sanchez,Izquierdo Sanchez,Spain,False,
-1304796,Rio,Noguchi,Rio Noguchi,Japan,False,False
-547452,Ryan,Peniston,Ryan Peniston,United Kingdom,False,False
-353898,Bague,Toledo,Bague Toledo,Spain,False,
-1552506,Jack,Draper,Jack Draper,United Kingdom,False,False
-313590,Diego,Hidalgo,Diego Hidalgo,Ecuador,False,False
-893832,Mathieu,Perchicot,Mathieu Perchicot,France,False,
-261534,Agustin,Velotti,Agustin Velotti,Argentina,False,False
-688998,Alexander,Erler,Alexander Erler,Austria,False,False
-355002,Ronald,Slobodchikov,Ronald Slobodchikov,Russia,False,
-1123320,Nicolas,Mejia,Nicolas Mejia,Colombia,False,False
-487662,Oscar,Gutierrez,Oscar Gutierrez,Brazil,False,False
-1151250,Jenson,Brooksby,Jenson Brooksby,USA,False,False
-290550,Sanz,Perez,Sanz Perez,Spain,False,
-1151064,Dan,Added,Dan Added,France,False,False
-616914,Niels,Lootsma,Niels Lootsma,Netherlands,False,False
-383106,Nik,Razborsek,Nik Razborsek,Slovenia,False,False
-1034904,Aziz,Dougaz,Aziz Dougaz,Tunisia,False,False
-832356,Jordan,Correia,Jordan Correia,Brazil,False,
-581166,Benjamin,Lock,Benjamin Lock,Zimbabwe,False,False
-1323258,Aidan,Mchugh,Aidan Mchugh,United Kingdom,False,
-379500,Martins,Podzus,Martins Podzus,Latvia,False,False
-584214,Michail,Pervolarakis,Michail Pervolarakis,Greece,True,False
-596274,Mariano,Kestelboim,Mariano Kestelboim,Argentina,False,
-378552,Nerman,Fatic,Nerman Fatic,Bosnia & Herzegovina,False,False
-464898,Danylo,Kalenichenko,Danylo Kalenichenko,Ukraine,False,False
-108414,Eduardo,Struvay,Eduardo Struvay,Colombia,False,False
-288348,Cheong-Eui,Kim,Cheong-Eui Kim,South Korea,False,
-621762,Michael,Geerts,Michael Geerts,Belgium,False,False
-289206,Quentin,Robert,Quentin Robert,France,False,
-1119288,Artem,Dubrivnyy,Artem Dubrivnyy,Russia,False,False
-1119786,Ergi,Kirkin,Ergi Kirkin,Turkey,False,False
-278238,Maximiliano,Estevez,Maximiliano Estevez,Argentina,False,False
-320982,Alessandro,Petrone,Alessandro Petrone,Italy,False,
-486474,Gonzalez,Vivero,Gonzalez Vivero,Spain,False,
-1085688,Rayane,Roumane,Rayane Roumane,France,False,False
-1016928,Genaro,Olivieri,Genaro Olivieri,Argentina,False,
-1296936,Sho,Shimabukuro,Sho Shimabukuro,Japan,False,False
-1207392,Marko,Miladinovic,Marko Miladinovic,Serbia,False,False
-927432,Vladyslav,Orlov,Vladyslav Orlov,Ukraine,False,False
-635850,Jumpei,Yamasaki,Jumpei Yamasaki,Japan,False,
-587874,Seong,Hong,Seong Hong,South Korea,False,
-1225986,Yu,Hsu,Yu Hsu,Chinese Taipei,False,
-1466532,Jong,De,Jong De,Netherlands,False,
-599610,Nicolae,Frunza,Nicolae Frunza,Romania,False,False
-1171086,Yshai,Oliel,Yshai Oliel,Israel,False,False
-457590,Rafael,Matos,Rafael Matos,Brazil,False,False
-972876,Evan,Zhu,Evan Zhu,USA,False,False
-237492,Bruno,Santanna,Bruno Santanna,Brazil,False,False
-1655550,Carlos,Alcaraz,Carlos Alcaraz,Spain,False,False
-1380306,Filip,Jianu,Filip Jianu,Romania,False,False
-326874,Wilson,Leite,Wilson Leite,Brazil,False,
-1542558,Daniel,Michalski,Daniel Michalski,Poland,False,False
-685194,Adam,Moundir,Adam Moundir,Morocco,False,False
-1235838,Kacper,Zuk,Kacper Zuk,Poland,False,False
-457518,Bogdan,Bobrov,Bogdan Bobrov,Russia,False,False
-1413468,Brandon,Nakashima,Brandon Nakashima,USA,False,False
-1330848,Sebastian,Baez,Sebastian Baez,Argentina,False,False
-689322,Johan,Nikles,Johan Nikles,Switzerland,False,False
-473286,Matija,Pecotic,Matija Pecotic,Croatia,False,False
-954144,Ricardo,Rodríguez,Ricardo Rodríguez,Venezuela,True,False
-1586244,Acosta,Diaz,Acosta Diaz,Argentina,False,
-1493178,Juan,Cerundolo,Juan Cerundolo,Argentina,False,
-363696,David,Poljak,David Poljak,Czech Republic,False,
-462042,Marko,Tepavac,Marko Tepavac,Serbia,False,False
-679338,Salminen,Niklas,Salminen Niklas,Finland,False,
-1466508,Alexey,Zakharov,Alexey Zakharov,Russia,False,
-1121322,Nick,Hardt,Nick Hardt,Dominican Republic,False,False
-352230,Nick,Chappell,Nick Chappell,USA,False,False
-696294,Gage,Brymer,Gage Brymer,USA,False,
-327186,Jorge,Panta,Jorge Panta,Peru,False,False
-593898,Alexandru,Jecan,Alexandru Jecan,Romania,False,
-664254,David,Pichler,David Pichler,Austria,False,False
-87840,Yen-Hsun,Lu,Yen-Hsun Lu,China,False,False
-1615758,Jonas,Forejtek,Jonas Forejtek,Czech Republic,False,False
-326334,Blake,Mott,Blake Mott,Australia,False,False
-1215444,Marek,Gengel,Marek Gengel,Czech Republic,False,False
-571566,Strong,Kirchheimer,Strong Kirchheimer,USA,False,
-1493088,Harold,Mayot,Harold Mayot,France,False,False
-137730,Jerzy,Janowicz,Jerzy Janowicz,Poland,False,False
-1125660,Aleksandar,Kovacevic,Aleksandar Kovacevic,USA,False,False
-859692,Gabriel,Petit,Gabriel Petit,France,False,
-1074972,Thomas,Laurent,Thomas Laurent,France,False,False
-243252,Nikola,Cacic,Nikola Cacic,Serbia,False,False
-205596,Mao,Gong,Mao Gong,China,False,
-1439286,Ryan,Nijboer,Ryan Nijboer,,False,
-1283886,Jakub,Paul,Jakub Paul,Switzerland,False,False
-1041036,Austin,Rapp,Austin Rapp,USA,False,
-1597566,Del,Huertas,Del Huertas,Peru,False,
-1263156,Bart,Stevens,Bart Stevens,,False,False
-308082,Jr,Damm,Jr Damm,USA,False,
-1783206,Toby,Kodat,Toby Kodat,USA,False,False
-1239624,Clement,Tabur,Clement Tabur,France,False,False
-1189350,Sergey,Fomin,Sergey Fomin,Uzbekistan,False,False
-981252,Mats,Hermans,Mats Hermans,,False,
-1409388,Lopez,Winter,Lopez Winter,Spain,False,
-1235406,Piotr,Matuszewski,Piotr Matuszewski,Poland,False,False
-1792782,Shintaro,Mochizuki,Shintaro Mochizuki,Japan,False,False
-1309566,Fabian,Marozsan,Fabian Marozsan,Hungary,False,False
-1327278,Ray,Ho,Ray Ho,,False,False
-352710,Min,Song,Min Song,South Korea,False,
-1251996,Sem,Verbeek,Sem Verbeek,,False,False
-353946,Matej,Sabanov,Matej Sabanov,,False,False
-590490,Karol,Drzewiecki,Karol Drzewiecki,Poland,False,False
-296154,Scott,Puodziunas,Scott Puodziunas,Australia,False,False
-672378,Szymon,Walkow,Szymon Walkow,Poland,False,False
-462078,Gornes,Martos,Gornes Martos,Spain,,
-91662,Toshihide,Matsui,Toshihide Matsui,Japan,False,False
-311322,Xin,Gao,Xin Gao,China,False,False
-297300,Vladyslav,Manafov,Vladyslav Manafov,Ukraine,False,False
-225834,Federico,Zeballos,Federico Zeballos,Bolivia,False,False
-98964,Jonathan,Eysseric,Jonathan Eysseric,France,False,False
-291888,Nicolas,Barrientos,Nicolas Barrientos,Colombia,False,False
-676842,Jan,Zielinski,Jan Zielinski,Poland,False,False
-322566,N,Prashanth,N Prashanth,India,False,
-305112,Timur,Khabibulin,Timur Khabibulin,Kazakhstan,False,False
-556686,Brandon,Walkin,Brandon Walkin,Australia,False,False
-971220,Del,Huertas,Del Huertas,Peru,False,
-935172,Courtney,Lock,Courtney Lock,,False,
-831168,Runhao,Hua,Runhao Hua,China,False,False
-300900,Calum,Puttergill,Calum Puttergill,Australia,False,False
-749616,Grigoriy,Lomakin,Grigoriy Lomakin,Kazakhstan,False,False
-590706,Malfeito,Pla,Malfeito Pla,Spain,,
-1137246,Julian,Bradley,Julian Bradley,Ireland,False,False
-433776,Nicolas,Arreche,Nicolas Arreche,Argentina,False,
-465930,Victor,Cornea,Victor Cornea,Romania,False,
-1181586,Petr,Nouza,Petr Nouza,Czech Republic,False,False
-150138,Inigo,Cervantes,Inigo Cervantes,Spain,False,False
-305934,Alexander,Igoshin,Alexander Igoshin,Russia,False,
-726744,Simon,Freund,Simon Freund,Sweden,False,False
-683346,Ivan,Liutarevich,Ivan Liutarevich,Belarus,False,False
-374472,Luke,Johnson,Luke Johnson,United Kingdom,False,False
-557082,George,Goldhoff,George Goldhoff,USA,False,
-1038708,Anis,Ghorbel,Anis Ghorbel,Tunisia,False,False
-312828,Luis,Patino,Luis Patino,Mexico,False,False
-952980,Rhett,Purcell,Rhett Purcell,New Zealand,False,False
-337638,Maxime,Tchoutakian,Maxime Tchoutakian,France,False,
-636210,Florian,Lakat,Florian Lakat,France,False,False
-765888,Francisco,Cabral,Francisco Cabral,,False,False
-393648,Franco,Agamenone,Franco Agamenone,Italy,False,False
-1337664,Justin,Butsch,Justin Butsch,USA,False,
-917196,Oleg,Prihodko,Oleg Prihodko,Ukraine,False,False
-291624,Goncalo,Falcao,Goncalo Falcao,,False,
-556014,Luca,Castelnuovo,Luca Castelnuovo,,False,False
-298014,Alexander,Pavlioutchenkov,Alexander Pavlioutchenkov,Russia,False,False
-532800,Hawkins,Findel,Hawkins Findel,United Kingdom,False,
-465018,Kai,Wehnelt,Kai Wehnelt,,False,
-543888,Maxim,Ratniuk,Maxim Ratniuk,Russia,False,
-470478,Franco,Feitt,Franco Feitt,Argentina,False,
-1138290,Glenn,Smits,Glenn Smits,,False,False
-669666,Campos,Barroso,Campos Barroso,Spain,False,
-857748,James,Frawley,James Frawley,Australia,False,False
-419472,Filip,Bergevi,Filip Bergevi,Sweden,False,False
-89286,Jaroslav,Pospisil,Jaroslav Pospisil,Czech Republic,False,False
-662802,Peter,Bothwell,Peter Bothwell,Ireland,False,False
-975636,Luca,Gelhardt,Luca Gelhardt,,False,
-605274,Jose,Bendeck,Jose Bendeck,Colombia,False,
-342942,Sanchis,Jorda,Sanchis Jorda,Spain,False,
-1375662,Timofey,Skatov,Timofey Skatov,Kazakhstan,False,False
-1242498,Duje,Ajdukovic,Duje Ajdukovic,Croatia,False,False
-472470,Elmar,Ejupovic,Elmar Ejupovic,Germany,False,
-1304706,Valero,Gimeno,Valero Gimeno,Spain,False,
-750048,Nuno,Borges,Nuno Borges,Portugal,False,False
-600426,Vitaliy,Sachko,Vitaliy Sachko,Ukraine,False,False
-1329102,Thiago,Tirante,Thiago Tirante,Argentina,False,
-1698432,Holger,Rune,Holger Rune,Denmark,False,False
-1252956,Adrian,Andreev,Adrian Andreev,Bulgaria,False,False
-146856,Andrey,Kuznetsov,Andrey Kuznetsov,Russia,False,False
-814680,Lucas,Poullain,Lucas Poullain,France,False,
-1605474,Kyrian,Jacquet,Kyrian Jacquet,France,False,False
-1778226,Dominic,Stricker,Dominic Stricker,Switzerland,False,False
-1392354,Emilio,Nava,Emilio Nava,USA,False,False
-1328046,Georgii,Kravchenko,Georgii Kravchenko,Ukraine,False,
-1304700,Tiffon,Martin,Tiffon Martin,Spain,False,
-1642092,Cobolli,Flavio,Cobolli Flavio,Italy,False,
-1278354,Oliver,Crawford,Oliver Crawford,USA,False,False
-1726830,Arthur,Cazaux,Arthur Cazaux,France,False,False
-1762470,Zane,Khan,Zane Khan,USA,False,False
-1628238,De,Pucinelli,De Pucinelli,Brazil,False,
-1112616,Taverna,Rodriguez,Taverna Rodriguez,Argentina,False,
-1470672,Anton,Matusevich,Anton Matusevich,United Kingdom,False,False
-727080,Alexis,Gautier,Alexis Gautier,France,False,
-683442,De,Moreno,De Moreno,USA,False,
-1361010,Marvin,Moller,Marvin Moller,Germany,False,
-1235946,Varona,Alvarez,Varona Alvarez,Spain,False,
-1586076,Alexander,Shevchenko,Alexander Shevchenko,Russia,False,False
-1523064,Nicholas,Ionel,Nicholas Ionel,Romania,False,
-1395702,Oleksii,Krutykh,Oleksii Krutykh,Ukraine,False,False
-1375320,Otto,Virtanen,Otto Virtanen,Finland,False,False
-1238988,Govind,Nanda,Govind Nanda,USA,False,False
-1560744,Dalibor,Svrcina,Dalibor Svrcina,Czech Republic,False,False
-1172028,Dragos,Madaras,Dragos Madaras,Sweden,False,
-459090,Azorin,Vidal,Azorin Vidal,Spain,False,
-683166,Antoine,Bellier,Antoine Bellier,Switzerland,False,False
-1589880,De,Pucinelli,De Pucinelli,Brazil,False,
-1298940,Filip,Misolic,Filip Misolic,Austria,False,False
-1789494,Zachary,Svajda,Zachary Svajda,USA,False,False
-1424724,Rinky,Hijikata,Rinky Hijikata,Australia,True,False
-971256,Felix,Corwin,Felix Corwin,USA,False,
-1848516,Luciano,Darderi,Luciano Darderi,Italy,False,False
-1797240,Matteo,Arnaldi,Matteo Arnaldi,Italy,False,False
-1707114,Eric,Vanshelboim,Eric Vanshelboim,Ukraine,False,
-1735410,Luca,Nardi,Luca Nardi,Italy,False,False
-1361640,Junior,Klier,Junior Klier,Brazil,False,
-1276584,Da,Reis,Da Reis,Brazil,False,
-1137288,Tiago,Cacao,Tiago Cacao,Portugal,False,False
-944376,Mats,Rosenkranz,Mats Rosenkranz,Germany,False,False
-678858,Mateus,Alves,Mateus Alves,Brazil,False,False
-1463562,Titouan,Droguet,Titouan Droguet,France,False,False
-339474,Pawel,Cias,Pawel Cias,Poland,False,
-1207500,Yan,Bondarevskiy,Yan Bondarevskiy,Russia,False,
-981312,Facundo,Juarez,Facundo Juarez,Italy,False,
-1181544,Jover,Sanchez,Jover Sanchez,Spain,False,
-864624,Alexander,Weis,Alexander Weis,Italy,False,
-1402212,Gauthier,Onclin,Gauthier Onclin,Belgium,False,
-395964,Juan,Paz,Juan Paz,Argentina,False,False
-1532532,Francisco,Comesana,Francisco Comesana,Argentina,False,False
-1262988,Vasil,Kirkov,Vasil Kirkov,USA,False,False
-1398768,Dane,Sweeny,Dane Sweeny,Australia,False,False
-312426,Naoki,Nakagawa,Naoki Nakagawa,Japan,False,False
-1450320,Yanki,Erel,Yanki Erel,Turkey,False,False
-1123392,Christian,Langmo,Christian Langmo,USA,False,
-1148652,Damien,Wenger,Damien Wenger,Switzerland,False,
-1815504,Gustavo,Heide,Gustavo Heide,Brazil,False,False
-1771080,Alibek,Kachmazov,Alibek Kachmazov,Russia,False,False
-492954,Igor,Marcondes,Igor Marcondes,Brazil,False,False
-671034,Billy,Harris,Billy Harris,United Kingdom,False,False
-1894656,Juan,Torres,Juan Torres,Argentina,False,False
-1307310,Gabriel,Decamps,Gabriel Decamps,Brazil,False,False
-2010624,Assche,Van,Assche Van,France,False,
-953484,Valentin,Vacherot,Valentin Vacherot,Monaco,False,False
-981180,Edoardo,Lavagno,Edoardo Lavagno,Italy,False,
-1249362,Henri,Squire,Henri Squire,Germany,False,False
-1276866,Stuart,Parker,Stuart Parker,United Kingdom,False,False
-922968,Moez,Echargui,Moez Echargui,Tunisia,False,False
-1337760,Alastair,Gray,Alastair Gray,United Kingdom,False,False
-1137252,Hady,Habib,Hady Habib,Lebanon,False,False
-1228668,Mateus,Alves,Mateus Alves,Brazil,,False
-486282,Jonathan,Mridha,Jonathan Mridha,Sweden,False,False
-1360872,Luca,Potenza,Luca Potenza,Italy,False,
-296514,Li,Tu,Li Tu,Australia,False,False
-2133168,Ouden,Den,Ouden Den,Netherlands,False,
-1392366,Keegan,Smith,Keegan Smith,USA,False,False
-1505154,Canas,Moro,Canas Moro,Spain,False,
-2031012,Arthur,Fils,Arthur Fils,France,False,False
-1553460,Francesco,Passaro,Francesco Passaro,Italy,False,False
-1392282,Omni,Kumar,Omni Kumar,USA,False,
-2093130,Juncheng,Shang,Juncheng Shang,China,False,False
-1788354,Felix,Gill,Felix Gill,United Kingdom,,False
-1396692,Beibit,Zhukayev,Beibit Zhukayev,Kazakhstan,False,False
-2036712,Lukas,Neumayer,Lukas Neumayer,Austria,False,False
-1133676,Andrey,Chepelev,Andrey Chepelev,Russia,False,
-1930740,Leandro,Riedi,Leandro Riedi,Switzerland,False,False
-1594860,Lavallen,Lingua,Lavallen Lingua,Argentina,False,
-1181532,Cezar,Cretu,Cezar Cretu,Romania,False,
-1207476,Montagud,Lopez,Montagud Lopez,Spain,False,
-1766034,Mattia,Bellucci,Mattia Bellucci,Italy,False,False
-1213098,Charles,Broom,Charles Broom,United Kingdom,False,
-1956678,Matteo,Gigante,Matteo Gigante,Italy,False,False
-1928436,Hamad,Mededovic,Hamad Mededovic,Serbia,False,
-492810,Velasco,Dellien,Velasco Dellien,Bolivia,False,
-997200,Timo,Stodder,Timo Stodder,Germany,False,
-1723098,Roman,Burruchaga,Roman Burruchaga,Argentina,False,
-1204674,Ugo,Blanchet,Ugo Blanchet,France,False,False
-1304688,Pujolras,Marti,Pujolras Marti,Spain,False,
-475710,Gergely,Madarasz,Gergely Madarasz,Hungary,False,False
-1950858,Ruggeri,Vincent,Ruggeri Vincent,Italy,False,
-99396,Jose,Pereira,Jose Pereira,Brazil,False,False
-1532706,Valentin,Royer,Valentin Royer,France,False,
-1704588,Dias,Boscardin,Dias Boscardin,Brazil,False,
-1652838,Tristan,Schoolkate,Tristan Schoolkate,Australia,False,False
-1930752,Jones,Pinnington,Jones Pinnington,United Kingdom,,
-1566114,Francesco,Maestrelli,Francesco Maestrelli,Italy,False,False
-1718964,Martin,Krumich,Martin Krumich,Czech Republic,False,
-870660,Remy,Bertola,Remy Bertola,Switzerland,False,
-1652814,Andrew,Paulson,Andrew Paulson,Czech Republic,False,False
-748260,Daniel,Cukierman,Daniel Cukierman,Israel,False,True
-2312922,Ben,Shelton,Ben Shelton,USA,False,False
-476814,Omar,Jasika,Omar Jasika,Australia,False,False
-630138,Kyle,Seelig,Kyle Seelig,USA,False,
-832284,Giovanni,Oradini,Giovanni Oradini,Italy,False,
-1586160,Ruiz,Llamas,Ruiz Llamas,Spain,False,
-1628346,Mariano,Navone,Mariano Navone,Argentina,False,
-1525374,Bu,Yunchaokete,Bu Yunchaokete,China,False,False
-108564,Daniel,Cox,Daniel Cox,United Kingdom,False,False
-1389732,Clement,Chidekh,Clement Chidekh,France,False,False
-1278468,Mathys,Erhard,Mathys Erhard,France,False,
-1642086,Terence,Atmane,Terence Atmane,France,,
-1389384,Stefan,Palosi,Stefan Palosi,Romania,False,
-2036724,James,Mccabe,James Mccabe,Australia,False,
-2133162,Raphael,Collignon,Raphael Collignon,Belgium,False,
-1844358,Daniel,Rincon,Daniel Rincon,Spain,False,False
-1747590,Dominik,Palan,Dominik Palan,Czech Republic,False,
-2044458,Wayenburg,Gueymard,Wayenburg Gueymard,France,False,
-1854438,Jerome,Kym,Jerome Kym,Switzerland,False,False
-1734888,Perricard,Mpetshi,Perricard Mpetshi,France,False,
-1433214,Oleksandr,Ovcharenko,Oleksandr Ovcharenko,Ukraine,False,False
-1983240,Henry,Patten,Henry Patten,United Kingdom,False,False
-1133634,Quentin,Folliot,Quentin Folliot,France,False,
-1734906,Peter,Fajta,Peter Fajta,Hungary,False,
-1750572,Gianmarco,Ferrari,Gianmarco Ferrari,Italy,False,False
-2092218,Marko,Topo,Marko Topo,Germany,False,False
-1553874,Hernandez,Alex,Hernandez Alex,Mexico,False,
-1341090,Liam,Draxl,Liam Draxl,Canada,False,False
-1199190,Ezekiel,Clark,Ezekiel Clark,USA,False,
-1263258,Jurgen,Briand,Jurgen Briand,France,False,
-1911444,Timo,Legout,Timo Legout,France,False,False
-1239456,Jaimee,Angele,Jaimee Angele,France,False,
-1782846,Valerio,Aboian,Valerio Aboian,Argentina,False,False
-1680918,Gabriel,Diallo,Gabriel Diallo,Canada,False,False
-1328310,Juan,Otegui,Juan Otegui,Argentina,False,
-1663086,Max,Houkes,Max Houkes,Netherlands,False,False
-2033352,Aguilar,Merida,Aguilar Merida,Spain,False,
-2005770,Ethan,Quinn,Ethan Quinn,USA,False,False
-1844310,Abedallah,Shelbayh,Abedallah Shelbayh,Jordan,False,False
-2057022,Maks,Kasnikowski,Maks Kasnikowski,Poland,False,False
-1016964,Leonardo,Aboian,Leonardo Aboian,Argentina,False,
-2303958,Mark,Lajal,Mark Lajal,Estonia,False,False
-2044464,Robin,Bertrand,Robin Bertrand,France,False,False
-1540836,Cannon,Kingsley,Cannon Kingsley,USA,False,
-1344240,Federico,Arnaboldi,Federico Arnaboldi,Italy,False,False
-644910,Ignacio,Monzon,Ignacio Monzon,Argentina,False,
-388764,Daniele,Capecchi,Daniele Capecchi,Italy,False,
-1245462,Adam,Walton,Adam Walton,Australia,False,False
-916368,Karl,Friberg,Karl Friberg,Sweden,False,False
-1931700,Eliakim,Coulibaly,Eliakim Coulibaly,Ivory Coast,False,False
-330414,Jules,Marie,Jules Marie,France,False,
-1385418,Rimpei,Kawakami,Rimpei Kawakami,Japan,False,
-1801770,Max,Rehberg,Max Rehberg,Germany,False,
-2264190,Marcello,Serafini,Marcello Serafini,Italy,False,
-1196940,Eduardo,Ribeiro,Eduardo Ribeiro,Brazil,False,False
-1735050,Giles,Hussey,Giles Hussey,United Kingdom,False,False
-2057862,Mili,Poljicak,Mili Poljicak,Croatia,False,False
-1930746,Arthur,Fery,Arthur Fery,United Kingdom,False,False
-1796898,Philip,Sekulic,Philip Sekulic,Australia,False,
-1593774,Sebastian,Gima,Sebastian Gima,Romania,False,
-1196286,Sandro,Kopp,Sandro Kopp,Austria,False,False
-807624,Alfredo,Perez,Alfredo Perez,USA,False,False
-1242546,August,Holmgren,August Holmgren,Denmark,False,False
-2233884,Jakub,Mensik,Jakub Mensik,Czech Republic,False,False
-1582206,Robert,Strombachs,Robert Strombachs,Germany,False,False
-2234100,Ilya,Snitari,Ilya Snitari,Moldova,False,False
-1466472,Ajeet,Rai,Ajeet Rai,New Zealand,False,False
-2094546,Dino,Prizmic,Dino Prizmic,Croatia,False,False
-1473090,Arthur,Weber,Arthur Weber,France,False,False
-1603464,Harry,Wendelken,Harry Wendelken,United Kingdom,False,
-2440380,Alex,Michelsen,Alex Michelsen,USA,False,False
-782640,Nathan,Ponwith,Nathan Ponwith,USA,False,
-2001060,Kalin,Ivanovski,Kalin Ivanovski,North Macedonia,False,False
-2288406,Gabriele,Piraino,Gabriele Piraino,Italy,False,
-1854954,Aidan,Mayo,Aidan Mayo,USA,False,
-2253228,Gabriel,Debru,Gabriel Debru,France,False,False
-1798602,Gonzalo,Bueno,Gonzalo Bueno,Peru,False,False
-1730802,Fausto,Tabacco,Fausto Tabacco,Italy,False,
-1304634,Barrera,Soriano,Barrera Soriano,Colombia,False,
-940968,Wyk,Van,Wyk Van,South Africa,False,
-1549956,Saba,Purtseladze,Saba Purtseladze,Georgia,False,False
-827352,Duarte,Vale,Duarte Vale,Portugal,False,False
-2046900,Leo,Borg,Leo Borg,Sweden,True,False
-1385808,Lorenzo,Rottoli,Lorenzo Rottoli,Italy,False,
-644118,Alexander,Cozbinov,Alexander Cozbinov,Moldova,False,False
-1147110,Digvijay,Singh,Digvijay Singh,India,False,False
-1553880,George,Loffhagen,George Loffhagen,United Kingdom,False,
-1372032,Gabi,Boitan,Gabi Boitan,Romania,False,
-1819854,Alex,Barrena,Alex Barrena,Argentina,False,
-398868,Naomi,Osaka,Naomi Osaka,Japan,True,False
-119028,Petra,Kvitova,Petra Kvitova,Czech Republic,False,False
-215034,Simona,Halep,Simona Halep,Romania,False,False
-138960,Sloane,Stephens,Sloane Stephens,USA,True,False
-124404,Karolina,Pliskova,Karolina Pliskova,Czech Republic,True,False
-117480,Angelique,Kerber,Angelique Kerber,Germany,False,False
-307770,Elina,Svitolina,Elina Svitolina,Ukraine,False,False
-272622,Kiki,Bertens,Kiki Bertens,Netherlands,False,False
-113472,Caroline,Wozniacki,Caroline Wozniacki,Denmark,True,True
-946536,Aryna,Sabalenka,Aryna Sabalenka,Belarus,False,False
-109536,Serena,Williams,Serena Williams,USA,True,True
-794232,Daria,Kasatkina,Daria Kasatkina,Russia,False,False
-118740,Anastasija,Sevastova,Anastasija Sevastova,Latvia,False,False
-296124,Ashleigh,Barty,Ashleigh Barty,Australia,False,False
-304668,Garbine,Muguruza,Garbine Muguruza,Spain,False,False
-118128,Julia,Gorges,Julia Gorges,Germany,False,False
-212556,Madison,Keys,Madison Keys,USA,True,False
-275088,Qiang,Wang,Qiang Wang,China,False,False
-254046,Caroline,Garcia,Caroline Garcia,France,True,False
-288066,Anett,Kontaveit,Anett Kontaveit,Estonia,False,False
-471318,Elise,Mertens,Elise Mertens,Belgium,False,False
-386988,Jelena,Ostapenko,Jelena Ostapenko,Latvia,False,False
-351102,Danielle,Collins,Danielle Collins,USA,False,False
-216414,Lesia,Tsurenko,Lesia Tsurenko,Ukraine,False,False
-124842,Navarro,Suarez,Navarro Suarez,Spain,False,
-115908,Dominika,Cibulková,Dominika Cibulková,Slovakia,False,True
-265866,Camila,Giorgi,Camila Giorgi,Italy,False,False
-119010,Mihaela,Buzarnescu,Mihaela Buzarnescu,Romania,False,False
-110040,Maria,Sharapova,Maria Sharapova,Russia,True,False
-303858,Donna,Vekic,Donna Vekic,Croatia,True,False
-113628,Su,Hsieh,Su Hsieh,Chinese Taipei,False,
-117288,Anastasia,Pavlyuchenkova,Anastasia Pavlyuchenkova,Russia,False,False
-275424,Aliaksandra,Sasnovich,Aliaksandra Sasnovich,Belarus,False,False
-109518,Venus,Williams,Venus Williams,USA,True,True
-118236,Petra,Martic,Petra Martic,Croatia,False,False
-551772,Sofia,Kenin,Sofia Kenin,USA,False,False
-395712,Maria,Sakkari,Maria Sakkari,Greece,False,False
-434268,Katerina,Siniakova,Katerina Siniakova,Czech Republic,False,False
-274644,Johanna,Konta,Johanna Konta,United Kingdom,False,False
-117654,Shuai,Zhang,Shuai Zhang,China,False,False
-273282,Yulia,Putintseva,Yulia Putintseva,Kazakhstan,False,False
-286194,Saisai,Zheng,Saisai Zheng,China,False,False
-383754,Belinda,Bencic,Belinda Bencic,Switzerland,True,False
-201570,Kristina,Mladenovic,Kristina Mladenovic,France,True,False
-777216,Viktoria,Hruncakova,Viktoria Hruncakova,Slovakia,,False
-245976,Daria,Saville,Daria Saville,Australia,False,True
-1139928,Dayana,Yastremska,Dayana Yastremska,Ukraine,False,False
-110592,Barbora,Strycova,Barbora Strycova,Czech Republic,False,False
-206928,Ajla,Tomljanovic,Ajla Tomljanovic,Australia,True,False
-112860,Alize,Cornet,Alize Cornet,France,False,False
-114114,Victoria,Azarenka,Victoria Azarenka,Belarus,False,False
-304134,Uytvanck,Van,Uytvanck Van,Belgium,False,
-113646,Pauline,Parmentier,Pauline Parmentier,France,False,False
-119616,Amritraj,Riske,Amritraj Riske,USA,False,
-110754,Kirsten,Flipkens,Kirsten Flipkens,Belgium,False,False
-332418,Ons,Jabeur,Ons Jabeur,Tunisia,False,False
-451698,Rebecca,Peterson,Rebecca Peterson,Sweden,False,False
-249156,Aleksandra,Krunic,Aleksandra Krunic,Serbia,False,False
-270828,Monica,Puig,Monica Puig,Puerto Rico,False,False
-312162,Yafan,Wang,Yafan Wang,China,False,False
-119154,Ekaterina,Makarova,Ekaterina Makarova,Russia,False,False
-1383780,Amanda,Anisimova,Amanda Anisimova,USA,True,False
-865224,Vera,Lapko,Vera Lapko,Belarus,False,False
-277836,Anna,Schmiedlova,Anna Schmiedlova,Slovakia,False,False
-258624,Timea,Babos,Timea Babos,Hungary,False,False
-117486,Andrea,Petkovic,Andrea Petkovic,Germany,False,False
-117132,Tatjana,Maria,Tatjana Maria,Germany,False,False
-1217556,Bianca,Andreescu,Bianca Andreescu,Canada,True,False
-116676,Johanna,Larsson,Johanna Larsson,Sweden,False,False
-115710,Magdalena,Rybarikova,Magdalena Rybarikova,Slovakia,False,False
-215040,Irina,Begu,Irina Begu,Romania,False,False
-114240,Evgeniya,Rodina,Evgeniya Rodina,Russia,False,False
-916836,Marketa,Vondrousova,Marketa Vondrousova,Czech Republic,False,False
-661806,Tamara,Zidansek,Tamara Zidansek,Slovenia,False,False
-110586,Samantha,Stosur,Samantha Stosur,Australia,False,False
-264366,Eugenie,Bouchard,Eugenie Bouchard,Canada,True,False
-362364,Tormo,Sorribes,Tormo Sorribes,Spain,False,
-406566,Ekaterina,Alexandrova,Ekaterina Alexandrova,Russia,False,False
-1264998,Anastasia,Potapova,Anastasia Potapova,Russia,False,False
-117672,Madison,Brengle,Madison Brengle,USA,False,False
-247170,Margarita,Gasparyan,Margarita Gasparyan,Russia,False,False
-315210,Dalila,Jakupovic,Dalila Jakupovic,Slovenia,False,False
-261174,Luksika,Kumkhum,Luksika Kumkhum,Thailand,False,False
-257046,Mona,Barthel,Mona Barthel,Germany,False,False
-406554,Bernarda,Pera,Bernarda Pera,USA,False,False
-113172,Stefanie,Vogele,Stefanie Vogele,Switzerland,False,False
-113874,Kaia,Kanepi,Kaia Kanepi,Estonia,False,False
-377556,Katie,Boulter,Katie Boulter,United Kingdom,False,False
-119754,Polona,Hercog,Polona Hercog,Slovenia,False,False
-116178,Kristyna,Pliskova,Kristyna Pliskova,Czech Republic,False,False
-308334,Taylor,Townsend,Taylor Townsend,USA,True,False
-118380,Sorana,Cirstea,Sorana Cirstea,Romania,False,False
-278700,Lara,Arruabarrena,Lara Arruabarrena,Spain,False,False
-1139982,Anna,Blinkova,Anna Blinkova,Russia,False,False
-291510,Kateryna,Baindl,Kateryna Baindl,Ukraine,False,False
-218670,Zarina,Diyas,Zarina Diyas,Kazakhstan,False,False
-109800,Vera,Zvonareva,Vera Zvonareva,Russia,False,False
-253746,Magda,Linette,Magda Linette,Poland,False,False
-248142,Ana,Bogdan,Ana Bogdan,Romania,False,False
-117942,Monica,Niculescu,Monica Niculescu,Romania,False,False
-114354,Mandy,Minella,Mandy Minella,Luxembourg,False,False
-116574,Coco,Vandeweghe,Coco Vandeweghe,USA,True,True
-393948,Fiona,Ferro,Fiona Ferro,France,False,False
-269016,Jessica,Pegula,Jessica Pegula,USA,True,True
-225060,Laura,Siegemund,Laura Siegemund,Germany,False,False
-290742,Viktorija,Golubic,Viktorija Golubic,Switzerland,False,False
-110124,Svetlana,Kuznetsova,Svetlana Kuznetsova,Russia,,False
-401820,Veronika,Kudermetova,Veronika Kudermetova,Russia,False,True
-543936,Natalia,Vikhlyantseva,Natalia Vikhlyantseva,Russia,False,False
-248436,Heather,Watson,Heather Watson,United Kingdom,False,False
-1198752,Olga,Danilovic,Olga Danilovic,Serbia,False,True
-112392,Timea,Bacsinszky,Timea Bacsinszky,Switzerland,False,False
-308364,Sachia,Vickery,Sachia Vickery,USA,False,False
-118038,Mariana,Duque Mariño,Mariana Duque Mariño,Colombia,False,
-434712,Nao,Hibino,Nao Hibino,Japan,False,False
-801984,Paula,Badosa,Paula Badosa,Spain,False,False
-313650,Jennifer,Brady,Jennifer Brady,USA,False,False
-273516,Lin,Zhu,Lin Zhu,China,False,False
-946044,Fanny,Stollar,Fanny Stollar,Hungary,False,False
-230778,Misaki,Doi,Misaki Doi,Japan,False,False
-322746,Harriet,Dart,Harriet Dart,United Kingdom,False,False
-115224,Sara,Errani,Sara Errani,Italy,False,False
-467970,Ivana,Jorovic,Ivana Jorovic,Serbia,False,False
-419940,Tamara,Korpatsch,Tamara Korpatsch,Germany,False,False
-197184,Vitalia,Diatchenko,Vitalia Diatchenko,Russia,False,False
-632790,Marie,Bouzkova,Marie Bouzkova,Czech Republic,False,False
-543996,Anhelina,Kalinina,Anhelina Kalinina,Ukraine,False,False
-119094,Arantxa,Rus,Arantxa Rus,Netherlands,False,False
-110898,Shuai,Peng,Shuai Peng,China,False,False
-510474,Karolina,Muchova,Karolina Muchova,Czech Republic,False,False
-286872,Irina,Khromacheva,Irina Khromacheva,Russia,False,False
-742956,Caroline,Dolehide,Caroline Dolehide,USA,False,False
-261312,Julia,Glushko,Julia Glushko,Israel,False,False
-113526,Varvara,Lepchenko,Varvara Lepchenko,USA,False,False
-278778,Tereza,Smitkova,Tereza Smitkova,Czech Republic,False,False
-119268,Yanina,Wickmayer,Yanina Wickmayer,Belgium,False,False
-111540,Lucie,Šafárová,Lucie Šafárová,Czech Republic,False,
-228336,Sabina,Sharipova,Sabina Sharipova,Uzbekistan,False,False
-225066,Nicole,Gibbs,Nicole Gibbs,USA,False,False
-1369644,Iga,Swiatek,Iga Swiatek,Poland,False,False
-1075812,Claire,Liu,Claire Liu,USA,False,False
-527016,Priscilla,Hon,Priscilla Hon,Australia,False,False
-1025628,Sofya,Zhuk,Sofya Zhuk,Russia,False,False
-279180,Conny,Perrin,Conny Perrin,Switzerland,False,False
-150408,Christina,Mchale,Christina Mchale,USA,False,False
-1074888,Anna,Kalinskaya,Anna Kalinskaya,Russia,False,False
-302178,Allie,Kiick,Allie Kiick,USA,True,True
-325566,Ysaline,Bonaventure,Ysaline Bonaventure,Belgium,False,False
-290928,Ekaterine,Gorgodze,Ekaterine Gorgodze,Georgia,False,False
-277074,Richel,Hogenkamp,Richel Hogenkamp,Netherlands,False,False
-274020,Royg,Cepede,Royg Cepede,Paraguay,False,
-693054,Aliona,Bolsova,Aliona Bolsova,Spain,False,False
-750108,Danielle,Lao,Danielle Lao,USA,False,False
-544896,Jil,Teichmann,Jil Teichmann,Switzerland,False,False
-1380348,Marta,Kostyuk,Marta Kostyuk,Ukraine,True,False
-215022,Alexandra,Dulgheru,Alexandra Dulgheru,Romania,,False
-630606,Kimberly,Birrell,Kimberly Birrell,Australia,False,False
-230478,Kurumi,Nara,Kurumi Nara,Japan,False,False
-248256,Viktoriya,Tomova,Viktoriya Tomova,Bulgaria,False,False
-348330,Astra,Sharma,Astra Sharma,Australia,False,False
-313110,Irina,Bara,Irina Bara,Romania,False,False
-1127112,Lorenzo,Di,Lorenzo Di,USA,False,
-314946,Bibiane,Schoofs,Bibiane Schoofs,Netherlands,False,False
-493854,Deichmann,Von,Deichmann Von,Liechtenstein,False,
-248892,Perez,Garcia,Perez Garcia,Spain,False,
-144408,Xinyun,Han,Xinyun Han,China,False,False
-313386,Danka,Kovinic,Danka Kovinic,Montenegro,False,False
-279762,Ankita,Raina,Ankita Raina,India,False,False
-1117884,Elena,Rybakina,Elena Rybakina,Kazakhstan,False,False
-923172,Martina,Trevisan,Martina Trevisan,Italy,False,True
-1181148,Kaja,Juvan,Kaja Juvan,Slovenia,False,False
-138504,Arina,Rodionova,Arina Rodionova,Australia,False,False
-437220,Fangzhou,Liu,Fangzhou Liu,China,False,False
-495666,Valentini,Grammatikopoulou,Valentini Grammatikopoulou,Greece,False,False
-358224,Maia,Haddad,Maia Haddad,Brazil,False,
-441012,Jamie,Loeb,Jamie Loeb,USA,False,False
-935724,Katie,Swan,Katie Swan,United Kingdom,False,False
-484650,Zoe,Hives,Zoe Hives,Australia,False,False
-771516,Liudmila,Samsonova,Liudmila Samsonova,Russia,False,False
-119604,Asia,Muhammad,Asia Muhammad,USA,False,True
-289920,Tereza,Martincova,Tereza Martincova,Czech Republic,False,False
-1172016,Katarina,Zavatska,Katarina Zavatska,Ukraine,False,False
-827820,Catherine,Bellis,Catherine Bellis,USA,False,False
-578454,Gabriella,Taylor,Gabriella Taylor,United Kingdom,False,False
-325230,Barbara,Haas,Barbara Haas,Austria,False,False
-1338900,Xiyu,Wang,Xiyu Wang,China,False,False
-368460,Antonia,Lottner,Antonia Lottner,Germany,False,False
-289716,Carina,Witthoeft,Carina Witthoeft,Germany,False,False
-261762,Basak,Eraydin,Basak Eraydin,Turkey,False,False
-426216,Rebecca,Sramkova,Rebecca Sramkova,Slovakia,False,False
-111456,Elena,Vesnina,Elena Vesnina,Russia,False,False
-1135878,Destanee,Aiava,Destanee Aiava,Australia,False,False
-150438,Sílvia,Soler-Espinosa,Sílvia Soler-Espinosa,Spain,False,False
-427512,Magdalena,Frech,Magdalena Frech,Poland,False,False
-261024,Jia,Lu,Jia Lu,China,False,False
-233796,Jana,Cepelova,Jana Cepelova,Slovakia,True,False
-1338792,Whitney,Osuigwe,Whitney Osuigwe,USA,True,False
-398892,Giuseppe,Di,Giuseppe Di,Italy,False,
-115434,Sabine,Lisicki,Sabine Lisicki,Germany,False,False
-771840,Katherine,Sebov,Katherine Sebov,Canada,False,False
-299364,Ying,Duan,Ying Duan,China,False,
-248244,Lauren,Davis,Lauren Davis,USA,False,True
-311874,Varvara,Flink,Varvara Flink,Russia,False,False
-247734,Tereza,Mrdeza,Tereza Mrdeza,Croatia,False,False
-247698,Valentyna,Ivakhnenko,Valentyna Ivakhnenko,Russia,False,False
-112464,Kateryna,Volodko,Kateryna Volodko,Ukraine,False,False
-290268,Anna,Zaja,Anna Zaja,Germany,False,False
-415260,Jasmine,Paolini,Jasmine Paolini,Italy,False,False
-436428,Shilin,Xu,Shilin Xu,China,False,False
-988116,Karman,Thandi,Karman Thandi,India,False,False
-718032,Ellen,Perez,Ellen Perez,Australia,False,False
-349614,Dejana,Radanovic,Dejana Radanovic,Serbia,False,False
-362400,Barbora,Krejcikova,Barbora Krejcikova,Czech Republic,False,False
-1150626,Ayano,Shimizu,Ayano Shimizu,Japan,False,False
-581898,Fang,Xun,Fang Xun,China,False,
-265278,Monticone,Gatto,Monticone Gatto,Italy,False,
-247680,Maryna,Zanevska,Maryna Zanevska,Belgium,False,False
-156732,Rebecca,Marino,Rebecca Marino,Canada,False,False
-446682,Francoise,Abanda,Francoise Abanda,Canada,False,False
-150432,Kristie,Ahn,Kristie Ahn,USA,False,False
-279558,Chloe,Paquet,Chloe Paquet,France,False,False
-249564,Na,Han,Na Han,South Korea,False,
-476670,Lizette,Cabrera,Lizette Cabrera,Australia,False,False
-296160,Kerkhove,Pattinama,Kerkhove Pattinama,Netherlands,False,
-692874,Anastasia,Zarytska,Anastasia Zarytska,Czech Republic,False,False
-240864,Paula,Ormaechea,Paula Ormaechea,Argentina,False,False
-620262,Raluca,Serban,Raluca Serban,Cyprus,False,False
-313830,Quirine,Lemoine,Quirine Lemoine,Netherlands,False,False
-265272,Elitsa,Kostova,Elitsa Kostova,Bulgaria,False,False
-397992,Yuxuan,Zhang,Yuxuan Zhang,China,False,False
-292206,Anastasia,Grymalska,Anastasia Grymalska,Italy,False,False
-379332,Jessika,Ponchet,Jessika Ponchet,France,False,False
-885048,Jaimee,Fourlis,Jaimee Fourlis,Australia,False,False
-314340,Amandine,Hesse,Amandine Hesse,France,False,False
-329886,Myrtille,Georges,Myrtille Georges,France,False,False
-110904,Sesil,Karatantcheva,Sesil Karatantcheva,Bulgaria,False,False
-291516,Larra,Saez,Larra Saez,Spain,False,
-122094,Pemra,Ozgen,Pemra Ozgen,Turkey,False,False
-903456,Anna,Bondar,Anna Bondar,Hungary,False,False
-667146,Renata,Zarazua,Renata Zarazua,Mexico,False,False
-325062,Kimberley,Zimmermann,Kimberley Zimmermann,Belgium,False,False
-304638,Deniz,Khazaniuk,Deniz Khazaniuk,Israel,False,False
-1189266,En,Liang,En Liang,Chinese Taipei,False,
-827856,Ashley,Kratzer,Ashley Kratzer,USA,False,False
-372072,Olga,Doroshina,Olga Doroshina,Russia,False,False
-724008,Nina,Stojanovic,Nina Stojanovic,Serbia,False,False
-622182,Andreea,Rosca,Andreea Rosca,Romania,False,False
-643974,Albon,In,Albon In,Switzerland,False,
-286662,Grace,Min,Grace Min,USA,False,False
-287268,Isabella,Shinikova,Isabella Shinikova,Bulgaria,False,False
-1103754,Momoko,Kobori,Momoko Kobori,Japan,False,False
-286740,Kai,Zhang,Kai Zhang,China,False,
-433476,Katharina,Hobgarski,Katharina Hobgarski,Germany,False,False
-623418,Elena,Ruse,Elena Ruse,Romania,False,False
-664830,Greet,Minnen,Greet Minnen,Belgium,False,False
-678486,Julia,Grabher,Julia Grabher,Austria,False,False
-122136,Cagla,Buyukakcay,Cagla Buyukakcay,Turkey,False,False
-356772,Mayo,Hibi,Mayo Hibi,Japan,False,False
-300396,Katy,Dunne,Katy Dunne,United Kingdom,False,False
-554664,Jana,Fett,Jana Fett,Croatia,False,False
-198306,Olivia,Rogowska,Olivia Rogowska,Australia,False,False
-278802,Ignatik,Cadantu,Ignatik Cadantu,Romania,False,
-279918,Marina,Melnikova,Marina Melnikova,Russia,False,False
-142152,Naomi,Broady,Naomi Broady,United Kingdom,False,False
-385902,Hiroko,Kuwata,Hiroko Kuwata,Japan,False,False
-334770,Deborah,Chiesa,Deborah Chiesa,Italy,False,False
-874632,Sherazad,Reix,Sherazad Reix,France,False,False
-236562,Valeria,Savinykh,Valeria Savinykh,Russia,False,False
-299538,Mai,Minokoshi,Mai Minokoshi,Japan,False,False
-254964,Katarzyna,Kawa,Katarzyna Kawa,Poland,False,False
-303870,Tena,Lukas,Tena Lukas,Croatia,False,False
-434280,Barbora,Štefková,Barbora Štefková,Czech Republic,False,False
-123978,Kristina,Kucova,Kristina Kucova,Slovakia,False,False
-115986,Urszula,Radwanska,Urszula Radwanska,Poland,True,False
-295638,Jovana,Jovic,Jovana Jovic,Serbia,False,
-361668,Nadia,Podoroska,Nadia Podoroska,Argentina,False,False
-113880,Junri,Namigata,Junri Namigata,Japan,False,False
-287922,Diana,Marcinkevica,Diana Marcinkevica,Latvia,False,False
-357144,Ya,Lee,Ya Lee,Chinese Taipei,False,
-1092336,Miriam,Kolodziejova,Miriam Kolodziejova,Czech Republic,False,False
-325038,Marie,Benoit,Marie Benoit,Belgium,False,False
-498786,Katerina,Stewart,Katerina Stewart,USA,False,False
-307902,Robin,Anderson,Robin Anderson,USA,False,False
-274842,Abbie,Myers,Abbie Myers,Australia,False,False
-250434,Su,Jang,Su Jang,South Korea,False,
-305502,Peangtarn,Plipuech,Peangtarn Plipuech,Thailand,False,False
-412260,Risa,Ozaki,Risa Ozaki,Japan,False,False
-311670,Valeriya,Strakhova,Valeriya Strakhova,Ukraine,False,False
-427716,Naiktha,Bains,Naiktha Bains,United Kingdom,False,False
-801516,Pranjala,Yadlapalli,Pranjala Yadlapalli,India,False,False
-118398,Katarzyna,Piter,Katarzyna Piter,Poland,False,False
-275220,Olga,Ianchuk,Olga Ianchuk,Ukraine,False,False
-139542,Gail,Brodsky,Gail Brodsky,USA,False,False
-350550,Natalija,Stevanovic,Natalija Stevanovic,Serbia,False,False
-1336968,Ann,Li,Ann Li,USA,False,False
-278580,Jesika,Maleckova,Jesika Maleckova,Czech Republic,False,False
-286818,Ulrikke,Eikeri,Ulrikke Eikeri,Norway,False,False
-1148754,Maria,Mateas,Maria Mateas,USA,False,False
-403944,Harmony,Tan,Harmony Tan,France,False,False
-1364598,Xinyu,Wang,Xinyu Wang,China,False,False
-472722,Victoria,Rodriguez,Victoria Rodriguez,Mexico,False,False
-577434,Jessica,Pieri,Jessica Pieri,Italy,False,False
-150444,Jing-Jing,Lu,Jing-Jing Lu,China,False,False
-273618,Daniela,Seguel,Daniela Seguel,Chile,False,False
-1660290,Daria,Lopatetska,Daria Lopatetska,Ukraine,False,
-529920,Audrey,Albie,Audrey Albie,France,False,False
-245934,Reka,Jani,Reka Jani,Hungary,False,
-417624,Maia,Lumsden,Maia Lumsden,United Kingdom,False,False
-716988,Kaylah,Mcphee,Kaylah Mcphee,Australia,True,False
-602058,Mariam,Bolkvadze,Mariam Bolkvadze,Georgia,False,False
-794496,Alvarez,Guerrero,Alvarez Guerrero,Spain,False,
-436560,Jaqueline,Cristian,Jaqueline Cristian,Romania,False,False
-594798,Cristina,Bucsa,Cristina Bucsa,Spain,False,False
-316158,Carol,Zhao,Carol Zhao,Canada,False,False
-783756,Anastasia,Gasanova,Anastasia Gasanova,Russia,False,False
-266514,Victoria,Bosio,Victoria Bosio,Argentina,False,False
-389820,Oceane,Dodin,Oceane Dodin,France,False,False
-225054,Irina,Falconi,Irina Falconi,USA,False,False
-306006,Cindy,Burger,Cindy Burger,Netherlands,False,False
-1147974,Shuyue,Ma,Shuyue Ma,China,False,False
-349446,Stefania,Rubini,Stefania Rubini,Italy,False,False
-483222,Haruka,Kaji,Haruka Kaji,Japan,False,False
-1142610,Monika,Kilnarova,Monika Kilnarova,Czech Republic,False,
-735792,Tessah,Andrianjafitrimo,Tessah Andrianjafitrimo,France,False,False
-424716,Eri,Hozumi,Eri Hozumi,Japan,False,False
-1189368,Yuliya,Hatouka,Yuliya Hatouka,Belarus,False,False
-708588,Lena,Papadakis,Lena Papadakis,Germany,False,False
-587982,Dalma,Galfi,Dalma Galfi,Hungary,False,False
-806064,Berfu,Cengiz,Berfu Cengiz,Turkey,False,False
-233820,Michaela,Honcová,Michaela Honcová,Slovakia,False,False
-357984,Ana,Sanchez,Ana Sanchez,Mexico,False,False
-398844,Mari,Osaka,Mari Osaka,Japan,True,False
-110136,Sands,Mattek,Sands Mattek,USA,False,
-383982,Polina,Leykina,Polina Leykina,Russia,False,False
-316422,Manon,Arcangioli,Manon Arcangioli,France,False,False
-279978,Andrea,Gamiz,Andrea Gamiz,Venezuela,False,False
-1078860,Apisah,Tere,Apisah Tere,Papua New Guinea,False,
-248166,Ekaterina,Yashina,Ekaterina Yashina,Russia,False,False
-596322,Usue,Arconada,Usue Arconada,USA,False,False
-1266096,Maja,Chwalinska,Maja Chwalinska,Poland,False,False
-117180,Olga,Govortsova,Olga Govortsova,Belarus,False,False
-534012,Katharina,Gerlach,Katharina Gerlach,Germany,False,False
-807204,Xiaodi,You,Xiaodi You,China,False,False
-424380,Rutuja,Bhosale,Rutuja Bhosale,India,False,False
-255942,Zuzana,Zlochova,Zuzana Zlochova,Slovakia,False,
-477378,Isabelle,Wallace,Isabelle Wallace,Australia,False,False
-118020,Estrella,Cabeza-Candela,Estrella Cabeza-Candela,Spain,False,False
-591654,Sophie,Chang,Sophie Chang,USA,False,False
-124074,Alison,Bai,Alison Bai,Australia,False,False
-297996,Maria,Sanchez,Maria Sanchez,USA,False,False
-1145988,Yue,Yuan,Yue Yuan,China,False,False
-119100,Ksenia,Lykina,Ksenia Lykina,Russia,False,False
-311046,Carolina,Alves,Carolina Alves,Brazil,False,False
-255948,Denisa,Satralova,Denisa Satralova,Czech Republic,False,
-295038,Diaz,Parrizas,Diaz Parrizas,Spain,False,
-857988,Tereza,Mihalikova,Tereza Mihalikova,Slovakia,False,False
-113622,Vania,King,Vania King,USA,False,False
-596442,Maddison,Inglis,Maddison Inglis,Australia,False,False
-1188738,Zuleta,Maristany,Zuleta Maristany,Spain,False,
-247152,Polina,Monova,Polina Monova,Russia,False,False
-369648,Yana,Sizikova,Yana Sizikova,Russia,False,False
-922908,Chihiro,Muramatsu,Chihiro Muramatsu,Japan,False,False
-1520148,Moyuka,Uchijima,Moyuka Uchijima,Japan,False,False
-827784,Kayla,Day,Kayla Day,USA,False,False
-996756,Giuliana,Olmos,Giuliana Olmos,Mexico,False,False
-299418,Miyabi,Inoue,Miyabi Inoue,Japan,False,False
-418320,Anna,Danilina,Anna Danilina,Kazakhstan,False,False
-477390,Olivia,Tjandramulia,Olivia Tjandramulia,Australia,False,False
-350886,Victoria,Duval,Victoria Duval,USA,True,False
-1185222,Mai,Hontama,Mai Hontama,Japan,False,False
-601062,Elizabeth,Halbauer,Elizabeth Halbauer,USA,False,False
-154998,Nigina,Abduraimova,Nigina Abduraimova,Uzbekistan,False,False
-354018,Irina,Ramialison,Irina Ramialison,France,False,False
-428916,Louisa,Chirico,Louisa Chirico,USA,False,False
-1336500,Quinn,Gleason,Quinn Gleason,USA,False,False
-225840,Erika,Sema,Erika Sema,Japan,False,False
-265428,Sarra,Di,Sarra Di,Italy,False,
-1185354,Belinda,Woolcock,Belinda Woolcock,Australia,False,False
-414024,Georgia,Brescia,Georgia Brescia,Italy,False,
-771540,Nina,Potocnik,Nina Potocnik,Slovenia,False,False
-406470,Lina,Gjorcheska,Lina Gjorcheska,North Macedonia,False,False
-300252,Catalina,Pella,Catalina Pella,Argentina,False,False
-730572,Amina,Anshba,Amina Anshba,Russia,False,False
-309918,Camilla,Rosatello,Camilla Rosatello,Italy,False,False
-554616,Ao,Gai,Ao Gai,China,False,
-300690,Gaia,Sanesi,Gaia Sanesi,Italy,False,False
-219600,Nastja,Kolar,Nastja Kolar,Slovenia,False,False
-454962,Emina,Bektas,Emina Bektas,USA,False,False
-541656,Maegan,Manasse,Maegan Manasse,USA,False,False
-310428,Sarah,Sekulic,Sarah Sekulic,Germany,False,
-225030,Kai-Chen,Chang,Kai-Chen Chang,Chinese Taipei,False,False
-311826,Alexa,Guarachi,Alexa Guarachi,Chile,False,False
-561978,Irina,Fetecau,Irina Fetecau,Romania,False,False
-304422,Lisa,Sabino,Lisa Sabino,Switzerland,False,False
-398604,Miyu,Kato,Miyu Kato,Japan,False,False
-259938,Martina,Caregaro,Martina Caregaro,Italy,False,False
-227508,Amra,Sadikovic,Amra Sadikovic,Switzerland,False,False
-864516,Sara,Cakarevic,Sara Cakarevic,France,False,False
-358080,Ganna,Poznikhirenko,Ganna Poznikhirenko,Ukraine,False,False
-274398,Alizé,Lim,Alizé Lim,France,False,False
-404340,Helene,Scholsen,Helene Scholsen,Belgium,False,
-1310094,Panna,Udvardy,Panna Udvardy,Hungary,False,False
-331866,Gabriela,Lee,Gabriela Lee,Romania,False,False
-322050,Miharu,Imanishi,Miharu Imanishi,Japan,False,False
-1189194,Emiliana,Arango,Emiliana Arango,Colombia,False,False
-1373364,Romy,Koelzer,Romy Koelzer,Germany,False,
-295098,Aleksandrina,Naydenova,Aleksandrina Naydenova,,False,False
-798576,Margot,Yerolymos,Margot Yerolymos,France,False,False
-707700,Nagi,Hanatani,Nagi Hanatani,Japan,False,False
-1142904,Julie,Gervais,Julie Gervais,France,False,False
-1323564,Catherine,Mcnally,Catherine Mcnally,USA,False,
-287826,Caroline,Werner,Caroline Werner,,False,
-1103178,Ribera,Bassols,Ribera Bassols,Spain,False,
-857664,Alexandra,Bozovic,Alexandra Bozovic,Australia,False,False
-1035552,Jodie,Burrage,Jodie Burrage,United Kingdom,False,False
-1489968,Hailey,Baptiste,Hailey Baptiste,USA,False,False
-784152,Kyoka,Okamura,Kyoka Okamura,Japan,False,False
-484350,Gonzalez,Herazo,Gonzalez Herazo,Colombia,False,
-197700,Ling,Zhang,Ling Zhang,Hong Kong,False,False
-392724,Marine,Partaud,Marine Partaud,France,False,False
-308850,Laura,Paar,Laura Paar,Romania,False,
-146598,Alexandra,Panova,Alexandra Panova,Russia,False,False
-289482,Nika,Kukharchuk,Nika Kukharchuk,Russia,False,
-1324818,Jule,Niemeier,Jule Niemeier,Germany,True,False
-921924,Hanyu,Guo,Hanyu Guo,China,False,False
-935352,Lucrezia,Stefanini,Lucrezia Stefanini,Italy,False,False
-261060,Sanaz,Marand,Sanaz Marand,USA,False,False
-1337712,Meiling,Wang,Meiling Wang,China,False,
-324978,Anastasia,Frolova,Anastasia Frolova,Russia,False,False
-290718,Reimers,Cavalle,Reimers Cavalle,Spain,False,
-592410,Escorihuela,Burillo,Escorihuela Burillo,Spain,False,
-708276,Anastasia,Nefedova,Anastasia Nefedova,USA,False,
-276636,Jacqueline,Cako,Jacqueline Cako,USA,False,False
-276804,Montserrat,Gonzalez,Montserrat Gonzalez,Paraguay,False,False
-1159518,Eleonora,Molinaro,Eleonora Molinaro,Luxembourg,False,False
-399108,Mana,Ayukawa,Mana Ayukawa,Japan,False,
-1501686,Leylah,Fernandez,Leylah Fernandez,Canada,False,False
-275016,Chiara,Scholl,Chiara Scholl,USA,False,False
-246534,Fatma,Al Nabhani,Fatma Al Nabhani,Oman,False,
-1536636,Katie,Volynets,Katie Volynets,USA,False,False
-117648,Greta,Arn,Greta Arn,Hungary,False,False
-827700,Hanna,Chang,Hanna Chang,USA,False,False
-551508,Sarah,Grey,Sarah Grey,United Kingdom,False,False
-261432,Jennifer,Elie,Jennifer Elie,USA,False,False
-449862,Cristiana,Ferrando,Cristiana Ferrando,Italy,False,False
-251670,Chieh,Hsu,Chieh Hsu,Chinese Taipei,False,
-154944,Sofia,Shapatava,Sofia Shapatava,Georgia,False,False
-263172,Gabriela,Dabrowski,Gabriela Dabrowski,Canada,False,False
-1380360,Sofya,Lansere,Sofya Lansere,Russia,False,False
-277854,Paula,Goncalves,Paula Goncalves,Brazil,False,
-475902,Martina,Colmegna,Martina Colmegna,Italy,False,False
-277908,Chantal,Škamlová,Chantal Škamlová,Slovakia,False,False
-259410,Shiho,Akita,Shiho Akita,Japan,False,False
-115998,Lucie,Hradecka,Lucie Hradecka,Czech Republic,False,False
-277650,Cristina,Dinu,Cristina Dinu,Romania,False,False
-576462,Luisa,Stefani,Luisa Stefani,Brazil,False,False
-299790,Akiko,Omae,Akiko Omae,Japan,False,False
-347850,Julia,Terziyska,Julia Terziyska,Bulgaria,False,False
-113892,Ana,Vrljic,Ana Vrljic,Croatia,False,False
-270846,Despina,Papamichail,Despina Papamichail,Greece,False,False
-319740,Eden,Silva,Eden Silva,United Kingdom,False,False
-613158,Ayla,Aksu,Ayla Aksu,Turkey,False,False
-273582,Ji-Hee,Choi,Ji-Hee Choi,South Korea,False,False
-969228,Priscilla,Heise,Priscilla Heise,France,False,
-333258,Vivian,Heisen,Vivian Heisen,Germany,False,False
-557286,Iryna,Shymanovich,Iryna Shymanovich,Belarus,False,False
-382104,Garcia,Lazaro,Garcia Lazaro,Spain,False,
-817824,Dalila,Spiteri,Dalila Spiteri,Italy,False,False
-273642,Gabriela,Ce,Gabriela Ce,Brazil,False,False
-449886,Jade,Suvrijn,Jade Suvrijn,France,False,False
-912324,Mirjam,Bjorklund,Mirjam Bjorklund,Sweden,False,False
-358584,Alicia,Barnett,Alicia Barnett,United Kingdom,False,False
-936600,Haruna,Arakawa,Haruna Arakawa,Japan,False,
-1159752,Francesca,Jones,Francesca Jones,United Kingdom,False,False
-1283670,Serrano,Osorio,Serrano Osorio,Colombia,False,
-475506,Dabin,Kim,Dabin Kim,South Korea,False,False
-294720,Catherine,Harrison,Catherine Harrison,USA,False,False
-308316,Hayley,Carter,Hayley Carter,USA,False,False
-1294542,Varvara,Gracheva,Varvara Gracheva,Russia,False,False
-1239420,Clara,Burel,Clara Burel,France,False,False
-110112,Renata,Vorácová,Renata Vorácová,Czech Republic,False,
-269328,Tammi,Patterson,Tammi Patterson,Australia,False,False
-335322,Dea,Herdzelas,Dea Herdzelas,Bosnia & Herzegovina,False,False
-245922,Anastasiya,Vasylyeva,Anastasiya Vasylyeva,Ukraine,False,False
-396372,Marcela,Zacarias,Marcela Zacarias,Mexico,False,False
-933348,Miriam,Bulgaru,Miriam Bulgaru,Romania,False,False
-435816,Michika,Ozeki,Michika Ozeki,Japan,False,
-249948,Chanel,Simmonds,Chanel Simmonds,South Africa,False,False
-1042500,Anastasia,Detiuc,Anastasia Detiuc,Czech Republic,False,False
-530976,Freya,Christie,Freya Christie,United Kingdom,False,False
-889668,Wushuang,Zheng,Wushuang Zheng,China,False,False
-449262,Stephanie,Wagner,Stephanie Wagner,Germany,False,False
-576378,Susan,Bandecchi,Susan Bandecchi,Switzerland,False,False
-142140,Tara,Moore,Tara Moore,United Kingdom,True,False
-111918,Akgul,Amanmuradova,Akgul Amanmuradova,Uzbekistan,False,False
-482802,Cornelia,Lister,Cornelia Lister,Sweden,False,False
-249606,So-Ra,Lee,So-Ra Lee,South Korea,False,False
-922608,Nadja,Gilchrist,Nadja Gilchrist,USA,False,
-554208,Carrasco,Gutierrez,Carrasco Gutierrez,Spain,False,
-465090,Eleni,Kordolaimi,Eleni Kordolaimi,Greece,False,False
-660342,Lucia,Bronzetti,Lucia Bronzetti,Italy,False,False
-120960,Smith,Webley,Smith Webley,United Kingdom,False,
-557838,Risa,Ushijima,Risa Ushijima,Japan,False,
-1589910,Cori,Gauff,Cori Gauff,USA,True,False
-1513020,Clara,Tauson,Clara Tauson,Denmark,False,True
-490602,Anastasiya,Komardina,Anastasiya Komardina,Russia,False,False
-1171104,Lulu,Sun,Lulu Sun,Switzerland,False,False
-522552,Eudice,Chong,Eudice Chong,Hong Kong,False,False
-312216,Hua,Lee,Hua Lee,Chinese Taipei,False,
-666906,Sandra,Samir,Sandra Samir,Egypt,False,False
-942912,Lea,Boskovic,Lea Boskovic,Croatia,False,False
-967632,Lara,Salden,Lara Salden,Belgium,False,False
-309504,Nicoleta,Dascalu,Nicoleta Dascalu,Romania,False,False
-584538,Lisa,Matviyenko,Lisa Matviyenko,Germany,False,False
-1602900,Daria,Snigur,Daria Snigur,Ukraine,False,False
-928848,Ksenia,Laskutova,Ksenia Laskutova,Russia,False,
-372012,Victoria,Kan,Victoria Kan,Russia,False,False
-652218,Mallaurie,Noel,Mallaurie Noel,France,False,
-1486758,Diane,Parry,Diane Parry,France,False,False
-425316,Pia,Cuk,Pia Cuk,Slovenia,False,
-275502,Zhaoxuan,Yang,Zhaoxuan Yang,China,False,False
-1247886,Emma,Navarro,Emma Navarro,USA,False,False
-1306980,Kamilla,Rakhimova,Kamilla Rakhimova,Russia,False,False
-624030,Gozal,Ainitdinova,Gozal Ainitdinova,Kazakhstan,True,False
-1240758,Maryna,Chernyshova,Maryna Chernyshova,Ukraine,False,False
-522480,Paige,Hourigan,Paige Hourigan,New Zealand,False,False
-1086384,Leonie,Kung,Leonie Kung,Switzerland,False,False
-316164,Lou,Brouleau,Lou Brouleau,France,False,
-1344210,Yuki,Naito,Yuki Naito,Japan,False,False
-299484,Yuuki,Tanaka,Yuuki Tanaka,Japan,False,False
-830724,Ena,Shibahara,Ena Shibahara,Japan,False,False
-599994,Ioana,Rosca,Ioana Rosca,Romania,False,False
-303942,Anna,Friedsam,Anna Friedsam,Germany,False,
-425832,Riya,Bhatia,Riya Bhatia,India,False,False
-1797726,Selena,Janicijevic,Selena Janicijevic,France,False,False
-115344,Anna,Tatishvili,Anna Tatishvili,USA,False,False
-254766,Shelby,Rogers,Shelby Rogers,USA,False,False
-371616,Ipek,Soylu,Ipek Soylu,Turkey,False,False
-875592,Erina,Hayashi,Erina Hayashi,Japan,False,False
-123942,Nudnida,Luangnam,Nudnida Luangnam,Thailand,False,False
-1552692,Aldila,Sutjiadi,Aldila Sutjiadi,Indonesia,False,False
-299454,Sharan,Murray,Sharan Murray,United Kingdom,False,
-1172634,Daniela,Vismane,Daniela Vismane,Latvia,False,False
-1055112,Valeriya,Yushchenko,Valeriya Yushchenko,Russia,False,
-388320,Tess,Sugnaux,Tess Sugnaux,Switzerland,False,False
-404592,Estelle,Cascino,Estelle Cascino,France,False,False
-323814,Ziyue,Sun,Ziyue Sun,China,False,False
-1344978,Natasha,Subhash,Natasha Subhash,USA,False,False
-1664508,Pamela,Montez,Pamela Montez,USA,False,
-1244202,Gergana,Topalova,Gergana Topalova,Bulgaria,False,False
-575130,Tatiana,Pieri,Tatiana Pieri,Italy,False,
-717408,Petia,Arshinkova,Petia Arshinkova,Bulgaria,False,False
-474150,Bianca,Turati,Bianca Turati,Italy,False,False
-529872,Mayar,Sherif,Mayar Sherif,Egypt,False,False
-958404,Georgia,Craciun,Georgia Craciun,Romania,False,False
-142146,Teliana,Pereira,Teliana Pereira,Brazil,False,False
-900792,Xinyu,Gao,Xinyu Gao,China,False,False
-670002,Yuriko,Miyazaki,Yuriko Miyazaki,United Kingdom,False,False
-1701942,Ekaterina,Makarova,Ekaterina Makarova,Russia,False,False
-247704,Amanda,Carreras,Amanda Carreras,United Kingdom,False,False
-326394,Patricia,Tig,Patricia Tig,Romania,False,False
-1291008,Simona,Waltert,Simona Waltert,Switzerland,False,False
-1532358,Anastasia,Zakharova,Anastasia Zakharova,Russia,False,False
-1328472,Alycia,Parks,Alycia Parks,USA,False,False
-1589892,Elisabetta,Cocciaretto,Elisabetta Cocciaretto,Italy,False,False
-1149834,Carson,Branstine,Carson Branstine,Canada,False,False
-274980,Claudia,Giovine,Claudia Giovine,Italy,False,False
-113610,A,Glatch,A Glatch,USA,False,
-1148760,Johana,Markova,Johana Markova,Czech Republic,False,
-1145712,Yexin,Ma,Yexin Ma,China,False,
-273816,Fernanda,Brito,Fernanda Brito,Chile,False,False
-287712,Daria,Mishina,Daria Mishina,Russia,False,False
-709440,Anastasiya,Shoshyna,Anastasiya Shoshyna,Poland,False,False
-1337382,Vladas,Koval,Vladas Koval,Russia,False,
-470598,Daria,Lodikova,Daria Lodikova,Russia,False,
-1189374,Shalimar,Talbi,Shalimar Talbi,Belarus,False,
-776640,Julia,Payola,Julia Payola,Spain,False,
-504090,Barbara,Gatica,Barbara Gatica,Chile,False,False
-369996,Anna,Morgina,Anna Morgina,Russia,False,False
-387648,Awad,Cabaj,Awad Cabaj,Sweden,False,
-961152,Arianne,Hartono,Arianne Hartono,Netherlands,False,False
-793128,Seone,Mendez,Seone Mendez,Australia,False,True
-651738,Magali,Kempen,Magali Kempen,Belgium,False,False
-331890,Oana,Simion,Oana Simion,Romania,False,
-587010,Camilla,Scala,Camilla Scala,Italy,False,
-811164,Alice,Rame,Alice Rame,France,False,
-1137432,Mas,Vicens,Mas Vicens,Spain,False,
-567342,Anastasia,Pribylova,Anastasia Pribylova,Russia,False,
-598134,Melanie,Stokke,Melanie Stokke,Norway,False,False
-962196,Ylona,Ghioroaie,Ylona Ghioroaie,Romania,False,
-1612860,Nika,Radisic,Nika Radisic,Slovenia,False,False
-119016,Dia,Evtimova,Dia Evtimova,Bulgaria,False,False
-388344,Vroome,De,Vroome De,Netherlands,False,
-614706,Julyette,Steur,Julyette Steur,Germany,False,
-397980,Xuliu,Sun,Xuliu Sun,China,False,False
-300072,Angelina,Gabueva,Angelina Gabueva,Russia,False,False
-1385862,Meiqi,Guo,Meiqi Guo,China,False,
-1147932,Yidi,Yang,Yidi Yang,China,False,
-1216926,Oona,Orpana,Oona Orpana,Finland,False,False
-644754,Alba,Carrillo Marín,Alba Carrillo Marín,Spain,False,
-1604088,Sophia,Whittle,Sophia Whittle,USA,False,
-1296060,Ivana,Popovic,Ivana Popovic,Australia,False,False
-1552548,Emma,Raducanu,Emma Raducanu,United Kingdom,False,False
-723996,Thaisa,Pedretti,Thaisa Pedretti,Brazil,True,
-384522,Laura,Pigossi,Laura Pigossi,Brazil,False,False
-316182,Angelica,Moratelli,Angelica Moratelli,Italy,True,False
-275022,Storm,Hunter,Storm Hunter,Australia,False,False
-661698,Fernanda,Contreras,Fernanda Contreras,Mexico,False,False
-1263444,Anna,Kubareva,Anna Kubareva,Belarus,False,
-1264314,Sada,Nahimana,Sada Nahimana,Burundi,False,False
-414312,Paula,Badosa,Paula Badosa,Spain,False,False
-2029176,Jovana,Jovic,Jovana Jovic,Serbia,False,
-601650,Dasha,Ivanova,Dasha Ivanova,USA,False,
-406662,Vladica,Babic,Vladica Babic,Montenegro,False,False
-584490,Fanny,Ostlund,Fanny Ostlund,Sweden,False,False
-288012,Laura,Schaeder,Laura Schaeder,Germany,False,
-269880,Tori,Kinard,Tori Kinard,USA,False,
-636558,Verena,Meliss,Verena Meliss,Italy,False,
-1245936,Alice,Tubello,Alice Tubello,France,False,False
-307350,Victoria,Muntean,Victoria Muntean,France,False,False
-1566582,Peyton,Stearns,Peyton Stearns,USA,False,False
-311040,Nathaly,Kurata,Nathaly Kurata,Brazil,False,False
-119274,Melanie,Klaffner,Melanie Klaffner,Austria,False,False
-944220,Ekaterina,Kazionova,Ekaterina Kazionova,Russia,False,False
-1387260,Sohyun,Park,Sohyun Park,South Korea,False,
-318144,Marianna,Zakarlyuk,Marianna Zakarlyuk,Ukraine,False,
-113298,Tsvetana,Pironkova,Tsvetana Pironkova,Bulgaria,False,False
-1546716,Qinwen,Zheng,Qinwen Zheng,China,False,False
-1784226,Katrina,Scott,Katrina Scott,USA,False,False
-1328184,Carole,Monnet,Carole Monnet,France,False,False
-1196460,Francisca,Jorge,Francisca Jorge,Portugal,False,False
-1197066,Suzan,Lamens,Suzan Lamens,Netherlands,False,False
-851364,Maria,Carle,Maria Carle,Argentina,False,False
-430536,Martins,Gamarra,Martins Gamarra,Brazil,False,
-1784220,Robin,Montgomery,Robin Montgomery,USA,False,False
-1505394,Sina,Herrmann,Sina Herrmann,Germany,False,False
-446670,Ana,Konjuh,Ana Konjuh,Croatia,False,False
-708324,Ipek,Oz,Ipek Oz,Turkey,,False
-1294662,Silva,Da,Silva Da,Australia,False,
-1532682,Alina,Charaeva,Alina Charaeva,Russia,False,False
-990048,Anastasia,Kulikova,Anastasia Kulikova,Finland,False,False
-1838538,Linda,Fruhvirtova,Linda Fruhvirtova,Czech Republic,False,False
-1362096,Anna,Siskova,Anna Siskova,Czech Republic,False,False
-1440612,Anastasia,Tikhonova,Anastasia Tikhonova,Russia,False,False
-1158510,Viktoria,Morvayova,Viktoria Morvayova,Slovakia,False,
-1653192,Elsa,Jacquemot,Elsa Jacquemot,France,False,False
-1726548,Darya,Astakhova,Darya Astakhova,Russia,False,False
-114468,Yaroslava,Shvedova,Yaroslava Shvedova,Kazakhstan,False,False
-1154460,Joanne,Zuger,Joanne Zuger,Switzerland,False,False
-1763214,Maria,Timofeeva,Maria Timofeeva,Russia,False,False
-748836,Rebeka,Masarova,Rebeka Masarova,Spain,False,False
-951828,Andreea,Prisacariu,Andreea Prisacariu,Romania,False,False
-916608,Malene,Helgo,Malene Helgo,Norway,False,False
-1245570,Nuria,Brancaccio,Nuria Brancaccio,Italy,False,True
-405966,Iva,Primorac,Iva Primorac,Croatia,False,
-1395918,Olivia,Gadecki,Olivia Gadecki,Australia,False,False
-1644306,Linda,Noskova,Linda Noskova,Czech Republic,False,False
-1650642,Maneiro,Bouzas,Maneiro Bouzas,Spain,False,
-1286904,Hurricane,Black,Hurricane Black,USA,False,
-379440,Yana,Morderger,Yana Morderger,Germany,False,False
-1425420,Kamilla,Bartone,Kamilla Bartone,Latvia,False,False
-1726836,Oksana,Selekhmeteva,Oksana Selekhmeteva,Russia,False,False
-1302972,Weronika,Falkowska,Weronika Falkowska,Poland,False,False
-677754,Leolia,Jeanjean,Leolia Jeanjean,France,False,False
-1660614,Lisa,Pigato,Lisa Pigato,Italy,False,False
-1382316,Joanna,Garland,Joanna Garland,Chinese Taipei,False,
-827604,Justina,Mikulskyte,Justina Mikulskyte,Lithuania,False,False
-1747224,Del,Mintegi,Del Mintegi,Spain,False,
-2161116,Sara,Bejlek,Sara Bejlek,Czech Republic,False,False
-1367262,Elizabeth,Mandlik,Elizabeth Mandlik,USA,False,False
-1575576,Elina,Avanesyan,Elina Avanesyan,Russia,,False
-2036748,Kasintseva,Jimenez,Kasintseva Jimenez,Andorra,False,
-1850436,Nastasja,Schunk,Nastasja Schunk,Germany,False,False
-644586,Anna,Turati,Anna Turati,Italy,False,
-1166148,Nefisa,Berberovic,Nefisa Berberovic,Bosnia & Herzegovina,False,False
-1473522,Salma,Djoubri,Salma Djoubri,France,False,False
-2038614,Tara,Wurth,Tara Wurth,Croatia,False,False
-2017344,Erika,Andreeva,Erika Andreeva,Russia,False,True
-1476966,Sinja,Kraus,Sinja Kraus,Austria,False,False
-794484,Boluda,Fita,Boluda Fita,Spain,False,
-1154448,Ekaterina,Shalimova,Ekaterina Shalimova,Russia,False,False
-1294650,Eva,Lys,Eva Lys,Germany,False,False
-1171998,Olga,Helmi,Olga Helmi,Denmark,False,
-1602282,Elvina,Kalieva,Elvina Kalieva,USA,False,False
-1417608,Zoe,Kruger,Zoe Kruger,South Africa,False,
-1148406,Emeline,Dartron,Emeline Dartron,France,False,
-1330770,Caijsa,Hennemann,Caijsa Hennemann,Sweden,False,False
-1425480,Cirez,Martinez,Cirez Martinez,Spain,False,
-1898820,Antonia,Ruzic,Antonia Ruzic,Croatia,False,False
-1733058,Ziva,Falkner,Ziva Falkner,Slovenia,False,False
-1930770,Matilda,Mutavdzic,Matilda Mutavdzic,United Kingdom,False,
-1092348,Alice,Robbe,Alice Robbe,France,False,False
-1421010,Gormaz,Romero,Gormaz Romero,Spain,False,
-1214784,Elena,Malygina,Elena Malygina,Estonia,False,False
-1171902,Lina,Glushko,Lina Glushko,Israel,True,False
-1767576,Gonzalez,Reasco,Gonzalez Reasco,Ecuador,False,
-1432560,Shavit,Kimchi,Shavit Kimchi,Israel,False,False
-827952,Jessica,Failla,Jessica Failla,USA,False,
-1768902,Martyna,Kubka,Martyna Kubka,Poland,False,False
-1413654,Ellie,Douglas,Ellie Douglas,USA,,
-2036736,Maria,Bondarenko,Maria Bondarenko,Russia,False,False
-1489650,Margaux,Rouvroy,Margaux Rouvroy,France,False,False
-312588,Nguyen,Van,Nguyen Van,USA,False,
-1707330,Anastasia,Zolotareva,Anastasia Zolotareva,Russia,False,False
-1410324,Misaki,Matsuda,Misaki Matsuda,Japan,False,
-1667088,Ekaterina,Reyngold,Ekaterina Reyngold,Russia,False,False
-1131342,Zhibek,Kulambayeva,Zhibek Kulambayeva,Kazakhstan,False,False
-1210386,Eva,Vedder,Eva Vedder,Netherlands,False,False
-2093934,Nikola,Bartunkova,Nikola Bartunkova,Czech Republic,False,False
-1141260,Ramirez,Portillo,Ramirez Portillo,Mexico,False,
-1763220,Polina,Kudermetova,Polina Kudermetova,Russia,False,True
-1525698,Jazmin,Ortenzi,Jazmin Ortenzi,Argentina,False,False
-1887126,Darja,Semenistaja,Darja Semenistaja,Latvia,False,False
-2024460,Brenda,Fruhvirtova,Brenda Fruhvirtova,Czech Republic,False,False
-952140,Arlinda,Rushiti,Arlinda Rushiti,Kosovo,False,False
-1113840,Anhzelika,Isaeva,Anhzelika Isaeva,Russia,False,
-1746924,Sonay,Kartal,Sonay Kartal,United Kingdom,False,False
-1277424,Alexandra,Vecic,Alexandra Vecic,Germany,False,
-1866084,Ashlyn,Krueger,Ashlyn Krueger,USA,False,False
-1211232,Dalayna,Hewitt,Dalayna Hewitt,USA,False,False
-2127816,Barbora,Palicova,Barbora Palicova,Czech Republic,False,False
-2286324,Petra,Marcinko,Petra Marcinko,Croatia,False,False
-1417758,Sofia,Samavati,Sofia Samavati,Denmark,False,False
-1709244,Mariia,Tkacheva,Mariia Tkacheva,Russia,False,False
-1505616,Sapfo,Sakellaridi,Sapfo Sakellaridi,Greece,False,
-1525704,Julia,Riera,Julia Riera,Argentina,False,False
-257196,Yuliana,Lizarazo,Yuliana Lizarazo,Colombia,False,False
-1536498,Sakura,Hosogi,Sakura Hosogi,Japan,False,False
-1967556,Alexandra,Eala,Alexandra Eala,Philippines,False,True
-1911462,Diana,Shnaider,Diana Shnaider,Russia,True,False
-1731678,Adriana,Reami,Adriana Reami,USA,False,False
-591582,Alexa,Graham,Alexa Graham,USA,False,
-1520130,Yeon,Ku,Yeon Ku,South Korea,False,
-1898796,Reese,Brantmeier,Reese Brantmeier,USA,False,False
-1536600,Adithya,Karunaratne,Adithya Karunaratne,Hong Kong,False,
-1886370,Isabella,Kruger,Isabella Kruger,South Africa,False,
-858852,Jessie,Aney,Jessie Aney,USA,False,False
-2017860,Dominika,Salkova,Dominika Salkova,Czech Republic,False,False
-501654,Taborda,Capurro,Taborda Capurro,Argentina,False,
-387552,Elena,Cadar,Elena Cadar,Romania,False,
-1251510,Nicole,Khirin,Nicole Khirin,Israel,False,False
-1685034,Hina,Inoue,Hina Inoue,USA,False,
-1261362,Michaela,Bayerlova,Michaela Bayerlova,Czech Republic,False,False
-1797720,Tan,Nguyen,Tan Nguyen,France,False,
-1193040,Merel,Hoedt,Merel Hoedt,Netherlands,False,
-1632012,Kristina,Dmitruk,Kristina Dmitruk,Belarus,True,False
-1337874,Mina,Hodzic,Mina Hodzic,Germany,False,False
-1727664,Jana,Kolodynska,Jana Kolodynska,Belarus,False,
-416964,Anna,Brogan,Anna Brogan,United Kingdom,False,
-1385916,Himeno,Sakatsume,Himeno Sakatsume,Japan,False,False
-1924350,Natalia,Szabanin,Natalia Szabanin,Hungary,False,False
-1175994,Aneta,Kucmova,Aneta Kucmova,Czech Republic,False,False
-1684620,Oceane,Babel,Oceane Babel,France,False,
-513942,Akvile,Parazinskaite,Akvile Parazinskaite,Lithuania,False,False
-1290234,Ashley,Lahey,Ashley Lahey,USA,False,False
-1405866,Hong,Wong,Hong Wong,Hong Kong,False,
-985704,Taylor,Ng,Taylor Ng,USA,False,
-1658682,Diletta,Cherubini,Diletta Cherubini,Italy,False,False
-1235352,Aneta,Laboutkova,Aneta Laboutkova,Czech Republic,False,
-831936,Jenny,Duerst,Jenny Duerst,Switzerland,False,False
-1426026,Zeynep,Sonmez,Zeynep Sonmez,Turkey,False,False
-621306,Katarina,Jokic,Katarina Jokic,Serbia,False,
-1581930,Veronika,Erjavec,Veronika Erjavec,Slovenia,False,False
-671286,Stacey,Fung,Stacey Fung,Canada,False,False
-1731468,Akugue,Noha,Akugue Noha,Germany,False,
-2440668,Mirra,Andreeva,Mirra Andreeva,Russia,False,True
-360180,Noelia,Zeballos,Noelia Zeballos,Bolivia,False,False
-1469124,Lexie,Stevens,Lexie Stevens,Netherlands,False,
-2005650,Julia,Avdeeva,Julia Avdeeva,Russia,False,
-1704300,Julia,Middendorf,Julia Middendorf,Germany,False,False
-1368756,Auf,Meyer,Auf Meyer,Germany,,
-1919982,Marina,Stakusic,Marina Stakusic,Canada,False,False
-2210076,Cadence,Brace,Cadence Brace,Canada,False,False
-1944018,Matilde,Paoletti,Matilde Paoletti,Italy,False,False
-1882788,Ekaterina,Maklakova,Ekaterina Maklakova,Russia,False,
-1793490,Solana,Sierra,Solana Sierra,Argentina,False,False
-1178664,Kathleen,Kanev,Kathleen Kanev,Germany,False,
-1513950,Punnin,Kovapitukted,Punnin Kovapitukted,Thailand,False,False
-1510878,Valentina,Ryser,Valentina Ryser,Switzerland,False,
-2272128,Tatiana,Barkova,Tatiana Barkova,Russia,False,False
-2092284,Lola,Radivojevic,Lola Radivojevic,Serbia,False,False
-2318040,Victoria,Mboko,Victoria Mboko,Canada,False,False
-1848540,Talia,Gibson,Talia Gibson,Australia,False,False
-2092302,Mia,Ristic,Mia Ristic,Serbia,False,
-584502,Persson,Rinaldo,Persson Rinaldo,Sweden,,
-2036754,Sofia,Costoulas,Sofia Costoulas,Belgium,False,False
-1707378,Daria,Kudashova,Daria Kudashova,Russia,False,
-470610,Sowjanya,Bavisetti,Sowjanya Bavisetti,India,False,False
-1333110,Rina,Saigo,Rina Saigo,Japan,False,False
-1681224,Madison,Sieg,Madison Sieg,USA,False,
-1911456,Zhuoxuan,Bai,Zhuoxuan Bai,China,False,False
-2017302,Lucie,Havlickova,Lucie Havlickova,Czech Republic,False,False
-1704096,Sijia,Wei,Sijia Wei,China,False,False
-630390,Oana,Gavrila,Oana Gavrila,Romania,False,False
-1284066,Ilay,Yoruk,Ilay Yoruk,Turkey,False,
-369072,Pei,Lee,Pei Lee,Chinese Taipei,False,
-2247480,Celine,Naef,Celine Naef,Switzerland,False,
-1778364,Ikumi,Yamazaki,Ikumi Yamazaki,Japan,False,
-1402176,Julie,Belgraver,Julie Belgraver,France,False,False
-112398,Tamira,Paszek,Tamira Paszek,Austria,False,False
-2262402,Liv,Hovde,Liv Hovde,USA,False,False
-1204554,Tiphanie,Fiquet,Tiphanie Fiquet,France,False,
-1214880,Llorca,Cortez,Llorca Cortez,Spain,False,
-719256,Ines,Ibbou,Ines Ibbou,Algeria,False,False
-1539210,Francesca,Curmi,Francesca Curmi,Malta,False,False
-638058,Gabriela,Knutson,Gabriela Knutson,Czech Republic,False,
-2345928,Sahaja,Yamalapalli,Sahaja Yamalapalli,India,False,
-1415778,Eliz,Maloney,Eliz Maloney,United Kingdom,False,
-1930764,Amarni,Banks,Amarni Banks,United Kingdom,False,
-1011168,Emily,Appleton,Emily Appleton,United Kingdom,False,False
-1466550,Naho,Sato,Naho Sato,Japan,False,False
-955368,Sofia,Sewing,Sofia Sewing,USA,False,False
-1747632,Priska,Nugroho,Priska Nugroho,Indonesia,False,False
-596586,Petra,Hule,Petra Hule,Australia,False,False
-963192,Emily,Seibold,Emily Seibold,Germany,False,
-818244,Alana,Parnaby,Alana Parnaby,Australia,False,False
-1389594,Saki,Imamura,Saki Imamura,Japan,False,False
-1185366,Christina,Rosca,Christina Rosca,USA,False,False
-1405932,Mayuka,Aikawa,Mayuka Aikawa,Japan,False,
-1909554,Silvia,Ambrosio,Silvia Ambrosio,Germany,False,
-1932606,Lanlana,Tararudee,Lanlana Tararudee,Thailand,False,False
-1429662,Mananchaya,Sawangkaew,Mananchaya Sawangkaew,Thailand,False,False
-912648,Lisa,Zaar,Lisa Zaar,Sweden,False,
-2096118,Bagaric,Ciric,Bagaric Ciric,Croatia,False,
-1248378,Yasmine,Mansouri,Yasmine Mansouri,France,False,False
-1242402,Eri,Shimizu,Eri Shimizu,Japan,False,
-966240,Katarina,Kozarov,Katarina Kozarov,Serbia,False,False
-2303994,Johanne,Svendsen,Johanne Svendsen,Denmark,False,False
-1204590,Emma,Lene,Emma Lene,France,False,
-289980,Tamara,Curovic,Tamara Curovic,Serbia,False,False
-1291986,Manon,Leonard,Manon Leonard,France,False,
-1812054,Vaidehi,Chaudhari,Vaidehi Chaudhari,India,False,
-2377770,Alina,Korneeva,Alina Korneeva,Russia,False,False
-1823616,Ya,Yang,Ya Yang,Chinese Taipei,False,
-1735008,Nadine,Keller,Nadine Keller,Switzerland,False,
-1803366,Denislava,Glushkova,Denislava Glushkova,Bulgaria,False,
-1657872,Radka,Zelnickova,Radka Zelnickova,Slovakia,False,
-2231604,Ella,Seidel,Ella Seidel,Germany,False,False
-2233866,Julie,Struplova,Julie Struplova,Czech Republic,False,
-2371320,Zongyu,Li,Zongyu Li,China,False,
-2317314,Ksenia,Zaytseva,Ksenia Zaytseva,Russia,False,
-1705014,Mara,Guth,Mara Guth,Germany,False,False
-922500,Makenna,Jones,Makenna Jones,USA,False,False
-711168,Vivian,Wolff,Vivian Wolff,USA,False,
-1778136,Jasmijn,Gimbrere,Jasmijn Gimbrere,Netherlands,False,
-2206920,Polina,Iatcenko,Polina Iatcenko,Russia,False,
-1869642,Jenna,Defalco,Jenna Defalco,USA,False,
-1774056,Joelle,Steur,Joelle Steur,Germany,False,
-995208,Yuriko,Miyazaki,Yuriko Miyazaki,United Kingdom,False,False
-596502,Raveena,Kingsley,Raveena Kingsley,USA,False,
-1489986,Victoria,Hu,Victoria Hu,USA,False,
-1545234,Ilinca,Amariei,Ilinca Amariei,Romania,False,False
-1762260,Lois,Boisson,Lois Boisson,France,False,False
-1239714,Yulia,Starodubtsewa,Yulia Starodubtsewa,Ukraine,False,
-1769838,Natsumi,Kawaguchi,Natsumi Kawaguchi,Japan,False,False
-783780,Veronica,Miroshnichenko,Veronica Miroshnichenko,Russia,False,False
-1648494,Clara,Vlasselaer,Clara Vlasselaer,Belgium,False,
-988704,Federica,Bilardo,Federica Bilardo,Italy,False,False
-2303976,Hanne,Vandewinkel,Hanne Vandewinkel,Belgium,False,
-588642,Martha,Matoula,Martha Matoula,Greece,False,False
+,Name,Rank,Association,wealthy_parents,parent_on_wiki,FirstName,LastName
+a0e2,Carlos Alcaraz,1,ATP,False,False,Carlos,Alcaraz
+mm58,Daniil Medvedev,2,ATP,False,False,Daniil,Medvedev
+d643,Novak Djokovic,3,ATP,,False,Novak,Djokovic
+rh16,Casper Ruud,4,ATP,True,True,Casper,Ruud
+te51,Stefanos Tsitsipas,5,ATP,True,False,Stefanos,Tsitsipas
+r0dg,Holger Rune,6,ATP,False,False,Holger,Rune
+re44,Andrey Rublev,7,ATP,False,False,Andrey,Rublev
+s0ag,Jannik Sinner,8,ATP,False,False,Jannik,Sinner
+fb98,Taylor Fritz,9,ATP,True,False,Taylor,Fritz
+ag37,Felix Auger-Aliassime,10,ATP,True,False,Felix,Auger-Aliassime
+ke29,Karen Khachanov,11,ATP,False,False,Karen,Khachanov
+td51,Frances Tiafoe,12,ATP,False,False,Frances,Tiafoe
+hb71,Hubert Hurkacz,13,ATP,False,False,Hubert,Hurkacz
+n771,Cameron Norrie,14,ATP,False,False,Cameron,Norrie
+n409,Rafael Nadal,15,ATP,True,True,Rafael,Nadal
+cg80,Borna Coric,16,ATP,True,False,Borna,Coric
+pl56,Tommy Paul,17,ATP,False,False,Tommy,Paul
+m0ej,Lorenzo Musetti,18,ATP,False,False,Lorenzo,Musetti
+dh58,Alex de Minaur,19,ATP,False,,Alex,de Minaur
+bk40,Matteo Berrettini,20,ATP,,False,Matteo,Berrettini
+cd85,Pablo Carreno Busta,21,ATP,False,,Pablo,Carreno Busta
+c977,Marin Cilic,22,ATP,False,False,Marin,Cilic
+bd06,Roberto Bautista Agut,23,ATP,False,,Roberto,Bautista Agut
+e687,Daniel Evans,24,ATP,False,False,Daniel,Evans
+ke17,Nick Kyrgios,25,ATP,True,False,Nick,Kyrgios
+sl28,Jan-Lennard Struff,26,ATP,,False,Jan-Lennard,Struff
+z355,Alexander Zverev,27,ATP,True,False,Alexander,Zverev
+c0au,Francisco Cerundolo,28,ATP,False,True,Francisco,Cerundolo
+k0ah,Sebastian Korda,29,ATP,True,False,Sebastian,Korda
+v812,Botic van de Zandschulp,30,ATP,False,,Botic,van de Zandschulp
+su55,Denis Shapovalov,31,ATP,False,False,Denis,Shapovalov
+n732,Yoshihito Nishioka,32,ATP,False,False,Yoshihito,Nishioka
+d875,Grigor Dimitrov,33,ATP,True,False,Grigor,Dimitrov
+dh50,Alejandro Davidovich Fokina,34,ATP,False,,Alejandro,Davidovich Fokina
+s0s1,Ben Shelton,35,ATP,False,False,Ben,Shelton
+ki95,Miomir Kecmanovic,36,ATP,False,False,Miomir,Kecmanovic
+z419,Bernabe Zapata Miralles,37,ATP,False,,Bernabe,Zapata Miralles
+hh26,Ugo Humbert,38,ATP,False,False,Ugo,Humbert
+gj37,Tallon Griekspoor,39,ATP,False,True,Tallon,Griekspoor
+l0bv,Jiri Lehecka,40,ATP,False,False,Jiri,Lehecka
+mc10,Andy Murray,41,ATP,True,False,Andy,Murray
+c0bc,Maxime Cressy,42,ATP,False,False,Maxime,Cressy
+rh24,Emil Ruusuvuori,43,ATP,False,False,Emil,Ruusuvuori
+b0bi,Sebastian Baez,44,ATP,False,False,Sebastian,Baez
+su87,Lorenzo Sonego,45,ATP,False,False,Lorenzo,Sonego
+ea24,Tomas Martin Etcheverry,46,ATP,False,,Tomas,Martin Etcheverry
+me82,Adrian Mannarino,47,ATP,False,False,Adrian,Mannarino
+bk92,Alexander Bublik,48,ATP,False,False,Alexander,Bublik
+w09g,J.J. Wolf,49,ATP,False,False,J.J.,Wolf
+g628,Richard Gasquet,50,ATP,True,False,Richard,Gasquet
+l987,Dusan Lajovic,51,ATP,False,False,Dusan,Lajovic
+n0ae,Brandon Nakashima,52,ATP,False,False,Brandon,Nakashima
+y268,Mikael Ymer,53,ATP,False,True,Mikael,Ymer
+j551,Nicolas Jarry,54,ATP,True,False,Nicolas,Jarry
+bk24,Gregoire Barrere,55,ATP,False,False,Gregoire,Barrere
+mk66,Mackenzie McDonald,56,ATP,False,False,Mackenzie,McDonald
+db63,Laslo Djere,57,ATP,False,False,Laslo,Djere
+cf59,Roberto Carballes Baena,58,ATP,False,,Roberto,Carballes Baena
+wb32,Yibing Wu,59,ATP,False,False,Yibing,Wu
+d0co,Jack Draper,60,ATP,False,False,Jack,Draper
+mw02,Corentin Moutet,61,ATP,False,False,Corentin,Moutet
+kc56,Aslan Karatsev,62,ATP,False,False,Aslan,Karatsev
+cg04,Pedro Cachin,63,ATP,False,False,Pedro,Cachin
+h997,Yannick Hanfmann,64,ATP,False,False,Yannick,Hanfmann
+bm95,Benjamin Bonzi,65,ATP,False,False,Benjamin,Bonzi
+r772,Albert Ramos-Vinolas,66,ATP,False,False,Albert,Ramos-Vinolas
+ph71,Max Purcell,67,ATP,False,False,Max,Purcell
+kb95,Jason Kubler,68,ATP,False,False,Jason,Kubler
+lb66,Constant Lestienne,69,ATP,False,False,Constant,Lestienne
+z371,Zhizhen Zhang,70,ATP,False,False,Zhizhen,Zhang
+tc61,Jordan Thompson,71,ATP,False,False,Jordan,Thompson
+ae14,Daniel Altmaier,72,ATP,False,False,Daniel,Altmaier
+cf01,Marco Cecchinato,73,ATP,False,False,Marco,Cecchinato
+gc88,Marcos Giron,74,ATP,False,False,Marcos,Giron
+e865,Christopher Eubanks,75,ATP,False,False,Christopher,Eubanks
+bt72,Nuno Borges,76,ATP,False,False,Nuno,Borges
+mu94,Jaume Munar,77,ATP,False,False,Jaume,Munar
+rc91,Arthur Rinderknech,78,ATP,False,False,Arthur,Rinderknech
+v0dz,Luca Van Assche,79,ATP,False,,Luca,Van Assche
+f724,Marton Fucsovics,80,ATP,False,False,Marton,Fucsovics
+hh06,Marc-Andrea Huesler,81,ATP,False,False,Marc-Andrea,Huesler
+p09z,Alexei Popyrin,82,ATP,False,False,Alexei,Popyrin
+mv14,Alex Molcan,83,ATP,False,False,Alex,Molcan
+s0h2,Alexander Shevchenko,84,ATP,False,False,Alexander,Shevchenko
+o483,Christopher O'Connell,85,ATP,False,False,Christopher,O'Connell
+i305,Ilya Ivashka,86,ATP,False,False,Ilya,Ivashka
+hb64,Quentin Halys,87,ATP,False,False,Quentin,Halys
+w367,Stan Wawrinka,88,ATP,True,False,Stan,Wawrinka
+i186,John Isner,89,ATP,False,False,John,Isner
+ge33,Daniel Elahi Galan,90,ATP,False,,Daniel,Elahi Galan
+tb69,Dominic Thiem,91,ATP,True,False,Dominic,Thiem
+kb05,Filip Krajinovic,92,ATP,False,False,Filip,Krajinovic
+sm37,Diego Schwartzman,93,ATP,False,False,Diego,Schwartzman
+ce77,Federico Coria,94,ATP,False,True,Federico,Coria
+v832,Aleksandar Vukic,95,ATP,False,False,Aleksandar,Vukic
+mj08,Thiago Monteiro,96,ATP,True,False,Thiago,Monteiro
+v836,Juan Pablo Varillas,97,ATP,False,,Juan,Pablo Varillas
+sx50,Roman Safiullin,98,ATP,False,False,Roman,Safiullin
+b0cd,Jenson Brooksby,99,ATP,False,False,Jenson,Brooksby
+mp20,Alexandre Muller,100,ATP,False,False,Alexandre,Muller
+kf17,Soonwoo Kwon,101,ATP,False,False,Soonwoo,Kwon
+ke73,Dominik Koepfer,102,ATP,False,False,Dominik,Koepfer
+gh92,Borna Gojo,103,ATP,False,False,Borna,Gojo
+c0c8,Juan Manuel Cerundolo,104,ATP,False,,Juan,Manuel Cerundolo
+a0fc,Matteo Arnaldi,105,ATP,False,False,Matteo,Arnaldi
+gd64,Cristian Garin,106,ATP,False,False,Cristian,Garin
+kd46,Thanasi Kokkinakis,107,ATP,False,False,Thanasi,Kokkinakis
+g09o,Hugo Gaston,108,ATP,False,False,Hugo,Gaston
+d994,James Duckworth,109,ATP,False,False,James,Duckworth
+da81,Taro Daniel,110,ATP,False,False,Taro,Daniel
+a829,Radu Albot,111,ATP,False,False,Radu,Albot
+f0f1,Arthur Fils,112,ATP,False,False,Arthur,Fils
+gb88,David Goffin,113,ATP,False,False,David,Goffin
+k0az,Aleksandar Kovacevic,114,ATP,False,False,Aleksandar,Kovacevic
+m0ci,Fabian Marozsan,115,ATP,False,False,Fabian,Marozsan
+s0la,Dominic Stricker,116,ATP,False,False,Dominic,Stricker
+ga36,Emilio Gomez,117,ATP,False,False,Emilio,Gomez
+o513,Sebastian Ofner,118,ATP,False,False,Sebastian,Ofner
+v0am,Otto Virtanen,119,ATP,False,False,Otto,Virtanen
+o449,Oscar Otte,120,ATP,False,False,Oscar,Otte
+k09f,Pavel Kotov,121,ATP,False,False,Pavel,Kotov
+gf95,Hugo Grenier,122,ATP,False,False,Hugo,Grenier
+mp01,Michael Mmoh,123,ATP,True,True,Michael,Mmoh
+bf23,Facundo Bagnis,124,ATP,False,False,Facundo,Bagnis
+p09o,Zsombor Piros,125,ATP,False,False,Zsombor,Piros
+wb08,Yosuke Watanuki,126,ATP,False,False,Yosuke,Watanuki
+m0fh,Tomas Machac,127,ATP,False,False,Tomas,Machac
+p0ct,Francesco Passaro,128,ATP,False,False,Francesco,Passaro
+z0a1,Giulio Zeppieri,129,ATP,False,False,Giulio,Zeppieri
+f510,Fabio Fognini,130,ATP,False,False,Fabio,Fognini
+bu13,Zizou Bergs,131,ATP,False,False,Zizou,Bergs
+gb93,Norbert Gombos,132,ATP,False,False,Norbert,Gombos
+ki63,Lukas Klein,133,ATP,False,False,Lukas,Klein
+r09x,Jurij Rodionov,134,ATP,False,False,Jurij,Rodionov
+mo44,Pedro Martinez,135,ATP,False,False,Pedro,Martinez
+h0bh,Rinky Hijikata,136,ATP,False,False,Rinky,Hijikata
+d0cg,Facundo Diaz Acosta,137,ATP,False,,Facundo,Diaz Acosta
+bo10,Gijs Brouwer,138,ATP,False,False,Gijs,Brouwer
+kb09,Denis Kudla,139,ATP,False,False,Denis,Kudla
+bi23,Liam Broady,140,ATP,False,False,Liam,Broady
+bv24,Raul Brancaccio,141,ATP,False,True,Raul,Brancaccio
+m0jz,Filip Misolic,142,ATP,False,False,Filip,Misolic
+kc04,Jozef Kovalik,143,ATP,False,False,Jozef,Kovalik
+mn13,Maximilian Marterer,144,ATP,False,False,Maximilian,Marterer
+bs86,Tomas Barrios Vera,145,ATP,False,,Tomas,Barrios Vera
+d0f6,Gabriel Diallo,146,ATP,False,False,Gabriel,Diallo
+s0gr,Timofey Skatov,147,ATP,False,False,Timofey,Skatov
+va08,Andrea Vavassori,148,ATP,False,False,Andrea,Vavassori
+pd31,Benoit Paire,149,ATP,False,False,Benoit,Paire
+u182,Camilo Ugo Carabelli,150,ATP,False,,Camilo,Ugo Carabelli
+n0bg,Luca Nardi,151,ATP,False,False,Luca,Nardi
+te30,Alejandro Tabilo,152,ATP,False,False,Alejandro,Tabilo
+t0a1,Thiago Agustin Tirante,153,ATP,False,,Thiago,Agustin Tirante
+u120,Kaichi Uchida,154,ATP,False,False,Kaichi,Uchida
+y218,Elias Ymer,155,ATP,False,True,Elias,Ymer
+cg94,Enzo Couacaud,156,ATP,False,False,Enzo,Couacaud
+v942,Tim van Rijthoven,157,ATP,False,,Tim,van Rijthoven
+pd07,Vasek Pospisil,158,ATP,False,False,Vasek,Pospisil
+c0e9,Flavio Cobolli,159,ATP,False,False,Flavio,Cobolli
+da31,Hugo Dellien,160,ATP,False,True,Hugo,Dellien
+bu54,Geoffrey Blancaneaux,161,ATP,False,False,Geoffrey,Blancaneaux
+ki82,Vit Kopriva,162,ATP,False,False,Vit,Kopriva
+db59,Dennis Novak,163,ATP,False,False,Dennis,Novak
+bi47,Riccardo Bonadio,164,ATP,False,False,Riccardo,Bonadio
+mw75,Felipe Meligeni Alves,165,ATP,False,,Felipe,Meligeni Alves
+aa27,Franco Agamenone,166,ATP,False,False,Franco,Agamenone
+b0gg,Mattia Bellucci,167,ATP,False,False,Mattia,Bellucci
+m0jf,Hamad Medjedovic,168,ATP,False,False,Hamad,Medjedovic
+so20,Jelle Sels,169,ATP,False,False,Jelle,Sels
+cg33,Kimmer Coppejans,170,ATP,False,False,Kimmer,Coppejans
+kh56,Zdenek Kolar,171,ATP,False,False,Zdenek,Kolar
+sx91,Thiago Seyboth Wild,172,ATP,False,,Thiago,Seyboth Wild
+y09v,Bu Yunchaokete,173,ATP,False,False,Bu,Yunchaokete
+d923,Damir Dzumhur,174,ATP,False,False,Damir,Dzumhur
+ge28,Ivan Gakhov,175,ATP,,False,Ivan,Gakhov
+r0fs,Leandro Riedi,176,ATP,False,False,Leandro,Riedi
+ch12,Jan Choinski,177,ATP,False,False,Jan,Choinski
+sy67,Sho Shimabukuro,178,ATP,,False,Sho,Shimabukuro
+d0fj,Luciano Darderi,179,ATP,False,False,Luciano,Darderi
+h09p,Brandon Holt,180,ATP,True,False,Brandon,Holt
+j386,Steve Johnson,181,ATP,True,False,Steve,Johnson
+w857,Tung-Lin Wu,182,ATP,False,,Tung-Lin,Wu
+ph64,Andrea Pellegrino,183,ATP,False,False,Andrea,Pellegrino
+hc21,Seong-chan Hong,184,ATP,False,False,Seong-chan,Hong
+k0dp,Oleksii Krutykh,185,ATP,False,False,Oleksii,Krutykh
+h09f,Yu Hsiou Hsu,186,ATP,False,,Yu,Hsiou Hsu
+mw18,Nicolas Moreno De Alboran,187,ATP,False,,Nicolas,Moreno De Alboran
+n663,Maximilian Neuchrist,188,ATP,False,False,Maximilian,Neuchrist
+da86,Joris De Loore,189,ATP,False,,Joris,De Loore
+rc04,Alexander Ritschard,190,ATP,False,False,Alexander,Ritschard
+ph78,Ryan Peniston,191,ATP,False,False,Ryan,Peniston
+cc66,Andrea Collarini,192,ATP,False,False,Andrea,Collarini
+c0h0,Arthur Cazaux,193,ATP,False,False,Arthur,Cazaux
+pg94,Marc Polmans,194,ATP,False,False,Marc,Polmans
+d0c1,Jesper de Jong,195,ATP,False,,Jesper,de Jong
+i0a7,Nicholas David Ionel,196,ATP,False,,Nicholas,David Ionel
+kc29,Nicolas Kicker,197,ATP,False,False,Nicolas,Kicker
+lc12,Laurent Lokoli,198,ATP,False,True,Laurent,Lokoli
+m0g4,Harold Mayot,199,ATP,False,False,Harold,Mayot
+s0re,Juncheng  Shang,200,ATP,False,,Juncheng, Shang
+326408,Iga Swiatek,1,,False,False,Iga,Swiatek
+320760,Aryna Sabalenka,2,,False,False,Aryna,Sabalenka
+316956,Jessica Pegula,3,,True,True,Jessica,Pegula
+324166,Elena Rybakina,4,,False,False,Elena,Rybakina
+315391,Caroline Garcia,5,,True,False,Caroline,Garcia
+328560,Coco Gauff,6,,True,False,Coco,Gauff
+316847,Ons Jabeur,7,,False,False,Ons,Jabeur
+318312,Maria Sakkari,8,,False,False,Maria,Sakkari
+322082,Daria Kasatkina,9,,False,False,Daria,Kasatkina
+314206,Petra Kvitova,10,,False,False,Petra,Kvitova
+319526,Veronika Kudermetova,11,,False,True,Veronika,Kudermetova
+319001,Belinda Bencic,12,,True,False,Belinda,Bencic
+318314,Barbora Krejcikova,13,,False,False,Barbora,Krejcikova
+318176,Beatriz Haddad Maia,14,,False,,Beatriz,Haddad Maia
+322222,Liudmila Samsonova,15,,False,False,Liudmila,Samsonova
+313974,Karolina Pliskova,16,,True,False,Karolina,Pliskova
+319939,Jelena Ostapenko,17,,True,False,Jelena,Ostapenko
+312001,Victoria Azarenka,18,,False,False,Victoria,Azarenka
+328120,Qinwen Zheng,19,,False,False,Qinwen,Zheng
+316959,Madison Keys,20,,True,False,Madison,Keys
+315130,Magda Linette,21,,False,False,Magda,Linette
+318516,Donna Vekic,22,,True,False,Donna,Vekic
+319007,Ekaterina Alexandrova,23,,False,False,Ekaterina,Alexandrova
+325601,Anastasia Potapova,24,,False,False,Anastasia,Potapova
+320567,Anhelina Kalinina,25,,False,False,Anhelina,Kalinina
+316266,Martina Trevisan,26,,False,True,Martina,Trevisan
+313169,Irina-Camelia Begu,27,,False,False,Irina-Camelia,Begu
+317964,Elise Mertens,28,,False,False,Elise,Mertens
+320124,Paula Badosa,29,,False,False,Paula,Badosa
+311779,Shuai Zhang,30,,False,False,Shuai,Zhang
+312469,Sorana Cirstea,31,,,False,Sorana,Cirstea
+320983,Marie Bouzkova,32,,False,False,Marie,Bouzkova
+317421,Shelby Rogers,33,,False,False,Shelby,Rogers
+314320,Simona Halep,34,,False,False,Simona,Halep
+315683,Sloane Stephens,35,,True,False,Sloane,Stephens
+314610,Camila Giorgi,36,,False,False,Camila,Giorgi
+313711,Petra Martic,37,,,False,Petra,Martic
+317708,Bernarda Pera,38,,False,False,Bernarda,Pera
+326482,Marta Kostyuk,39,,False,False,Marta,Kostyuk
+317306,Lin Zhu,40,,False,False,Lin,Zhu
+325088,Bianca Andreescu,41,,False,False,Bianca,Andreescu
+322191,Karolina Muchova,42,,False,False,Karolina,Muchova
+327909,Elisabetta Cocciaretto,43,,False,False,Elisabetta,Cocciaretto
+325836,Varvara Gracheva,44,,False,False,Varvara,Gracheva
+316925,Danielle Collins,45,,False,False,Danielle,Collins
+315232,Ajla Tomljanovic,46,,False,False,Ajla,Tomljanovic
+320301,Katerina Siniakova,47,,False,False,Katerina,Siniakova
+329668,Linda Noskova,48,,False,False,Linda,Noskova
+326007,Alycia Parks,49,,False,False,Alycia,Parks
+317790,Aliaksandra Sasnovich,50,,False,False,Aliaksandra,Sasnovich
+326735,Leylah Fernandez,51,,False,False,Leylah,Fernandez
+319280,Jasmine Paolini,52,,False,False,Jasmine,Paolini
+323942,Anna Kalinskaya,53,,False,False,Anna,Kalinskaya
+325725,Caty Mcnally,54,,False,,Caty,Mcnally
+318711,Mayar Sherif,55,,False,False,Mayar,Sherif
+329627,Linda Fruhvirtova,56,,False,False,Linda,Fruhvirtova
+323027,Marketa Vondrousova,57,,False,False,Marketa,Vondrousova
+317414,Lauren Davis,58,,False,True,Lauren,Davis
+312121,Alizé Cornet,59,,False,False,Alizé,Cornet
+315427,Ana Bogdan,60,,False,False,Ana,Bogdan
+317683,Yulia Putintseva,61,,False,False,Yulia,Putintseva
+326160,Xiyu Wang,62,,False,False,Xiyu,Wang
+315295,Lesia Tsurenko,63,,False,False,Lesia,Tsurenko
+310440,Tatjana Maria,64,,True,False,Tatjana,Maria
+317684,Danka Kovinic,65,,False,False,Danka,Kovinic
+324267,Anna Blinkova,66,,False,False,Anna,Blinkova
+321158,Cristina Bucsa,67,,False,False,Cristina,Bucsa
+322087,Rebeka Masarova,68,,False,False,Rebeka,Masarova
+327573,Peyton Stearns,69,,False,False,Peyton,Stearns
+310761,Sara Errani,70,,False,False,Sara,Errani
+317584,Viktoriya Tomova,71,,False,False,Viktoriya,Tomova
+325940,Jule Niemeier,72,,False,False,Jule,Niemeier
+318425,Anett Kontaveit,73,,False,False,Anett,Kontaveit
+320316,Julia Grabher,74,,False,False,Julia,Grabher
+320926,Jil Teichmann,75,,True,False,Jil,Teichmann
+110536,Kaia Kanepi,76,,False,False,Kaia,Kanepi
+327077,Diane Parry,77,,False,False,Diane,Parry
+326376,Xinyu Wang,78,,False,False,Xinyu,Wang
+313485,Rebecca Marino,79,,False,False,Rebecca,Marino
+316739,Kateryna Baindl,80,,True,False,Kateryna,Baindl
+317317,Ysaline Bonaventure,81,,False,False,Ysaline,Bonaventure
+325410,Emma Navarro,82,,False,True,Emma,Navarro
+312850,Alison Riske-Amritraj,83,,False,False,Alison,Riske-Amritraj
+325898,Camila Osorio,84,,False,False,Camila,Osorio
+325936,Kamilla Rakhimova,85,,False,False,Kamilla,Rakhimova
+317771,Rebecca Peterson,86,,False,False,Rebecca,Peterson
+320277,Magdalena Frech,87,,False,False,Magdalena,Frech
+317094,Maryna Zanevska,88,,False,False,Maryna,Zanevska
+326384,Amanda Anisimova,89,,True,False,Amanda,Anisimova
+327391,Katie Volynets,90,,False,False,Katie,Volynets
+318060,Tereza Martincova,91,,False,False,Tereza,Martincova
+319091,Anna-Lena Friedsam,92,,False,False,Anna-Lena,Friedsam
+314359,Nuria Parrizas Diaz,93,,False,,Nuria,Parrizas Diaz
+312328,Madison Brengle,94,,False,False,Madison,Brengle
+325956,Panna Udvardy,95,,False,False,Panna,Udvardy
+321106,Dalma Galfi,96,,False,False,Dalma,Galfi
+317819,Alison Van Uytvanck,97,,False,,Alison,Van Uytvanck
+318203,Anna Karolina Schmiedlova,98,,False,,Anna,Karolina Schmiedlova
+322052,Caroline Dolehide,99,,False,False,Caroline,Dolehide
+323966,Claire Liu,100,,False,False,Claire,Liu
+319112,Nadia Podoroska,101,,False,False,Nadia,Podoroska
+322280,Lucia Bronzetti,102,,False,False,Lucia,Bronzetti
+322942,Anna Bondar,103,,False,False,Anna,Bondar
+324934,Olga Danilovic,104,,False,True,Olga,Danilovic
+323149,Lucrezia Stefanini,105,,False,False,Lucrezia,Stefanini
+328366,Emma Raducanu,106,,True,False,Emma,Raducanu
+330482,Diana Shnaider,107,,True,False,Diana,Shnaider
+318609,Taylor Townsend,108,,True,False,Taylor,Townsend
+323802,Jodie Burrage,109,,False,False,Jodie,Burrage
+323079,Tamara Zidansek,110,,False,False,Tamara,Zidansek
+320728,Kimberly Birrell,111,,False,False,Kimberly,Birrell
+320238,Nao Hibino,112,,False,False,Nao,Hibino
+313349,Arantxa Rus,113,,False,False,Arantxa,Rus
+310926,Laura Siegemund,114,,False,False,Laura,Siegemund
+324325,Yue Yuan,115,,False,False,Yue,Yuan
+317065,Su Jeong Jang,116,,False,,Su,Jeong Jang
+319571,Tamara Korpatsch,117,,False,False,Tamara,Korpatsch
+326379,Elizabeth Mandlik,118,,True,False,Elizabeth,Mandlik
+321454,Greet Minnen,119,,False,False,Greet,Minnen
+320942,Sofia Kenin,120,,True,False,Sofia,Kenin
+319436,Oceane Dodin,121,,False,False,Oceane,Dodin
+325320,Clara Burel,122,,False,False,Clara,Burel
+319421,Jessika Ponchet,123,,False,False,Jessika,Ponchet
+319125,Katie Boulter,124,,,False,Katie,Boulter
+316296,Viktorija Golubic,125,,False,False,Viktorija,Golubic
+327793,Clara Tauson,126,,False,True,Clara,Tauson
+325771,Simona Waltert,127,,False,False,Simona,Waltert
+320319,Jaqueline  Cristian,128,,False,,Jaqueline, Cristian
+320313,Leolia Jeanjean,129,,False,False,Leolia,Jeanjean
+324128,Marina Bassols Ribera,130,,False,,Marina,Bassols Ribera
+320735,Aliona Bolsova,131,,False,False,Aliona,Bolsova
+318872,Sara Sorribes Tormo,132,,False,,Sara,Sorribes Tormo
+316344,Aleksandra Krunic,133,,False,False,Aleksandra,Krunic
+327620,Elina Avanesyan,134,,False,False,Elina,Avanesyan
+319489,Harriet Dart,135,,False,False,Harriet,Dart
+322277,Viktoria Hruncakova,136,,False,False,Viktoria,Hruncakova
+315997,Daria Saville,137,,False,True,Daria,Saville
+322534,Kayla Day,138,,False,False,Kayla,Day
+317155,Laura Pigossi,139,,False,False,Laura,Pigossi
+312536,Yanina Wickmayer,140,,False,False,Yanina,Wickmayer
+322214,Katherine Sebov,141,,False,False,Katherine,Sebov
+328897,Polina Kudermetova,142,,False,True,Polina,Kudermetova
+331809,Mirra Andreeva,143,,False,True,Mirra,Andreeva
+324261,Dayana Yastremska,144,,False,False,Dayana,Yastremska
+327241,Moyuka Uchijima,145,,False,False,Moyuka,Uchijima
+331545,Brenda Fruhvirtova,146,,False,False,Brenda,Fruhvirtova
+330151,Erika Andreeva,147,,False,True,Erika,Andreeva
+321397,Ylena In-Albon,148,,False,False,Ylena,In-Albon
+322638,Maria Carle,149,,False,False,Maria,Carle
+322822,Jaimee Fourlis,150,,False,False,Jaimee,Fourlis
+327061,Sinja Kraus,151,,False,False,Sinja,Kraus
+320543,Priscilla Hon,152,,False,False,Priscilla,Hon
+326653,Olivia Gadecki,153,,False,False,Olivia,Gadecki
+316606,Reka Luca Jani,154,,False,,Reka,Luca Jani
+325826,Eva Lys,155,,False,False,Eva,Lys
+320408,Elena-Gabriela Ruse,156,,False,False,Elena-Gabriela,Ruse
+316009,Despina Papamichail,157,,False,False,Despina,Papamichail
+330236,Tara Wurth,158,,False,False,Tara,Wurth
+323007,Mirjam Bjorklund,159,,False,False,Mirjam,Bjorklund
+326891,Leyre Romero Gormaz,160,,False,,Leyre,Romero Gormaz
+323145,Katie Swan,161,,False,False,Katie,Swan
+329409,Ashlyn Krueger,162,,False,False,Ashlyn,Krueger
+327845,Daria Snigur,163,,False,False,Daria,Snigur
+314464,Coco Vandeweghe,164,,True,True,Coco,Vandeweghe
+315616,Kristina Mladenovic,165,,True,False,Kristina,Mladenovic
+329408,Robin Montgomery,166,,False,False,Robin,Montgomery
+316239,Garbiñe Muguruza,167,,True,False,Garbiñe,Muguruza
+326568,Himeno Sakatsume,168,,False,False,Himeno,Sakatsume
+317443,Sachia Vickery,169,,True,False,Sachia,Vickery
+315159,Na-Lae Han,170,,False,False,Na-Lae,Han
+329199,Oksana Selekhmeteva,171,,False,False,Oksana,Selekhmeteva
+320682,Ana Konjuh,172,,False,False,Ana,Konjuh
+328139,Jessica Bouzas Maneiro,173,,False,,Jessica,Bouzas Maneiro
+325433,Nuria Brancaccio,174,,False,True,Nuria,Brancaccio
+328142,Elsa Jacquemot,175,,False,False,Elsa,Jacquemot
+316664,Nigina Abduraimova,176,,False,False,Nigina,Abduraimova
+317805,Carol Zhao,177,,False,False,Carol,Zhao
+316981,Heather Watson,178,,False,False,Heather,Watson
+327367,Anastasia Zakharova,179,,False,False,Anastasia,Zakharova
+330375,Sara Bejlek,180,,False,False,Sara,Bejlek
+318839,Chloe Paquet,181,,False,False,Chloe,Paquet
+316464,Emina Bektas,182,,False,False,Emina,Bektas
+330352,Victoria Jimenez Kasintseva,183,,False,,Victoria,Jimenez Kasintseva
+315083,Paula Ormaechea,184,,False,False,Paula,Ormaechea
+316607,Marcela Zacarias,185,,False,False,Marcela,Zacarias
+319250,Valentini Grammatikopoulou,186,,False,False,Valentini,Grammatikopoulou
+326096,Ann Li,187,,False,False,Ann,Li
+329090,Selena Janicijevic,188,,False,False,Selena,Janicijevic
+324750,Mai Hontama,189,,False,False,Mai,Hontama
+324056,Alice Robbe,190,,False,False,Alice,Robbe
+321280,Raluka Serban,191,,False,,Raluka,Serban
+318352,Irina Bara,192,,False,False,Irina,Bara
+329115,Katrina Scott,193,,False,False,Katrina,Scott
+320501,Magali Kempen,194,,False,False,Magali,Kempen
+327287,Julia Riera,195,,False,False,Julia,Riera
+330581,Celine Naef,196,,False,,Celine,Naef
+325991,Carole Monnet,197,,False,False,Carole,Monnet
+323582,Fernanda Contreras,198,,False,False,Fernanda,Contreras
+329457,Darja Semenistaja,199,,False,False,Darja,Semenistaja
+328578,Darya Astakhova,200,,False,False,Darya,Astakhova
