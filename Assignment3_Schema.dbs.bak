@@ -28,17 +28,23 @@
 			<column name="CourtID" type="INT" jt="4" mandatory="y" />
 			<column name="SurfaceID" type="INT" jt="4" mandatory="y" />
 			<column name="RoundID" type="INT" jt="4" mandatory="y" />
+			<column name="PlayerID" type="INT" jt="4" mandatory="y" />
 			<column name="BestOf" type="INT" jt="4" />
 			<column name="WinLoseName" type="VARCHAR" length="100" jt="12" />
 			<column name="WLRank" type="INT" jt="4" />
 			<column name="Comment" type="VARCHAR" length="100" jt="12" />
+			<column name="AvgWL" type="INT" jt="4" />
 			<column name="WLsets" type="INT" jt="4" />
 			<column name="Wpts" type="INT" jt="4" />
+			<column name="win" type="BOOLEAN" jt="-7" />
 			<index name="pk_Matches" unique="PRIMARY_KEY" >
 				<column name="MatchID" />
 			</index>
 			<index name="unq_LocationID" unique="UNIQUE_INDEX" >
 				<column name="LocationID" />
+			</index>
+			<index name="unq_PlayerID" unique="UNIQUE_INDEX" >
+				<column name="PlayerID" />
 			</index>
 			<index name="unq_SurfaceID" unique="UNIQUE_INDEX" >
 				<column name="SurfaceID" />
@@ -63,8 +69,6 @@
 			<column name="PlayerMatchID" type="INT" jt="4" mandatory="y" />
 			<column name="PlayerID" type="INT" jt="4" mandatory="y" />
 			<column name="MatchID" type="INT" jt="4" mandatory="y" />
-			<column name="win" prior="wins" type="BOOLEAN" jt="-7" />
-			<column name="AvgWL" type="DECIMAL" jt="3" />
 			<index name="pk_PlayerMatches" unique="PRIMARY_KEY" >
 				<column name="PlayerMatchID" />
 				<column name="MatchID" />
