@@ -7,7 +7,7 @@
 			<index name="pk_Court" unique="PRIMARY_KEY" >
 				<column name="CourtID" />
 			</index>
-			<fk name="fk_Court_Matches" to_schema="158739Assignment3.INSTANCE" to_table="Matches" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+			<fk name="fk_Court_Matches" to_schema="158739Assignment3.INSTANCE" to_table="Matches" type="Identifying" mandatory="y" cardinality="One" range_from="0" range_to="0" >
 				<fk_column name="CourtID" pk="CourtID" />
 			</fk>
 		</table>
@@ -61,6 +61,21 @@
 			<fk name="fk_Matches_Tournament" to_schema="158739Assignment3.INSTANCE" to_table="Tournament" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
 				<fk_column name="TournamentID" pk="TournamentID" />
 			</fk>
+			<fk name="fk_Matches_PlayerMatches" to_schema="158739Assignment3.INSTANCE" to_table="PlayerMatches" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+				<fk_column name="MatchID" pk="PlayerID" />
+			</fk>
+		</table>
+		<table name="PlayerMatches" prior="Entity" >
+			<column name="PlayerMatchID" type="INT" jt="4" mandatory="y" />
+			<column name="PlayerID" type="INT" jt="4" mandatory="y" />
+			<column name="MatchID" type="INT" jt="4" mandatory="y" />
+			<index name="pk_PlayerMatches" unique="PRIMARY_KEY" >
+				<column name="PlayerMatchID" />
+				<column name="MatchID" />
+			</index>
+			<index name="unq_PlayerID" unique="UNIQUE_INDEX" >
+				<column name="PlayerID" />
+			</index>
 		</table>
 		<table name="Players" prior="Entity" >
 			<column name="PlayerID" type="INT" length="5" jt="4" mandatory="y" />
@@ -73,7 +88,7 @@
 			<index name="pk_Players" unique="PRIMARY_KEY" >
 				<column name="PlayerID" />
 			</index>
-			<fk name="fk_Players_Matches" to_schema="158739Assignment3.INSTANCE" to_table="Matches" type="ManyToMany" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
+			<fk name="fk_Players_PlayerMatches" to_schema="158739Assignment3.INSTANCE" to_table="PlayerMatches" type="Identifying" mandatory="y" cardinality="ZeroMore" range_from="0" range_to="0" >
 				<fk_column name="PlayerID" pk="PlayerID" />
 			</fk>
 		</table>
@@ -120,13 +135,14 @@
 		</table>
 	</schema>
 	<layout name="Default Layout" id="Layout-d7d" show_relation="columns" >
-		<entity schema="158739Assignment3.INSTANCE" name="Court" color="C1D8EE" x="48" y="272" />
-		<entity schema="158739Assignment3.INSTANCE" name="Location" color="C1D8EE" x="48" y="48" />
-		<entity schema="158739Assignment3.INSTANCE" name="Matches" color="3986C1" x="368" y="112" />
-		<entity schema="158739Assignment3.INSTANCE" name="Players" color="C1D8EE" x="624" y="272" />
-		<entity schema="158739Assignment3.INSTANCE" name="Ranking" color="C1D8EE" x="896" y="272" />
-		<entity schema="158739Assignment3.INSTANCE" name="Rounds" color="C1D8EE" x="624" y="176" />
-		<entity schema="158739Assignment3.INSTANCE" name="Surface" color="C1D8EE" x="624" y="80" />
+		<entity schema="158739Assignment3.INSTANCE" name="Court" color="C1D8EE" x="64" y="272" />
+		<entity schema="158739Assignment3.INSTANCE" name="Location" color="C1D8EE" x="64" y="48" />
+		<entity schema="158739Assignment3.INSTANCE" name="Matches" color="3986C1" x="304" y="48" />
+		<entity schema="158739Assignment3.INSTANCE" name="PlayerMatches" color="C1D8EE" x="560" y="240" />
+		<entity schema="158739Assignment3.INSTANCE" name="Players" color="C1D8EE" x="800" y="240" />
+		<entity schema="158739Assignment3.INSTANCE" name="Ranking" color="C1D8EE" x="560" y="352" />
+		<entity schema="158739Assignment3.INSTANCE" name="Rounds" color="C1D8EE" x="560" y="144" />
+		<entity schema="158739Assignment3.INSTANCE" name="Surface" color="C1D8EE" x="560" y="48" />
 		<entity schema="158739Assignment3.INSTANCE" name="Tournament" color="C1D8EE" x="48" y="144" />
 	</layout>
 </project>
