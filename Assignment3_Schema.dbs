@@ -92,18 +92,6 @@
 				<fk_column name="PlayerID" pk="PlayerID" />
 			</fk>
 		</table>
-		<table name="Ranking" prior="Rankings" >
-			<column name="RankingID" type="INT" jt="4" mandatory="y" />
-			<column name="PlayerID" type="INT" jt="4" mandatory="y" />
-			<column name="Ranking" type="INT" jt="4" />
-			<column name="Points" type="INT" jt="4" />
-			<index name="pk" unique="PRIMARY_KEY" >
-				<column name="PlayerID" />
-			</index>
-			<fk name="fk_Ranking_Players" to_schema="158739Assignment3.INSTANCE" to_table="Players" type="Identifying" mandatory="y" cardinality="One" range_from="0" range_to="0" >
-				<fk_column name="PlayerID" pk="PlayerID" />
-			</fk>
-		</table>
 		<table name="Rounds" prior="Entity" >
 			<column name="RoundID" type="INT" length="5" jt="4" mandatory="y" />
 			<column name="RoundName" type="VARCHAR" length="100" jt="12" />
@@ -139,8 +127,7 @@
 		<entity schema="158739Assignment3.INSTANCE" name="Location" color="C1D8EE" x="64" y="48" />
 		<entity schema="158739Assignment3.INSTANCE" name="Matches" color="3986C1" x="304" y="48" />
 		<entity schema="158739Assignment3.INSTANCE" name="PlayerMatches" color="C1D8EE" x="560" y="240" />
-		<entity schema="158739Assignment3.INSTANCE" name="Players" color="C1D8EE" x="800" y="240" />
-		<entity schema="158739Assignment3.INSTANCE" name="Ranking" color="C1D8EE" x="560" y="352" />
+		<entity schema="158739Assignment3.INSTANCE" name="Players" color="C1D8EE" x="768" y="176" />
 		<entity schema="158739Assignment3.INSTANCE" name="Rounds" color="C1D8EE" x="560" y="144" />
 		<entity schema="158739Assignment3.INSTANCE" name="Surface" color="C1D8EE" x="560" y="48" />
 		<entity schema="158739Assignment3.INSTANCE" name="Tournament" color="C1D8EE" x="48" y="144" />
